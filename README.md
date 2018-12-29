@@ -17,7 +17,7 @@ most of the necessary skills can be taught with a relatively gentle learning cur
 If any of those areas pique your interest, we're looking for you.
 You are especially encouraged to apply if any of these are true of you:
 - You enjoy working with the Linux Command Line
-- You find building and optimizing computers interesting
+- You want to participate in building and optimizing a supercomputer
 - You'd like to execute code on the fastest computers in the world
 - Belonging to an inclusive technology focused community on campus appeals to you.
 
