@@ -40,4 +40,4 @@ While any students are eligible to join the Student Cluster Club, participants i
 
 ### Contact Information
 
-If you'd like to know more and potentially join our club, please reach out to Nigel at pbrown@ucsd.edu
+If you'd like to know more and potentially join our club, please reach out to Nigel at <pbrown@ucsd.edu>
