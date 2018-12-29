@@ -18,5 +18,7 @@ If any of those areas pique your interest, we're looking for you.
 You are especially encouraged to apply if any of these are true of you:
 - You enjoy working with the Linux Command Line
 - You find building and optimizing computers interesting
-- You'd like to execute code on the fastest computers in the world.
-- Belonging to an inclusive technology focused community on campus is appealing. 
+- You'd like to execute code on the fastest computers in the world
+- Belonging to an inclusive technology focused community on campus is appealing
+
+We'd love your help getting this club off the ground. It won't be the same without you.
