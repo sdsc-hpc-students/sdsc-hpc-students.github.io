@@ -10,7 +10,7 @@ Secondarily, we aim to build a team of students to compete in Student Cluster Co
 
 ### Who do we seek?
 
-Supercomputing has applications to many domains including efficient computation, xparallel computing, cloud computing,
+Supercomputing has applications to many domains including efficient computation, parallel computing, cloud computing,
 modeling, data science, deep learning, and applied mathematics.
 It is our firm belief that the most important quality of prospective members is motivation;
 most of the necessary skills can be taught with a relatively gentle learning curve.
