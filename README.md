@@ -24,7 +24,7 @@ You are especially encouraged to apply if any of these are true of you:
 We'd love your help getting this club off the ground. 
 It won't be the same without you.
 
-## More on the Student Cluster Competition
+### More on the Student Cluster Competition
 
 From [sc19.org](https://sc19.supercomputing.org/program/studentssc/student-cluster-competition/):
 > "The Student Cluster Competition (SCC) was developed in 2007 to provide an immersive high performance computing experience to undergraduate and high school students. 
@@ -37,3 +37,7 @@ One of the students starting this club participated in the sc18 Student Cluster 
 They are eager to help another team do the same this Fall in Denver, Colorado.
 
 While any students are eligible to join the Student Cluster Club, participants in the competition are restricted to students enrolled at an educational institution that have NOT been granted an undergraduate degree when the event starts.
+
+### Contact Information
+
+If you'd like to know more and potentially join our club, please reach out to Nigel at pbrown@ucsd.edu
