@@ -1,6 +1,6 @@
 ### Who are we?
 
-The Student Cluster Club is a planned collaboration between San Diego Supercomputer Center and University of California, 
+The Student Cluster Club is a planned collaboration between San Diego Supercomputer Center and the University of California, 
 San Diego.
 
 ### What is our goal?
@@ -32,3 +32,6 @@ From [sc19.org](https://sc19.supercomputing.org/program/studentssc/student-clust
 > learn scientific applications, apply optimization techniques for their chosen architectures, and compete in a non-stop, 
 > 48-hour challenge at the SC conference to complete a real-world scientific workload, 
 > showing off their HPC knowledge for conference attendees and judges."
+
+One of the students starting this club participated in the sc18 Student Cluster Competition at their community college.
+They are eager to help another team do the same this fall in Denver, Colorado.
