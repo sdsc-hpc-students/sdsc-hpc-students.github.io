@@ -1,6 +1,6 @@
 ### Who are we?
 
-The Student Cluster Club is a planned collaboration between San Diego Supercomputer Center and the University of California, 
+The Student High Performance Computing (HPC) Club is a planned collaboration between San Diego Supercomputer Center and the University of California, 
 San Diego.
 
 ### What is our goal?
