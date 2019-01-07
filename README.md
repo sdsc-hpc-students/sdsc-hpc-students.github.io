@@ -35,7 +35,7 @@ You're invited to come see the supercomputers, learn more about the club we're s
 
 Please fill out the form in the link to RSVP and tell us a bit about yourself.
 
-(Interest Form and RSVP)[https://docs.google.com/forms/d/1RkUkzLwf310_l9zNPaoSgoFu9F0YUI24Sbt6ysomepg]
+[Interest Form and RSVP](https://docs.google.com/forms/d/1RkUkzLwf310_l9zNPaoSgoFu9F0YUI24Sbt6ysomepg)
 
 ### More on the Student Cluster Competition
 
