@@ -33,7 +33,9 @@ It won't be the same without you.
 We're having an info session at San Diego Supercomputer Center on January 18th
 You're invited to come see the supercomputers, learn more about the club we're starting, and get some free food.
 
-Please fill out the form in the link to RSVP and tell us a bit about yourself. 
+Please fill out the form in the link to RSVP and tell us a bit about yourself.
+
+(Interest Form and RSVP)[https://docs.google.com/forms/d/1RkUkzLwf310_l9zNPaoSgoFu9F0YUI24Sbt6ysomepg]
 
 ### More on the Student Cluster Competition
 
