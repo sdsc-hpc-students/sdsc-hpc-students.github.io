@@ -44,11 +44,11 @@ From [sc19.org](https://sc19.supercomputing.org/program/studentssc/student-clust
 > 48-hour challenge at the SC conference to complete a real-world scientific workload, 
 > showing off their HPC knowledge for conference attendees and judges."
 
-One of the students starting this club participated in the sc18 Student Cluster Competition with their community college.
-They are eager to help another team do the same this Fall in Denver, Colorado. 
+One of the students starting this club participated in the sc18 Student Cluster Competition with their community college. 
 Additionally, a staff member at San Diego Supercomputer Center participated twice previously with a team from San Diego State University.
+They are both eager to help another team do the same this Fall in Denver, Colorado.
 
-While any students are eligible to join the Student Cluster Club, participants in the competition are restricted to students enrolled at an educational institution that have NOT been granted an undergraduate degree when the event starts.
+While any students are eligible to join the Student HPC group, participants in the competition are restricted to students enrolled at an educational institution that have NOT been granted an undergraduate degree when the event starts.
 
 ### Contact Information
 
