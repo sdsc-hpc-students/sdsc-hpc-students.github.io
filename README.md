@@ -11,7 +11,7 @@ Physics, Biology, and Data and Environmental Sciences.
 Along the way, the group will learn concepts common in HPC including optimization, distributed computing, cloud computing, containers, GPU acceleration, and parallel code at scale.
 
 Secondarily, we aim to build a team of students to compete in Student Cluster Competitions around the world.
-Last year's US competition challenged students to build, run, and optimize applications that included Deep Learning,
+Last year's US competition, held at the annual supercomputing [SC'18](https://sc18.supercomputing.org) meeting in Dallas, challenged students to build, run, and optimize applications that included Deep Learning,
 Monte Carlo approximations, weather forcasting, and earthquake simulation.
 
 ### Who do we seek?
@@ -48,7 +48,7 @@ From [sc19.org](https://sc19.supercomputing.org/program/studentssc/student-clust
 
 One of the students starting this club participated in the sc18 Student Cluster Competition with their community college. 
 Additionally, a staff member at San Diego Supercomputer Center participated twice previously with a team from San Diego State University.
-They are both eager to help another team do the same this Fall in Denver, Colorado.
+They are both eager to help another team do the same this Fall at [SC'19](https://sc19.supercomputing.org) in Denver, Colorado.
 
 While any students are eligible to join the Student HPC group, participants in the competition are restricted to students enrolled at an educational institution that have NOT been granted an undergraduate degree when the event starts.
 
