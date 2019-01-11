@@ -1,11 +1,11 @@
 ### Who are we?
 
-The Student High Performance Computing Club is a planned collaboration between San Diego Supercomputer Center
+The Student High Performance Computing Group is a planned collaboration between San Diego Supercomputer Center
 and University of California, San Diego.
 
 ### What is our goal?
 
-This club exists to provide exposure to Supercomputers and High Performance Computing to interested students.
+This group exists to provide exposure to Supercomputers and High Performance Computing to interested students.
 The field of High Performance Computing (HPC) spans many domains outside in Scientific Computing including Applied Math,
 Physics, Biology, and Data and Environmental Sciences.
 Along the way, the group will learn concepts common in HPC including optimization, distributed computing, cloud computing, containers, GPU acceleration, and parallel code at scale.
