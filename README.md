@@ -25,13 +25,13 @@ You are especially encouraged to apply if any of these are true of you:
 - You enjoy working with the Linux Command Line
 - Belonging to an inclusive technology focused community on campus appeals to you.
 
-We'd love your help getting this club off the ground.
+We'd love your help getting this group off the ground.
 It won't be the same without you.
 
 ### How do I get involved?
 
 We're having an info session at San Diego Supercomputer Center on January 18th
-You're invited to come see the supercomputers, learn more about the club we're starting, and get some free food.
+You're invited to come see the supercomputers, learn more about the group we're starting, and get some free food.
 
 Please fill out the form in the link to RSVP and tell us a bit about yourself.
 
