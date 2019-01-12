@@ -10,6 +10,7 @@ Join us for our first meeting:
 * Located between Hopkins Parking & RIMAC at UC San Diego. From the central lobby (west entry), take elevator to the 4th floor
 * PIZZA will be served!!!
 * [Please RSVP Here](https://docs.google.com/forms/d/1RkUkzLwf310_l9zNPaoSgoFu9F0YUI24Sbt6ysomepg)
+* [Meeting Flyer:  https://hpc-students.sdsc.edu/HPC-SG-invite-01.2019.pdf](https://hpc-students.sdsc.edu/HPC-SG-invite-01.2019.pdf)
 
 
 ### What is our goal?
