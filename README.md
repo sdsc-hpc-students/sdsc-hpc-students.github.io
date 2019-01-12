@@ -1,7 +1,16 @@
 ### Who are we?
 
-The Student High Performance Computing Group is a planned collaboration between San Diego Supercomputer Center
+The High Performance Computing Sudetns (HPC-Students) Group is a planned collaboration between San Diego Supercomputer Center
 and University of California, San Diego.
+
+## Kickoff Meeting!
+Join us for our first meeting:
+Friday, January 18 at 2:00 PM – 3:00 PM
+SDSC Conference Room 408
+Located between Hopkins Parking & RIMAC at UC San Diego. From the central lobby (west entry), take elevator to the 4th floor
+PIZZA will be served!!!
+[Please RSVP](https://docs.google.com/forms/d/1RkUkzLwf310_l9zNPaoSgoFu9F0YUI24Sbt6ysomepg)
+
 
 ### What is our goal?
 
