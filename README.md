@@ -9,7 +9,7 @@ Join us for our first meeting:
 * SDSC Conference Room 408
 * Located between Hopkins Parking & RIMAC at UC San Diego. From the central lobby (west entry), take elevator to the 4th floor
 * PIZZA will be served!!!
-[Please RSVP](https://docs.google.com/forms/d/1RkUkzLwf310_l9zNPaoSgoFu9F0YUI24Sbt6ysomepg)
+* [Please RSVP](https://docs.google.com/forms/d/1RkUkzLwf310_l9zNPaoSgoFu9F0YUI24Sbt6ysomepg)
 
 
 ### What is our goal?
