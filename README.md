@@ -1,6 +1,6 @@
 ### Who are we?
 
-The High Performance Computing Sudetns (HPC-Students) Group is a planned collaboration between San Diego Supercomputer Center
+The High Performance Computing Students (HPC-Students) Group is a planned collaboration between San Diego Supercomputer Center
 and University of California, San Diego.
 
 ### Kickoff Meeting!
