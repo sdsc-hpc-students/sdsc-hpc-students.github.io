@@ -6,7 +6,8 @@ and University of California, San Diego.
 ### Kickoff Meeting!
 Join us for our first meeting:
 * Friday, January 18 at 2:00 PM – 3:00 PM
-* SDSC Conference Room 408
+* Note: due to the large response, the meeting has been moved to the _SDSC Main Auditorium_
+  ** see: https://www.sdsc.edu/about_sdsc/visitor_info.html
 * Located between Hopkins Parking & RIMAC at UC San Diego. From the central lobby (west entry), take elevator to the 4th floor
 * PIZZA will be served!!!
 * [Please RSVP Here](https://docs.google.com/forms/d/1RkUkzLwf310_l9zNPaoSgoFu9F0YUI24Sbt6ysomepg)
