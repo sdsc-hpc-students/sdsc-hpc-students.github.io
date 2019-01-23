@@ -1,18 +1,12 @@
 ### Who are we?
 
-The High Performance Computing Students (HPC-Students) Group is a planned collaboration between San Diego Supercomputer Center
+The High Performance Computing Students (HPC-Students) Group is a collaboration between San Diego Supercomputer Center
 and University of California, San Diego.
 
-### Kickoff Meeting!
-Join us for our first meeting:
-* Friday, January 18 at 2:00 PM – 3:00 PM
-* Note: due to the large response, the meeting has been moved to the _SDSC Main Auditorium_
-  ** see: https://www.sdsc.edu/about_sdsc/visitor_info.html
-* Directions: Exit parking to the east via stairs or elevator in the south/east corner of structure, or
-Exit structure and turn left past the parking structure. SDSC is next building on the left.
-* PIZZA will be served!!!
-* [Please RSVP Here](https://docs.google.com/forms/d/1RkUkzLwf310_l9zNPaoSgoFu9F0YUI24Sbt6ysomepg)
-* [Meeting Flyer:  https://hpc-students.sdsc.edu/HPC-SG-invite-01.2019.pdf](https://hpc-students.sdsc.edu/HPC-SG-invite-01.2019.pdf)
+### Join us on Slack!
+If you have a ucsd.edu email address, you can join us on our Slack Workspace to get the most up to date information on the club.
+
+https://hpcstudentsatsdsc.slack.com
 
 
 ### What is our goal?
