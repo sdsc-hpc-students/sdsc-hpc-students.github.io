@@ -6,7 +6,7 @@ and University of California, San Diego.
 ### Join us on Slack!
 If you have a ucsd.edu email address, you can join us on our Slack Workspace to get the most up to date information on the club.
 
-https://hpcstudentsatsdsc.slack.com
+[Link to Slack](https://hpcstudentsatsdsc.slack.com)
 
 
 ### What is our goal?
