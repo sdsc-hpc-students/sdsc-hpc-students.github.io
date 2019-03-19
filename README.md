@@ -18,7 +18,7 @@ Along the way, the group will learn concepts common in HPC including optimizatio
 
 Secondarily, we aim to build a team of students to compete in Student Cluster Competitions around the world.
 Last year's US competition, held at the annual supercomputing [SC'18](https://sc18.supercomputing.org) meeting in Dallas, challenged students to build, run, and optimize applications that included Deep Learning,
-Monte Carlo approximations, weather forecasting, and earthquake simulation.
+Monte Carlo approximations, weather forecasting, and earthquake simulation. For more information on the SCC plans, see https://training.sdsc.edu/scc.md
 
 ### Who do we seek?
 
@@ -36,14 +36,13 @@ It won't be the same without you.
 
 ### How do I get involved?
 
-We're having an info session at San Diego Supercomputer Center on January 18th
-You're invited to come see the supercomputers, learn more about the group we're starting, and get some free food.
-
-Please fill out the form in the link to RSVP and tell us a bit about yourself.
+We hosted an info session at San Diego Supercomputer Center on January 18th, and more events are coming soon.
+Feel free to fill out the form in the link to RSVP and tell us a bit about yourself.
 
 [Interest Form and RSVP](https://docs.google.com/forms/d/1RkUkzLwf310_l9zNPaoSgoFu9F0YUI24Sbt6ysomepg)
 
 ### More on the Student Cluster Competition
+This year, SDSC will begin training UC San Diego students to participate. The size of the team is limited, but all students who complete the initial training receive an SDSC Certificate of Completion in HPC Training and will be eligible to apply for SDSC’s team. For more information and to register, see the [SCC Teaam Information Page](https://training.sdsc.edu/scc.md)
 
 From [sc19.org](https://sc19.supercomputing.org/program/studentssc/student-cluster-competition/):
 > "The Student Cluster Competition (SCC) was developed in 2007 to provide an immersive high performance computing experience to undergraduate and high school students.
