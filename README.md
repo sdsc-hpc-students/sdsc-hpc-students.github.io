@@ -3,7 +3,7 @@
 The High Performance Computing Students (HPC-Students) Group is a collaboration between San Diego Supercomputer Center
 and University of California, San Diego.
 
-To learn more about HPC Students, please see: https://training.sdsc.edu/scc.html.
+To learn more about HPC Students, please see: https://www.sdsc.edu/education_and_training/hpc_students.html.
 
 ### Join the Supercomputing Club on Slack!
 If you have a ucsd.edu email address, you can join us on our Slack Workspace to get the most up to date information on the club.
