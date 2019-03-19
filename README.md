@@ -46,6 +46,9 @@ Please fill out the form in the link to RSVP and tell us a bit about yourself.
 [Interest Form and RSVP](https://docs.google.com/forms/d/1RkUkzLwf310_l9zNPaoSgoFu9F0YUI24Sbt6ysomepg)
 
 ### More on the Student Cluster Competition
+This year, SDSC is excited to announce that HPC Students will begin training UCSD students to participate in its Student Cluster Competition Program (and other potential HPC activities). Our goal is to successfully apply to be a team at the SCC’19 competition, to be held in Denver this Fall. 
+We have planned a series of 9-10 training sessions, to be held on Fridays from 1:00pm to 3:00pm in the SDSC SynCenter, or the Auditorium. 
+The scope of the training effort includes several skill development activities. To learn about the SCC program and to register to participate, please see:  https://training.sdsc.edu/scc.html.
 
 From [sc19.org](https://sc19.supercomputing.org/program/studentssc/student-cluster-competition/):
 > "The Student Cluster Competition (SCC) was developed in 2007 to provide an immersive high performance computing experience to undergraduate and high school students.
