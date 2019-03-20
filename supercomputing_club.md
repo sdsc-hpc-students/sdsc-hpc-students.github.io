@@ -21,7 +21,7 @@ Monte Carlo approximations, weather forecasting, and earthquake simulation.
 
 One of the students starting the Supercomputing Club participated in the sc18 Student Cluster Competition with their community college. Additionally, a staff member at San Diego Supercomputer Center participated twice previously with a team from San Diego State University. They are both eager to help another team do the same this Fall at SC’19 in Denver, Colorado.
 
-For more information on the SDSCs' SCC team training plans, see the <a href="https://training.sdsc.edu/scc">SCC Information Page</a>.
+For more information on the SDSCs' SCC team training plans, see the [SCC Information Page](https://training.sdsc.edu/scc")
 
 ### Who do we seek?
 
