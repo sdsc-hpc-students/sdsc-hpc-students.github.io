@@ -1,17 +1,11 @@
 ### Who are we?
 
-The High Performance Computing Students (HPC-Students) Group is a collaboration between San Diego Supercomputer Center
+The Student High Performance Computing Club is a planned collaboration between San Diego Supercomputer Center
 and University of California, San Diego.
-
-### Join us on Slack!
-If you have a ucsd.edu email address, you can join us on our Slack Workspace to get the most up to date information on the club.
-
-[Link to Slack](https://hpcstudentsatsdsc.slack.com)
-
 
 ### What is our goal?
 
-This group exists to provide exposure to Supercomputers and High Performance Computing to interested students.
+This club exists to provide exposure to Supercomputers and High Performance Computing to interested students.
 The field of High Performance Computing (HPC) spans many domains outside in Scientific Computing including Applied Math,
 Physics, Biology, and Data and Environmental Sciences.
 Along the way, the group will learn concepts common in HPC including optimization, distributed computing, cloud computing, containers, GPU acceleration, and parallel code at scale.
@@ -31,13 +25,13 @@ You are especially encouraged to apply if any of these are true of you:
 - You enjoy working with the Linux Command Line
 - Belonging to an inclusive technology focused community on campus appeals to you.
 
-We'd love your help getting this group off the ground.
+We'd love your help getting this club off the ground.
 It won't be the same without you.
 
 ### How do I get involved?
 
 We're having an info session at San Diego Supercomputer Center on January 18th
-You're invited to come see the supercomputers, learn more about the group we're starting, and get some free food.
+You're invited to come see the supercomputers, learn more about the club we're starting, and get some free food.
 
 Please fill out the form in the link to RSVP and tell us a bit about yourself.
 
@@ -60,6 +54,5 @@ While any students are eligible to join the Student HPC group, participants in t
 
 ### Contact Information
 
-If you'd like to know more and potentially join our club, please reach out to Mary Thomas <mthomas@sdsc.edu>
+If you'd like to know more and potentially join our club, please reach out to Mary Thomas <mthomas@sdsc.edu
 or Nigel at <pbrown@ucsd.edu>.
-Save
