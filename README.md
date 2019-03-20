@@ -53,11 +53,10 @@ From [sc19.org](https://sc19.supercomputing.org/program/studentssc/student-clust
 > 48-hour challenge at the SC conference to complete a real-world scientific workload,
 > showing off their HPC knowledge for conference attendees and judges."
 
-This year, SDSC is excited to announce that HPC Students will begin training UCSD students to participate in its Student Cluster Competition Program (and other potential HPC activities). Our goal is to successfully apply to be a team at the SCC’19 competition, to be held in Denver this Fall. 
-We have planned a series of 9-10 training sessions, to be held on Fridays from 1:00pm to 3:00pm in the SDSC SynCenter, or the Auditorium. 
-The scope of the training effort includes several skill development activities. 
+SDSC is excited to announce that HPC Students will begin training UCSD students to participate in its Student Cluster Competition Program startingi with an informational session on Friday, April 5th.
+We have planned a series of 9-10 training sessions, to be held on Fridays from 1:00pm to 3:00pm in the SDSC SynCenter, or the Auditorium.  The scope of the training effort includes several skill development activities. 
 
-To learn about the SCC program and to register to participate, please see: [Student Cluster Competition Info](https://training.sdsc.edu/scc.html).
+To learn about the SCC program and to register to participate, please see:<b> [SDSC Student Cluster Competition Info](https://training.sdsc.edu/scc.html).</b>
 
 One of the students starting the Supercomputing Club participated in the sc18 Student Cluster Competition with their community college.
 Additionally, a staff member at San Diego Supercomputer Center participated twice previously with a team from San Diego State University.
