@@ -1,23 +1,27 @@
 ### Who are we?
 
-We are the UCSD Supercomputing Club. This club exists to provide exposure to Supercomputers and High Performance Computing to interested students.
-The field of High Performance Computing (HPC) spans many domains outside in Scientific Computing including Applied Math, Physics, Biology, and Data and Environmental Sciences.
+We are the UCSD Supercomputing Club. This club exists to provide exposure to Supercomputers and High-Performance Computing to interested students. It is a club formed by students and run by students.
+The Supercomputing club is also a collaboration between University of California students who are members of the Supercomputing Club and the San Diego Supercomputer Center (SDSC) High Performance Computing Students (HPC-Students) Program. To learn more about HPC Students, please see: [HPC Students Program](https://www.sdsc.edu/education_and_training/hpc_students.html).
 
+### Join the SC-Club on Slack!
 
-### Join the Supercomputing Club on Slack!
 If you have a ucsd.edu email address, you can join us on our Slack Workspace to get the most up to date information on the club.
 
 [Link to Slack](https://hpcstudentsatsdsc.slack.com)
 
-### What is our goal?
+### What are our goals?
 
-Along the way, the group will learn concepts common in HPC including optimization, distributed computing, cloud computing, containers, GPU acceleration, and parallel code at scale.
+The field of High-Performance Computing (HPC) spans many domains outside in Scientific Computing including Applied Math, Physics, Biology, and Data and Environmental Sciences.
+We plan to help club members learn concepts common in HPC, including optimization, distributed computing, cloud computing, containers, GPU acceleration, and parallel code at scale.
 
-Secondarily, we aim to build a team of students to compete in Student Cluster Competitions around the world.
-Last year's US competition, held at the annual supercomputing [SC'18](https://sc18.supercomputing.org) meeting in Dallas, challenged students to build, run, and optimize applications that included Deep Learning,
-Monte Carlo approximations, weather forecasting, and earthquake simulation.
+The club is dedicated to supporting student interests, so we have formed a few special interest groups (SIGs), including: Systems (HPC clusters, admin); Big Data; Scientific Computing and Simulations; and others.
 
-The Supercomputing club  is also a collaboration between University of California students who are members of the Supercomputing Club and the San Diego Supercomputer Center (SDSC) High Performance Computing Students (HPC-Students) Program. To learn more about HPC Students, please see: [HPC Students Program](https://www.sdsc.edu/education_and_training/hpc_students.html).
+We also aim to help SDSC to build a team of students to compete in Student Cluster Competitions around the world.  Last year's US competition, held at the annual supercomputing [SC'18](https://sc18.supercomputing.org) meeting in Dallas, challenged students to build, run, and optimize applications that included Deep Learning,
+Monte Carlo approximations, weather forecasting, and earthquake simulation. 
+
+One of the students starting the Supercomputing Club participated in the sc18 Student Cluster Competition with their community college. Additionally, a staff member at San Diego Supercomputer Center participated twice previously with a team from San Diego State University. They are both eager to help another team do the same this Fall at SC’19 in Denver, Colorado.
+
+For more information on the SDSCs' SCC team training plans, see the <a href="https://training.sdsc.edu/scc">SCC Information Page</a>.
 
 ### Who do we seek?
 
