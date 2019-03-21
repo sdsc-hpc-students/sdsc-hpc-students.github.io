@@ -1,3 +1,5 @@
+# UCSD Supercomputing Club 
+
 ### Who are we?
 
 We are the UCSD Supercomputing Club. This club exists to provide exposure to Supercomputers and High-Performance Computing to interested students. It is a club formed by students and run by students.
