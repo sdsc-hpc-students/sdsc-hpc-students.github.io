@@ -5,7 +5,9 @@ and University of California, San Diego Supercomputing Club.
 
 To learn more about HPC Students, please see: [HPC Students Program](https://www.sdsc.edu/education_and_training/hpc_students.html).
 
+
 ### Join the Supercomputing Club on Slack!
+
 If you have a ucsd.edu email address, you can join us on our Slack Workspace to get the most up to date information on the club.
 
 [Link to Slack](https://hpcstudentsatsdsc.slack.com)
@@ -13,7 +15,9 @@ If you have a ucsd.edu email address, you can join us on our Slack Workspace to 
 To learn more the club, please see: [Supercomputing Club](https://hpc-students.sdsc.edu/supercomputing_club).
 
 
+
 ### What is the Supercomputing Clubs' goal?
+
 
 This club exists to provide exposure to Supercomputers and High Performance Computing to interested students.
 The field of High Performance Computing (HPC) spans many domains outside in Scientific Computing including Applied Math,
@@ -24,7 +28,9 @@ Secondarily, we aim to build a team of students to compete in Student Cluster Co
 Last year's US competition, held at the annual supercomputing [SC'18](https://sc18.supercomputing.org) meeting in Dallas, challenged students to build, run, and optimize applications that included Deep Learning,
 Monte Carlo approximations, weather forecasting, and earthquake simulation.
 
+
 ### Who do we seek?
+
 
 It is our firm belief that the most important quality of prospective members is motivation;
 most of the necessary skills can be taught with a relatively gentle learning curve.
