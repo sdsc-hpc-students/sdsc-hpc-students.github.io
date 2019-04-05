@@ -6,7 +6,7 @@ We are the UCSD Supercomputing Club. This club exists to provide exposure to Sup
 The Supercomputing club is also a collaboration between University of California students who are members of the Supercomputing Club and the San Diego Supercomputer Center (SDSC) High Performance Computing Students (HPC-Students) Program. To learn more about HPC Students, please see: [HPC Students Program](https://www.sdsc.edu/education_and_training/hpc_students.html).
 
 Learn more about the club, visit our new club site:<br>
-[UCSD Supercomputing Club @ http://supercomputingclub.ucsd.edu(http://supercomputingclub.ucsd.edu).
+[UCSD Supercomputing Club @ http://supercomputingclub.ucsd.edu](http://supercomputingclub.ucsd.edu).
 
 
 ### Join the SC-Club on Slack!
