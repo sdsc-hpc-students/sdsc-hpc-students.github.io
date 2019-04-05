@@ -12,9 +12,9 @@ If you have a ucsd.edu email address, you can join us on our Slack Workspace to 
 
 [Link to Slack](https://hpcstudentsatsdsc.slack.com)
 
-To learn more the club, please see: <br>
-[UCSD Supercomputing Club @ http://supercomputingclub.ucsd.edu(http://supercomputingclub.ucsd.edu).
-[More info](https://hpc-students.sdsc.edu/supercomputing_club).
+To learn more the club, please visit their new UCSD Club Site:: <br>
+[UCSD Supercomputing Club @ http://supercomputingclub.ucsd.edu](http://supercomputingclub.ucsd.edu).
+[More info here: https://hpc-students.sdsc.edu/supercomputing_club](https://hpc-students.sdsc.edu/supercomputing_club).
 
 
 
