@@ -7,6 +7,7 @@ The Supercomputing club is also a collaboration between University of California
 
 Learn more about the club, visit our new club site:<br>
 [UCSD Supercomputing Club @ http://supercomputingclub.ucsd.edu](http://supercomputingclub.ucsd.edu).
+[Find more info here: https://hpc-students.sdsc.edu/supercomputing_club](https://hpc-students.sdsc.edu/supercomputing_club).
 
 
 ### Join the SC-Club on Slack!
