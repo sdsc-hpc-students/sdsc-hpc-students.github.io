@@ -55,4 +55,4 @@ While any students are eligible to join the Student HPC group, participants in t
 ### Contact Information
 
 If you'd like to know more and potentially join our club, please reach out to Mary Thomas <mthomas@sdsc.edu>
-or Nigel at <pbrown@ucsd.edu>.
+or directly to the club president, Bailey Passmore at <mpassmor@ucsd.edu>

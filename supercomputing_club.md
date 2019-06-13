@@ -54,4 +54,4 @@ Please fill out the form in the link to RSVP and tell us a bit about yourself.
 
 ### Contact Information
 
-If you'd like to know more and potentially join our club, please email the club at <supercomputingclub@gmail.com> or reach out directly to Nigel at <pbrown@ucsd.edu>.
+If you'd like to know more and potentially join our club, please email the club at <supercomputingclub@gmail.com> or reach out directly to the club president, Bailey Passmore at <mpassmor@ucsd.edu> 
