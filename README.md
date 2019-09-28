@@ -31,5 +31,5 @@ To learn more the club, please visit their new UCSD Club Site:: <br>
 
 ### Contact Information
 
-For more information, contact Mary Thomas <mthomas at sdsc.edu> 
-or Bailey Passmore at <mpassmor at ucsd.edu>.
+For more information, contact Mary Thomas (mthomas at sdsc.edu) 
+or Bailey Passmore at (mpassmor at ucsd.edu).
