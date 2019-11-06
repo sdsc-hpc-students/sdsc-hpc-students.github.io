@@ -1,6 +1,6 @@
 ### Who are we?
 
-A program for educating and training the next generation of the High-Performance Computing workforce that focuses on educating and training students. It is designed to educate students from high school to grad school about HPC, to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. The program initially works with UCSD undergraduates, but will be expanded to include other groups as time and budget permits.
+HPC Students is a program for educating and training the next generation of the High-Performance Computing workforce that focuses on educating and training students. It is designed to educate students from high school to grad school about HPC, to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. The program initially works with UCSD undergraduates, but will be expanded to include other groups as time and budget permits.
 
 The program is committed to sponsoring and supporting student activities through funding and providing of resources, including:
 
@@ -12,7 +12,7 @@ The program is committed to sponsoring and supporting student activities through
 * Mentoring and sponsoring competitive teams, such as the annual Student Cluster Competition
 * Support of SDSC and NSF broader engagement goals
 
-To learn more about HPC Students, please see: [HPC Students Program](https://www.sdsc.edu/education_and_training/hpc_students.html).
+To learn more about HPC Students, please see: [HPC Students Program(https://www.sdsc.edu/education_and_training/hpc_students.html).
 
 
 ### The UCSD Supercomputing Club!
