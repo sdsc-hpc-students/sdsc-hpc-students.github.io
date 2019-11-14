@@ -10,6 +10,7 @@ The program is committed to sponsoring and supporting student activities through
 * Increased student participation at conferences & meetings, including local, national, and international
 * Hosting student focused training workshops/bootcamps/hackathons/material for students
 * Mentoring and sponsoring competitive teams, such as the annual Student Cluster Competition
+Providing a path to getting credit for participation via the [SDSC/UCSD Co-Curricular Credit Program](https://hpc-students.sdsc.edu/sdsc-ccr-program.html).
 * Support of SDSC and NSF broader engagement goals
 
 To learn more about HPC Students, please see: [HPC Students Program(https://www.sdsc.edu/education_and_training/hpc_students.html).
