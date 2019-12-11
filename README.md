@@ -18,18 +18,15 @@ To learn more about HPC Students, please see: [HPC Students Program(https://www.
 
 ### The UCSD Supercomputing Club
 
-HPC-Students also collaborates deeply with the University of California, San Diego Supercomputing Club.
+HPC-Students also collaborates deeply with the University of California, San Diego Supercomputing Club. To learn more the club, please visit UCSD Supercomputing Club @ [http://supercomputingclub.ucsd.edu](http://supercomputingclub.ucsd.edu). <br>
 
-If you have a ucsd.edu email address, you can join the club on its Slack Workspace to get the most up to date information on the club.
+Join the club on its [Slack Workspace](https://hpcstudentsatsdsc.slack.com) to get the most up to date information on the club.
 
-[Link to Slack](https://hpcstudentsatsdsc.slack.com)
-
-To learn more the club, please visit their Club Site:: <br>
-UCSD Supercomputing Club @ [http://supercomputingclub.ucsd.edu](http://supercomputingclub.ucsd.edu). <br>
 
 
 ### Contact Information:
 
 For more information, contact Mary Thomas (mthomas at sdsc.edu) 
 
-### Become a Sponsor of HPC Students and the Supercomputing Club [here](https://espi.ucsd.edu/make-a-gift?id=e4cddf78-4e99-462b-93ac-ffbea5886c5a)
+### Become a Sponsor:
+Support the acctivities of HPC Students and the Supercomputing Club [here](https://espi.ucsd.edu/make-a-gift?id=e4cddf78-4e99-462b-93ac-ffbea5886c5a)
