@@ -1,20 +1,13 @@
-### About HPC Students 
+### Programs & Activitiess 
 
-HPC Students is a program for educating and training the next generation of the High-Performance Computing workforce that focuses on educating and training students. It is designed to educate students from high school to grad school about HPC, to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. The program initially works with UCSD undergraduates, but will be expanded to include other groups as time and budget permits.
+HPC Students is a program for educating and training the next generation of the High-Performance Computing workforce that focuses on educating and training students. It is designed to educate students from high school to grad school about HPC, to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. The program initially works with UCSD undergraduates, but will be expanded to include other groups as time and budget permits.  To learn more about HPC Students, please see: [HPC Students Program](https://www.sdsc.edu/education_and_training/hpc_students.html).
 
-The program is committed to sponsoring and supporting student activities through funding and providing of resources, including:
 
-* Interaction and outreach to UCSD Clubs, including the newly formed UCSD Supercomputing Club (HPC-Students)
-* Support and advocacy for students applying to HPC related activities including applications for graduate school, grants, support to travel to meetings, etc.
-* Teaching an HPC Training course for UCSD undergraduate and graduate students [HPC Students Training Sessions](https://hpc-students.sdsc.edu/hpc-training.html)
-* Increased student participation at conferences & meetings, including local, national, and international
-* Hosting student focused training workshops/bootcamps/hackathons/material for students
-* Mentoring and sponsoring competitive teams, such as the annual Student Cluster Competition
-Providing a path to getting credit for participation via the [SDSC/UCSD Co-Curricular Credit Program](https://hpc-students.sdsc.edu/sdsc-ccr-program.html).
-* Support of SDSC and NSF broader engagement goals
-
-To learn more about HPC Students, please see: [HPC Students Program(https://www.sdsc.edu/education_and_training/hpc_students.html).
-
+### HPC Students Projects
+* [HPC User Training](https://hpc-students.sdsc.edu/hpc-training.html) 
+* Cluster build-out team (Raspberry Pi and other architectures)
+* Quick-start tutorials (Club activity)
+* [Student cluster competition training](https://hpc-students.sdsc.edu/scc.html)
 
 ### The UCSD Supercomputing Club
 
