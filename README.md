@@ -11,7 +11,9 @@ HPC Students is a program for educating and training the next generation of the 
 
 ### The UCSD Supercomputing Club
 
-HPC-Students also collaborates deeply with the University of California, San Diego Supercomputing Club. To learn more the club, please visit UCSD Supercomputing Club @ [http://supercomputingclub.ucsd.edu](http://supercomputingclub.ucsd.edu). <br>
+HPC-Students also collaborates deeply with the University of California, San Diego Supercomputing Club. To learn more the club, please visit UCSD Supercomputing Club @ 
+[https://hpc-students.sdsc.edu/supercomputing_club.md](https://hpc-students.sdsc.edu/supercomputing_club.md)
+<br>
 
 Join the club on its [Slack Workspace](https://hpcstudentsatsdsc.slack.com) to get the most up to date information on the club.
 
