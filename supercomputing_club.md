@@ -6,7 +6,7 @@ We are the UCSD Supercomputing Club. We exist to provide an open and inclusive e
 The Supercomputing club collaborates with and is sponsored by the San Diego Supercomputer Center (SDSC) through the High Performance Computing Students Program. To learn more about the HPC-Students initiative, please see: [HPC Students Program](https://www.sdsc.edu/education_and_training/hpc_students.html).
 
 To learn more about the club, visit our UCSD club website:<br>
-[Supercomputing Club](http://supercomputingclub.ucsd.edu) or come [join us on Slack!](https://join.slack.com/t/supercomputingclub/shared_invite/enQtNjU5NzA3NTg3Nzk5LTM4ZDk2NjllNzg0YjYzZmNkMTc5Mzk0MGMzNjliY2I5YjFmYzgzNjM1MDY2ZjljZTI1NmRlYjkyNjQ0OGE4YzI)
+Ccome [join us on Slack!](https://join.slack.com/t/supercomputingclub/shared_invite/enQtNjU5NzA3NTg3Nzk5LTM4ZDk2NjllNzg0YjYzZmNkMTc5Mzk0MGMzNjliY2I5YjFmYzgzNjM1MDY2ZjljZTI1NmRlYjkyNjQ0OGE4YzI)
 
 ### Why HPC?
 
