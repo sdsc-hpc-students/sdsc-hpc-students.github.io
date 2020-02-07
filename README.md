@@ -17,7 +17,8 @@ HPC-Students also collaborates deeply with the University of California, San Die
 
 Join the club on its [Slack Workspace](https://hpcstudentsatsdsc.slack.com) to get the most up to date information on the club.
 
-
+### Student Internship Activities
+[Internship Listing](internship.html): A list of potential internships at SDSC and aroung the world.
 
 ### Contact Information:
 
