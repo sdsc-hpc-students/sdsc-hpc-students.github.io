@@ -2,10 +2,8 @@
 layout: sc-club
 title: UCSD Supercomputing Club
 ---
-<center>
-<h2>UCSD Supercomputing Club</h2>
-<hr>
-</center>
+## UCSD Supercomputing Club
+
 
 ## Who are we?
 
