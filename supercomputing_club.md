@@ -2,9 +2,12 @@
 layout: sc-club
 title: UCSD Supercomputing Club
 ---
-# UCSD Supercomputing Club 
+<center>
+<h2>UCSD Supercomputing Club</h2>
+<hr>
+</center>
 
-### Who are we?
+## Who are we?
 
 We are the UCSD Supercomputing Club. We exist to provide an open and inclusive environment for UCSD students to learn and develop the skills of the High Performance Computing industry. Our goal is to make the knowledge and technology surrounding this industry accessible to students of all majors and backgrounds.
 The Supercomputing club collaborates with and is sponsored by the San Diego Supercomputer Center (SDSC) through the High Performance Computing Students Program. To learn more about the HPC-Students initiative, please see: [HPC Students Program](https://www.sdsc.edu/education_and_training/hpc_students.html).
