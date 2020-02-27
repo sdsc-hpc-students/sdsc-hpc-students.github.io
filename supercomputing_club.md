@@ -1,3 +1,7 @@
+---
+layout: listing
+title: UCSD Supercomputing Club
+---
 # UCSD Supercomputing Club 
 
 ### Who are we?
