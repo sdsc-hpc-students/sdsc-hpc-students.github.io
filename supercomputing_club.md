@@ -1,5 +1,5 @@
 ---
-layout: listing
+layout: sc-club
 title: UCSD Supercomputing Club
 ---
 # UCSD Supercomputing Club 
