@@ -20,7 +20,6 @@ We are continuing to develop content to educate our club members in concepts com
 
 We also aim to help SDSC build a team of students to compete in Student Cluster Competitions around the world. Last year's US competition, held at the annual supercomputing [SC'18](https://sc18.supercomputing.org) meeting in Dallas, challenged students to build, run, and optimize applications that included Deep Learning, Monte Carlo approximations, weather forecasting, and earthquake simulation.
 
-For more information on the SDSCs' SCC team training plans, see the [SCC Information Page](https://training.sdsc.edu/scc")
 
 ### Who do we seek?
 
@@ -36,9 +35,6 @@ If any of these are true of you, you're in the right place!
 We'd love your help getting this club the platform and reach it - and you as students - deserve.
 It won't be the same without you.
 
-### How do I get involved?
-
-Starting July 2nd, our Summer Session meetings will be on Tuesdays at 9am in SDSC Conference Room 567. Contact us if you need directions or if you are interested in attending remotely!
 
 ### Contact Information
 
