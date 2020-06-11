@@ -30,4 +30,4 @@ Join the club on its [Slack Workspace](https://hpcstudentsatsdsc.slack.com) to g
 For more information, contact Mary Thomas (mthomas at sdsc.edu)
 
 ### Become a Sponsor:
-Support the acctivities of HPC Students and the Supercomputing Club [here](https://espi.ucsd.edu/make-a-gift?id=e4cddf78-4e99-462b-93ac-ffbea5886c5a)
+Support the activities of HPC Students and the Supercomputing Club [here](https://espi.ucsd.edu/make-a-gift?id=e4cddf78-4e99-462b-93ac-ffbea5886c5a)
