@@ -4,7 +4,7 @@ HPC Students is a program for educating and training the next generation of the 
 
 
 ### HPC Students Projects
-* [Student Cluster Competition SCC20](https://hpc-students.sdsc.edu/scc20.html) 
+* [Student Cluster Competition](https://hpc-students.sdsc.edu/scc.html) 
 * [HPC User Training](https://hpc-students.sdsc.edu/hpc-training.html) 
 * [UCSD Co-Curricular Records](https://hpc-students.sdsc.edu/sdsc-ccr-program.html)
 * [Cluster build-out team (Raspberry Pi and other architectures)](https://hpc-students.sdsc.edu/pi_proj.html)
