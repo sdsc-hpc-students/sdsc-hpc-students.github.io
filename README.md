@@ -5,6 +5,7 @@ HPC Students is a program for educating and training the next generation of the 
 <font color="red">NEWS!!! The SCC 20 is Going Virtual!</font><br>
 Due to Covid-19, the annual student cluster competition will be held virtually, and SDSC is excited to participate. See <a href="https://hpc-students.sdsc.edu/scc.html">here</a> to apply to be a member of our team.
 </center>
+<p> </p>
 
 ### HPC Students Projects
 * [Student Cluster Competition](https://hpc-students.sdsc.edu/scc.html)
