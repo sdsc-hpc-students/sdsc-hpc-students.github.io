@@ -11,9 +11,9 @@ teams will run applications on the cloud.
 
 ### HPC Students Projects
 * [Student Cluster Competition](https://hpc-students.sdsc.edu/scc.html)
+* [Cluster build-out team (Raspberry Pi and other architectures)](https://hpc-students.sdsc.edu/pi_proj.html)
 * [HPC User Training](https://hpc-students.sdsc.edu/hpc-training.html)
 * [UCSD Co-Curricular Records](https://hpc-students.sdsc.edu/sdsc-ccr-program.html)
-* [Cluster build-out team (Raspberry Pi and other architectures)](https://hpc-students.sdsc.edu/pi_proj.html)
 * Quick-start tutorials (Club activity)
 * [Projects and Programs Descriptions](https://hpc-students.sdsc.edu/projs.html)
 
