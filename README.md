@@ -4,7 +4,7 @@ HPC Students is a program for educating and training the next generation of the 
 <center>
 <font color="red">NEWS!!! The SCC 20 Official Teams are announced!</font><br>
 SC20 committee has announced the teams to compete at vSCC20. SDSC student cluster team has been selected, to check the official blog, see <a href="https://sc20.supercomputing.org/2020/09/04/global-lineup-will-compete-at-scs-first-virtual-student-cluster-competition">here<a/>
-</center>
+
 
 <center>
 <font color="red"> The SCC 20 is Going Virtual!</font><br>
