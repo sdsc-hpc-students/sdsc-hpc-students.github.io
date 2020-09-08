@@ -11,7 +11,7 @@ SC20 committee has announced the teams to compete at vSCC20. SDSC student cluste
 Due to Covid-19, the annual student cluster competition will be held virtually, and all
 teams will run applications on the cloud.
  SDSC already making plans to participate. See our <a href="https://hpc-students.sdsc.edu/scc.html">SCC20 project page</a> to apply to be a member of our team.
-</center>
+
 
 <p> </p>
 
