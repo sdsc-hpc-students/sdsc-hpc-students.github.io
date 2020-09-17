@@ -2,3 +2,4 @@ theme: jekyll-theme-modernist
 title: SDSC HPC Students Projects
 description: Repository for HPC Students training events and other materials
 show_downloads: false
+baseurl: "/sdsc-hpc-students.github.io"
