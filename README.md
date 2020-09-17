@@ -2,10 +2,8 @@
 <p>
 HPC Students is a program for educating and training the next generation of the High-Performance Computing workforce that focuses on educating and training students. It is designed to educate students from high school to grad school about HPC, to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. The program initially works with UCSD undergraduates, but will be expanded to include other groups as time and budget permits.  </p>
 <center>
-<font color="red">NEWS!!! The SCC 20 is Going Virtual!</font><br>
-Due to Covid-19, the annual student cluster competition will be held virtually, and all
-teams will run applications on the cloud.
- SDSC already making plans to participate. See our <a href="https://hpc-students.sdsc.edu/scc.html">SCC20 project page</a> to apply to be a member of our team.
+<font color="red">NEWS!!! The vSCC20 Official Team is out!</font><br>
+The SC Committee has announced the official team for vSCC20. See the blog <a href="https://sc20.supercomputing.org/2020/09/04/global-lineup-will-compete-at-scs-first-virtual-student-cluster-competition">SCC20 Official Teams</a> t
 </center>
 <p> </p>
 
