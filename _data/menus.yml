@@ -3,7 +3,7 @@ main:
     url: "/"
     weight: 2
   - name: "SCC20 Home"
-    url: "/scc20/"
+    url: "/scc20"
     weight: 3
   - name: "TEAM"
     url: "/scc20/about_the_team.html"
