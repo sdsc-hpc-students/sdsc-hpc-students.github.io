@@ -1,4 +1,4 @@
-baseurl: '/sdsc-hpc-students/sdsc-hpc-students.github.io'
+baseurl: '/sdsc-hpc-students.github.io'
 exclude: ['README.md']
 permalink: pretty
 title: 'SDSC HPC Students Projects'
