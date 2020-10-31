@@ -1,0 +1,21 @@
+main:
+  - name: "HPC Students Home"
+    url: "/"
+    weight: 2
+  - name: "SCC20 Home"
+    url: "/scc20/"
+    weight: 3
+  - name: "TEAM"
+    url: "/scc20/about_the_team.html"
+    weight: 4
+  - name: "NEWS"
+    url: "/news"
+    weight: 5
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2
