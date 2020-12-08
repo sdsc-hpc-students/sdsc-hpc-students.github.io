@@ -1,56 +1,51 @@
 [
+
   {
-    "name": "Github",
-    "link": "https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io",
-    "image": "images/social/github.svg"
-  }
-]
-[  {
     "name": "sponsor",
     "link": "https://hpc-students.sdsc.edu/",
-    "image": "images/social/sponsor.svg"
-  }
-]
-[
+    "image": "images/social/sponsor.png"
+  },
+
+
   {
     "name": "Amazon",
     "link": "https://www.amazon.com/",
-    "image": "images/social/Amazon.svg"
-  }
-]
-[  {
+    "image": "images/social/amazonb.png"
+  },
+
+  {
     "name": "AMD",
     "link": "https://www.amd.com/",
-    "image": "images/social/amd.svg"
-  }
-]
-[  {
+    "image": "images/social/amdb.png"
+  },
+
+  {
     "name": "Azure",
     "link": "https://azure.microsoft.com",
-    "image": "images/social/Azure.svg"
-  }
-]
-[  {
+    "image": "images/social/azureb.png"
+  },
+
+  {
     "name": "Dell",
     "link": "https://www.dell.com/",
-    "image": "images/social/dell.svg"
-  }
-]
-[  {
+    "image": "images/social/dell.png"
+  },
+
+  {
     "name": "Nvidia",
     "link": "https://www.nvidia.com/",
-    "image": "images/social/nvidia.svg"
-  }
-]
-[  {
+    "image": "images/social/nvidiab.png"
+  },
+
+  {
     "name": "SDSC",
     "link": "https://www.sdsc.edu/",
-    "image": "images/social/sdcs.svg"
-  }
-]
-[  {
+    "image": "images/social/sdscb.png"
+  },
+
+  {
     "name": "UCSD",
     "link": "https://ucsd.edu/",
-    "image": "images/social/ucsd.svg"
+    "image": "images/social/ucsdb.png"
   }
 ]
