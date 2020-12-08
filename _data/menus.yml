@@ -1,16 +1,22 @@
 main:
-  - name: "HPC Students Home"
+  - name: "Home"
     url: "/"
     weight: 2
-  - name: "SCC20 Home"
-    url: "/scc20"
+  - name: "PROJECTS"
+    url: "/"
     weight: 3
-  - name: "TEAM"
-    url: "/scc20/about_the_team.html"
+  - name: "SCC20"
+    url: "/scc20"
     weight: 4
+  - name: "HPC USER TRAINING"
+    url: "/"
+    weight: 5
   - name: "NEWS"
     url: "/news"
-    weight: 5
+    weight: 6
+  - name: "S SC CLUB "
+    url: "/"
+    weight: 7
 
 footer:
   - name: "Home"
