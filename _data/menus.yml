@@ -1,5 +1,5 @@
 main:
-  - name: "Home"
+  - name: "HOME"
     url: "/"
     weight: 2
   - name: "PROJECTS"
@@ -14,14 +14,14 @@ main:
   - name: "NEWS"
     url: "/news"
     weight: 6
-  - name: "S SC CLUB "
+  - name: "SC CLUB"
     url: "/"
     weight: 7
 
 footer:
-  - name: "Home"
+  - name: "HOME"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "CONTACT"
     url: "/contact"
     weight: 2
