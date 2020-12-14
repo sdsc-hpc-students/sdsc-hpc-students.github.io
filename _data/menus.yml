@@ -15,7 +15,7 @@ main:
     url: "/news"
     weight: 6
   - name: "SC CLUB"
-    url: "/"
+    url: "/Supercomputing_Club"
     weight: 7
 
 footer:
