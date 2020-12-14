@@ -9,7 +9,7 @@ main:
     url: "/scc20"
     weight: 4
   - name: "HPC USER TRAINING"
-    url: "/"
+    url: "/hpc_training"
     weight: 5
   - name: "NEWS"
     url: "/news"
