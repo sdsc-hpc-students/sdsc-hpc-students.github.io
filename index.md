@@ -7,8 +7,13 @@ permalink:
 
 HPC Students is a program for educating and training the next generation of the High-Performance Computing workforce that focuses on educating and training students. It is designed to educate students from high school to grad school about HPC, to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. The program initially works with UCSD undergraduates, but will be expanded to include other groups as time and budget permits.
 <center>
-<font color="red">NEWS!!! The vSCC20 Official Team is out!</font><br>
-The SC Committee has announced the official team for vSCC20. See <a href="https://hpc-students.sdsc.edu">for more details.</a>
+<font color="red">NEW!</font> 2021 Training Course Announcement!
+The 2021 course is  scheduled to be held in two sessions: <br>
+<em>Session #1</em>: January 22, 2020 through March 19, 2020; <br>
+<em>Session #2</em>: April 2, 2021 - April 30, 2021. <br>
+Registration and course details can be found <a href="https://hpc-students.sdsc.edu/hpc-training/hpc-training-sched-2021.html">here</a>.
+<p>
+
 </center>
 
 
