@@ -3,7 +3,7 @@ main:
     url: "/"
     weight: 2
   - name: "PROJECTS"
-    url: "/"
+    url: "/projects"
     weight: 3
   - name: "SCC20"
     url: "/scc20"
