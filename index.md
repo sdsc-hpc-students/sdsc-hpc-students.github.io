@@ -15,15 +15,6 @@ The 2021 course is  scheduled to be held in two sessions: <br>
 Registration and course details can be found <a href="https://hpc-students.sdsc.edu/hpc-training/hpc-training-sched-2021.html">here</a>.
 </center>
 
-
-### HPC Students Projects
-* [Student Cluster Competition](/scc20)
-* [Cluster build-out team (Raspberry Pi and other architectures)](/pi_cluster)
-* [HPC User Training](/hpc_training)
-* [UCSD Co-Curricular Records](/sdsc_ccr)
-* Quick-start tutorials (Club activity)
-* [Projects and Programs Descriptions](/projs)
-
 ### The UCSD Supercomputing Club
 
 HPC-Students also collaborates deeply with the University of California, San Diego Supercomputing Club. To learn more the club, please visit the [UCSD Supercomputing Club](/Supercomputing_Club)
