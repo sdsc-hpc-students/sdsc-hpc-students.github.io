@@ -29,11 +29,11 @@ permalink:/projects
     More information can be found <a href="">here</a>.
   </li>
   <li>
-    <b><a href="https://hpc-students.sdsc.edu/hpc_training">HPC User Training:</a></b><a name="hpc_training"></a> This is an annual, 10 session course. Participants will learn common HPC concepts including
+    <b>HPC User Training: </b><a name="hpc_training"></a> This is an annual, 10 session course. Participants will learn common HPC concepts including
     optimization, distributed computing, cloud computing, GPU acceleration, and parallel computing.
     Training is presented by SDSC staff and collaborators Those students who complete the HPC training will
     receive an SDSC Certificate of Completion in “HPC Training." The next session begins in January, 2021.
-     More information about HPC Training can be found <a href="">here</a>.
+     More information about HPC Training can be found <a href="https://hpc-students.sdsc.edu/hpc_training">here</a>.
  </li>
   <li><b>Cluster Build-out Projects: </b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster, starting in Spring Quarter, 2021. More information can be found <a href="https://hpc-students.sdsc.edu/pi_proj.html">here</a>
   </li>
