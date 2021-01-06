@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SDSC HPC Students Projects
+title: SDSC HPC Students Projects Pages
 permalink:
 ---
 ### Programs & Activities
