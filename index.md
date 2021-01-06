@@ -17,7 +17,7 @@ Registration and course details can be found <a href="https://hpc-students.sdsc.
 
 ### The UCSD Supercomputing Club
 
-HPC-Students also collaborates deeply with the University of California, San Diego Supercomputing Club. To learn more the club, please visit the [UCSD Supercomputing Club](https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/master/supercomputing_club.html)
+HPC-Students also collaborates deeply with the University of California, San Diego Supercomputing Club. To learn more the club, please visit the [UCSD Supercomputing Club](https://hpc-students.sdsc.edu/Supercomputing_Club)
 <br>
 
 Join the club on its [Slack Workspace](https://hpcstudentsatsdsc.slack.com) to get the most up to date information on the club.
