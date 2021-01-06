@@ -35,8 +35,7 @@ permalink:/projects
     receive an SDSC Certificate of Completion in “HPC Training." The next session begins in January, 2021.
      More information about HPC Training can be found <a href="">here</a>.
  </li>
-  <li><b><a href="https://hpc-students.sdsc.edu/scc20">Cluster build-out team (Raspberry Pi and other architectures):</a>(/pi_cluster)</b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster.
-      (Project starting in Spring Quarter, 2021.
+  <li><b><a href="https://hpc-students.sdsc.edu/pi_proj.html">Raspberry Pi Cluster Build-out):</a>)</b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster. (Project starting in Spring Quarter, 2021.
        More information can be found <a href="https://hpc-students.sdsc.edu/scc">here</a>
   </li>
   <li><b>[SDSC Students@Supercomputing:]
