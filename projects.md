@@ -26,16 +26,16 @@ permalink:/projects
     from all over the world, in a non-stop, 48-hour challenge to complete a real-world scientific workload,
     keep the cluster up and running, attend conference events, and demonstrate to the judges their HPC knowledge
     and skills. Acceptance to the SC competition is competitive and requires intense preparation and skill development.
-    More information can be found <a href="">here</a>.
+    More information can be found here: <a href="https://hpc-students.sdsc.edu/scc20">https://hpc-students.sdsc.edu/scc20</a>.
   </li>
   <li>
     <b>HPC User Training: </b><a name="hpc_training"></a> This is an annual, 10 session course. Participants will learn common HPC concepts including
     optimization, distributed computing, cloud computing, GPU acceleration, and parallel computing.
     Training is presented by SDSC staff and collaborators Those students who complete the HPC training will
     receive an SDSC Certificate of Completion in “HPC Training." The next session begins in January, 2021.
-     More information about HPC Training can be found <a href="https://hpc-students.sdsc.edu/hpc_training">here</a>.
+     More information about HPC Training can be found here: <a href="https://hpc-students.sdsc.edu/hpc_training">https://hpc-students.sdsc.edu/hpc_training</a>.
  </li>
-  <li><b>Cluster Build-out Projects: </b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster, starting in Spring Quarter, 2021. More information can be found <a href="https://hpc-students.sdsc.edu/pi_proj.html">here</a>
+  <li><b>Cluster Build-out Projects: </b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster, starting in Spring Quarter, 2021. More information can be found here: <a href="https://hpc-students.sdsc.edu/pi_proj.html">https://hpc-students.sdsc.edu/pi_proj.html</a>
   </li>
  
   <li><b>UCSD Co-Curricular Records: </b><a name="sdsc_ccr"></a>
