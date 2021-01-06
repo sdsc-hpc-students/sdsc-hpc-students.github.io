@@ -19,7 +19,7 @@ remove:  [Projects and Programs Descriptions](/projs)
 <hr>
 <ul>
   <li>
-    <b> SC Student Cluster Competition Team</b><a name="scc20"></a></li>
+    <b> SC Student Cluster Competition Team</b><a name="scc20"></a>
     SDSC supports many student activities, including the
     (<a href="http://www.studentclustercompetition.us/">http://www.studentclustercompetition.us/</a>).
     SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing.
@@ -31,12 +31,12 @@ remove:  [Projects and Programs Descriptions](/projs)
     and skills. Acceptance to the SC competition is competitive and requires intense preparation and skill development.
   </li>
   <li>
-    <b>[HPC User Training:](/hpc_training)</b><a name="hpc_training"></a> This is an annual, 10 week course. Participants will learn common HPC concepts including
+    <b><a href="https://hpc-students.sdsc.edu/hpc_training">HPC User Training:</a></b><a name="hpc_training"></a> This is an annual, 10 week course. Participants will learn common HPC concepts including
     optimization, distributed computing, cloud computing, GPU acceleration, and parallel computing.
     Training is presented by SDSC staff and collaborators Those students who complete the HPC training will
     receive an SDSC Certificate of Completion in “HPC Training." (Fall Quarter)
   </li>
-  <li><b>[Cluster build-out team (Raspberry Pi and other architectures):](/pi_cluster)</b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster.
+  <li><b><a href="https://hpc-students.sdsc.edu/scc20">Cluster build-out team (Raspberry Pi and other architectures):</a>(/pi_cluster)</b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster.
       See: <a href="https://hpc-students.sdsc.edu/pi_proj.html">https://hpc-students.sdsc.edu/pi_proj.html</a>
       (Spring Quarter).
   </li>
