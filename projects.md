@@ -35,13 +35,9 @@ permalink:/projects
     receive an SDSC Certificate of Completion in “HPC Training." The next session begins in January, 2021.
      More information about HPC Training can be found <a href="">here</a>.
  </li>
-  <li><b><a href="https://hpc-students.sdsc.edu/pi_proj.html">Raspberry Pi Cluster Build-out):</a>)</b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster. (Project starting in Spring Quarter, 2021.
-       More information can be found <a href="https://hpc-students.sdsc.edu/scc">here</a>
+  <li><bCluster Build-out Projects:</a>)</b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster, starting in Spring Quarter, 2021. More information can be found <a href="https://hpc-students.sdsc.edu/pi_proj.html">here</a>
   </li>
-  <li><b>[SDSC Students@Supercomputing:]
-    (https://sc20.supercomputing.org/program/studentssc/)</b>
-
-    <a name="students-at-sc"></a>
+  <li><b>SDSC Students@Supercomputing: <a name="students-at-sc"></a>
     One of the largest technical meetings in HPC in the world is the annual Supercomputing Conference
     (<a href="https://supercomputing.org">https://supercomputing.org</a>). SC is where experts in
     High-Performance Computing (HPC) meet. HPC spans many scientific computing domains including
