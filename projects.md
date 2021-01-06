@@ -4,7 +4,6 @@ title: HPC student projects
 permalink:/projects
 ---
 
-### SDSC HPC Students Projects:
 * [Student Cluster Competition](#scc20)
 * [Cluster build-out team (Raspberry Pi and other architectures)](#pi_cluster)
 * [HPC User Training](#hpc_training)
