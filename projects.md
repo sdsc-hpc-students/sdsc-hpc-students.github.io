@@ -28,24 +28,30 @@ remove:  [Projects and Programs Descriptions](/projs)
     from all over the world, in a non-stop, 48-hour challenge to complete a real-world scientific workload,
     keep the cluster up and running, attend conference events, and demonstrate to the judges their HPC knowledge
     and skills. Acceptance to the SC competition is competitive and requires intense preparation and skill development.
+    More information can be found <a href="">here</a>.
   </li>
   <li>
     <b><a href="https://hpc-students.sdsc.edu/hpc_training">HPC User Training:</a></b><a name="hpc_training"></a> This is an annual, 10 week course. Participants will learn common HPC concepts including
     optimization, distributed computing, cloud computing, GPU acceleration, and parallel computing.
     Training is presented by SDSC staff and collaborators Those students who complete the HPC training will
     receive an SDSC Certificate of Completion in “HPC Training." (Fall Quarter)
-  </li>
+     More information can be found <a href="">here</a>.
+ </li>
   <li><b><a href="https://hpc-students.sdsc.edu/scc20">Cluster build-out team (Raspberry Pi and other architectures):</a>(/pi_cluster)</b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster.
-      See: <a href="https://hpc-students.sdsc.edu/pi_proj.html">https://hpc-students.sdsc.edu/pi_proj.html</a>
-      (Spring Quarter).
+      (Project starting in Spring Quarter, 2021.
+       More information can be found <a href="https://hpc-students.sdsc.edu/scc">here</a>
   </li>
-  <li><b>[SDSC Students@Supercomputing:](https://sc20.supercomputing.org/program/studentssc/)</b> <a name="students-at-sc"></a> One of the largest technical meetings in HPC in the world is
-    the annual Supercomputing Conference
+  <li><b>[SDSC Students@Supercomputing:]
+    (https://sc20.supercomputing.org/program/studentssc/)</b> 
+    
+    <a name="students-at-sc"></a> 
+    One of the largest technical meetings in HPC in the world is the annual Supercomputing Conference
     (<a href="https://supercomputing.org">https://supercomputing.org</a>). SC is where experts in
     High-Performance Computing (HPC) meet. HPC spans many scientific computing domains including
     Math, Physics, Biology, and Data and Environmental Sciences. <br>
-    Applications are open (February 10, 2020 – June 5, 2020) for Student Volunteers,
-    the Student Cluster Competition, and the new #HPCImmersion Program. Get your application started today
-    to join us at #SC20 in Atlanta, GA for the SC Conference! https://sc20.supercomputing.org/program/studentssc/
+    SDSC will sponsor qualified student applications for: Student Volunteers;
+    the Student Cluster Competition team; and the new #HPCImmersion Program. Get your application started today. 
+    More information can be found here: 
+    <a href="hhttps://sc21.supercomputing.org/program/studentssc/">SC Students Program.</a>
   </li>
   </ul>
