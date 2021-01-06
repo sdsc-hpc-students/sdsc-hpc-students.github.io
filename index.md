@@ -17,13 +17,13 @@ Registration and course details can be found <a href="https://hpc-students.sdsc.
 
 ### The UCSD Supercomputing Club
 
-HPC-Students also collaborates deeply with the University of California, San Diego Supercomputing Club. To learn more the club, please visit the [UCSD Supercomputing Club](/Supercomputing_Club)
+HPC-Students also collaborates deeply with the University of California, San Diego Supercomputing Club. To learn more the club, please visit the [UCSD Supercomputing Club](https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/master/supercomputing_club.html)
 <br>
 
 Join the club on its [Slack Workspace](https://hpcstudentsatsdsc.slack.com) to get the most up to date information on the club.
 
 ### Student Internship Activities
-[Internship Listing](/internship): A list of potential internships at SDSC and aroung the world.
+[SDSC Internships](https://www.sdsc.edu/education_and_training/internships.html): A list of potential internships at SDSC and aroung the world.
 
 ### Contact Information:
 
