@@ -37,6 +37,11 @@ permalink:/projects
  </li>
   <li><b>Cluster Build-out Projects: </b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster, starting in Spring Quarter, 2021. More information can be found <a href="https://hpc-students.sdsc.edu/pi_proj.html">here</a>
   </li>
+ 
+  <li><b>UCSD Co-Curricular Records: </b><a name="sdsc_ccr</a>
+ The HPC Students Program has been working with the UCSD Co-Curricular Record team to create a system where SDSC staff and researchers can grant Co-Curricular Record credit to thier students. You can find the list of SDSC
+approved CCR positions on the <a href="https://elt.ucsd.edu/ccr/ccrapprovedopportunities.html#San-Diego-Supercomputer-Center-">CCR Approved Opportunities</a> page. For more information, see: https://hpc-students.sdsc.edu/sdsc-ccr-program.html.
+</li>
  <li><b>SDSC Students@Supercomputing: </b><a name="students-at-sc"></a>
     One of the largest technical meetings in HPC in the world is the annual Supercomputing Conference
     (<a href="https://supercomputing.org">https://supercomputing.org</a>). SC is where experts in
