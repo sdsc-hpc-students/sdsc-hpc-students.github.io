@@ -1,9 +1,12 @@
 
 ### SDSC HPC Students Project Repository
 
-HPC Students is a program for educating and training the next generation of the High-Performance Computing workforce that focuses on educating and training students. It is designed to educate students from high school to grad school about HPC, to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. The program initially works with UCSD undergraduates, but will be expanded to include other groups as time and budget permits. For more information, see:
-* [SDSC HPC Students Program](https://www.sdsc.edu/education_and_training/hpc_students.html)
-* [UCSD Supercomputing Club](https://hpc-students.sdsc.edu/Supercomputing_Club)
+The SDSC HPC Students Program is focussed on educating and training the next generation of the High-Performance Computing workforce.
+It is designed to educate students from high school to grad school about HPC, to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. The program initially works with UCSD undergraduates, but will be expanded to include other groups as time and budget permits. For more information, [see](https://www.sdsc.edu/education_and_training/hpc_students.html).
+
+This repository contains information about our active projects. For details about the projects, see our webpages [here](https://hpc-students.sdsc.edu/)
+
+The HPC Students program interacts with many UCSD clubs through our collaboration with the [UCSD Supercomputing Club](https://hpc-students.sdsc.edu/Supercomputing_Club). Contact the club for more information.
 
 
 ### Contact Information:
