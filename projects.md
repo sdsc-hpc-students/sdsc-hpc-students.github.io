@@ -11,7 +11,7 @@ HPC Students is a program for educating and training the next generation of the 
 * [Student Cluster Competition](#scc)
 * [Cluster build-out team (Raspberry Pi and other architectures)](#pi_cluster)
 * [HPC User Training](#hpc_training)
-* [UCSD Co-Curricular Records](#sdsc_ccr)
+* [SDSC Co-Curricular Records](#sdsc_ccr)
 * [SDSC Students@Supercomputing](#students-at-sc)
 * Quick-start tutorials (Club activity)
  
@@ -40,7 +40,7 @@ HPC Students is a program for educating and training the next generation of the 
   <li><b>Cluster Build-out Projects: </b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster, starting in Spring Quarter, 2021. More information can be found here: <a href="https://hpc-students.sdsc.edu/pi_proj.html">https://hpc-students.sdsc.edu/pi_proj.html</a>
   </li>
  
-  <li><b>UCSD Co-Curricular Records: </b><a name="sdsc_ccr"></a>
+  <li><b>SDSC Co-Curricular Records: </b><a name="sdsc_ccr"></a>
  The HPC Students Program has been working with the UCSD Co-Curricular Record team to create a system where SDSC staff and researchers can grant Co-Curricular Record credit to thier students. You can find the list of SDSC
 approved CCR positions on the <a href="https://elt.ucsd.edu/ccr/ccrapprovedopportunities.html#San-Diego-Supercomputer-Center-">CCR Approved Opportunities</a> page. For more information, see: <a href="https://hpc-students.sdsc.edu/sdsc-ccr-program.html">https://hpc-students.sdsc.edu/sdsc-ccr-program.html</a>.
 </li>
