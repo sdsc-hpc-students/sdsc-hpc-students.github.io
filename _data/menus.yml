@@ -9,7 +9,7 @@ main:
     url: "/scc"
     weight: 4
   - name: "HPC USER TRAINING"
-    url: "/hpc_training"
+    url: "https://tinyurl.com/sdsc-hpc-user-training"
     weight: 5
   - name: "NEWS"
     url: "/news"
