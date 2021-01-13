@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HPC Student Projects
-permalink:/projects
+permalink:
 ---
 
 ## Programs & Activities:
