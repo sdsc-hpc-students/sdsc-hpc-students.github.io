@@ -1,10 +1,10 @@
 ---
 layout: page
-title: HPC Student rPojects
+title: HPC Student Projects
 permalink:/projects
 ---
 
-## SDSC HPC Students Programs & Activities:
+## Programs & Activities:
 
 HPC Students is a program for educating and training the next generation of the High-Performance Computing workforce that focuses on educating and training students. It is designed to educate students from high school to grad school about HPC, to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. Current projects include:
 
