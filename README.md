@@ -1,5 +1,6 @@
 
 ### Programs & Activities
+#### this is README.md page
 
 HPC Students is a program for educating and training the next generation of the High-Performance Computing workforce that focuses on educating and training students. It is designed to educate students from high school to grad school about HPC, to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. The program initially works with UCSD undergraduates, but will be expanded to include other groups as time and budget permits. 
 <center>
