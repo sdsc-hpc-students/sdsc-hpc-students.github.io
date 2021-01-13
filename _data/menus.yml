@@ -5,8 +5,8 @@ main:
   - name: "PROJECTS"
     url: "/projects"
     weight: 3
-  - name: "SCC20"
-    url: "/scc20"
+  - name: "SCC"
+    url: "/scc"
     weight: 4
   - name: "HPC USER TRAINING"
     url: "/hpc_training"

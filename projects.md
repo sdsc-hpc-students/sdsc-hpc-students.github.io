@@ -6,7 +6,7 @@ permalink:/projects
 
 ## Current HPC student projects:
 
-* [Student Cluster Competition](#scc20)
+* [Student Cluster Competition](#scc)
 * [Cluster build-out team (Raspberry Pi and other architectures)](#pi_cluster)
 * [HPC User Training](#hpc_training)
 * [UCSD Co-Curricular Records](#sdsc_ccr)
@@ -16,7 +16,7 @@ permalink:/projects
 <hr>
 <ul>
   <li>
-    <b> SC Student Cluster Competition Team</b><a name="scc20"></a>
+    <b> SC Student Cluster Competition Team</b><a name="scc"></a>
     SDSC supports many student activities, including the
     (<a href="http://www.studentclustercompetition.us/">http://www.studentclustercompetition.us/</a>).
     SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing.
@@ -26,7 +26,7 @@ permalink:/projects
     from all over the world, in a non-stop, 48-hour challenge to complete a real-world scientific workload,
     keep the cluster up and running, attend conference events, and demonstrate to the judges their HPC knowledge
     and skills. Acceptance to the SC competition is competitive and requires intense preparation and skill development.
-    More information can be found here: <a href="https://hpc-students.sdsc.edu/scc20">https://hpc-students.sdsc.edu/scc20</a>.
+    More information can be found here: <a href="https://hpc-students.sdsc.edu/scc">https://hpc-students.sdsc.edu/scc</a>.
   </li>
   <li>
     <b>HPC User Training: </b><a name="hpc_training"></a> This is an annual, 10 session course. Participants will learn common HPC concepts including
