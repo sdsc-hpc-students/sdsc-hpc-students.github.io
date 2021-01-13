@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HPC Student Projects
-permalink:/projects
+permalink: /projects
 ---
 
 ## Programs & Activities:
@@ -12,7 +12,7 @@ HPC Students is a program for educating and training the next generation of the 
 * [Cluster build-out team (Raspberry Pi and other architectures)](#pi_cluster)
 * [HPC User Training](#hpc_training)
 * [UCSD Co-Curricular Records](#sdsc_ccr)
-* [SDSC Students@Supercomputing:](#students-at-sc)
+* [SDSC Students@Supercomputing](#students-at-sc)
 * Quick-start tutorials (Club activity)
  
 <hr>
