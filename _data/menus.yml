@@ -2,21 +2,18 @@ main:
   - name: "HOME"
     url: "/"
     weight: 2
-  - name: "PROJECTS"
-    url: "/projects"
-    weight: 3
   - name: "SCC"
     url: "/scc"
-    weight: 4
+    weight: 3
   - name: "HPC USER TRAINING"
     url: "https://tinyurl.com/sdsc-hpc-user-training"
-    weight: 5
+    weight: 4
   - name: "NEWS"
     url: "/news"
-    weight: 6
+    weight: 5
   - name: "SC CLUB"
     url: "http://supercomputing-club.sdsc.edu/"
-    weight: 7
+    weight: 6
 
 footer:
   - name: "HOME"
