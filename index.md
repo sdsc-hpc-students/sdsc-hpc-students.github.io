@@ -37,7 +37,7 @@ HPC Students is a program for educating and training the next generation of the 
     receive an SDSC Certificate of Completion in “HPC Training." UCSD students are eligible for CCR credit. The next session begins in January, 2021.
      More information about SDSC HPC User Training can be found <a href="https://na.eventscloud.com/website/21055/home/">here</a>.
  </li>
-  <li><b>Cluster Build-out Projects: </b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster, starting in Spring Quarter, 2021. More information can be found here: <a href="https://hpc-students.sdsc.edu/pi_proj.html">https://hpc-students.sdsc.edu/pi_proj.html</a>
+  <li><b>Cluster Build-out Projects: </b><a name="pi_clustfer"></a> Students will work together to build a 16 or 32 node PI cluster, starting in Spring Quarter, 2021. More information can be found here: <a href="https://hpc-students.sdsc.edu/pi_proj.html">https://hpc-students.sdsc.edu/pi_proj.html</a>
   </li>
  
   <li><b>UCSD Co-Curricular Records: </b><a name="sdsc_ccr"></a>
