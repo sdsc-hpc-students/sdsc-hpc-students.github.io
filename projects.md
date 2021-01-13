@@ -1,10 +1,12 @@
 ---
 layout: page
-title: HPC student projects
+title: HPC Student rPojects
 permalink:/projects
 ---
 
-## Current HPC student projects:
+## SDSC HPC Students Programs & Activities:
+
+HPC Students is a program for educating and training the next generation of the High-Performance Computing workforce that focuses on educating and training students. It is designed to educate students from high school to grad school about HPC, to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. Current projects include:
 
 * [Student Cluster Competition](#scc)
 * [Cluster build-out team (Raspberry Pi and other architectures)](#pi_cluster)
@@ -29,11 +31,11 @@ permalink:/projects
     More information can be found here: <a href="https://hpc-students.sdsc.edu/scc">https://hpc-students.sdsc.edu/scc</a>.
   </li>
   <li>
-    <b>HPC User Training: </b><a name="hpc_training"></a> This is an annual, 10 session course. Participants will learn common HPC concepts including
+    <b>HPC User Training: </b><a name="hpc_training"></a> This is an annual course, consisting of multiple sessions spread out over several weeks. Participants will learn common HPC concepts including
     optimization, distributed computing, cloud computing, GPU acceleration, and parallel computing.
     Training is presented by SDSC staff and collaborators Those students who complete the HPC training will
-    receive an SDSC Certificate of Completion in “HPC Training." The next session begins in January, 2021.
-     More information about HPC Training can be found here: <a href="https://hpc-students.sdsc.edu/hpc_training">https://hpc-students.sdsc.edu/hpc_training</a>.
+    receive an SDSC Certificate of Completion in “HPC Training." UCSD students are eligible for CCR credit. The next session begins in January, 2021.
+     More information about HPC Training can be found here: <a href="https://na.eventscloud.com/website/21055/home/">https://na.eventscloud.com/website/21055/home/</a>.
  </li>
   <li><b>Cluster Build-out Projects: </b><a name="pi_cluser"></a> Students will work together to build a 16 or 32 node PI cluster, starting in Spring Quarter, 2021. More information can be found here: <a href="https://hpc-students.sdsc.edu/pi_proj.html">https://hpc-students.sdsc.edu/pi_proj.html</a>
   </li>
