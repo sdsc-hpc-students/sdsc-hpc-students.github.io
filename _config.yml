@@ -13,7 +13,7 @@ avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
-baseurl: "/hpc_students_demo"
+baseurl: "https://hpc-students.sdsc.eduhttps://hpc-students.sdsc.edu"
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages", "_portfolio"]
