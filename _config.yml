@@ -1,30 +1,73 @@
-baseurl: ''
-exclude: ['README.md']
-permalink: pretty
-title: 'SDSC HPC Students Projects'
+# Outputting
+permalink: /:categories/:year/:month/:day/:title.html
 
-google_analytics_id: ""
-homepage:
-  show_call_box: true
-logo:
-  mobile: "images/logo/logo.svg"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "36px"
-footer:
+# Conversion
+markdown:         kramdown
+highlighter:      rouge
+excerpt_separator: <!--more-->
 
-seo:
+# Config for your profile.
+title:            HPC Students            # Site title
+name:             HPC Students            # Your name
+avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
+# The theme uses the baseurl throughout, which is useful for running the entire
+# site under a subdir, like for this GitHub Pages deployment as a project site.
+baseurl: "/hpc_students_demo"
 
-collections:
-  services:
-    output: true
-  team:
-    output: true
+# Add a directory to hold misc pages, just to keep the root directory clean.
+include: ["_pages", "_portfolio"]
 
+# Wire in the SASS files in the theme directory.
 sass:
-  indentWidth: 4
-  style: compact # possible values: nested expanded compact compressed
-  precision: 10
+  sass_dir: theme/_sass
+  style: compressed
 
-plugins:
-  - jekyll-environment-variables
+# Turn the projects into a collection.
+collections:
+  projects:
+    output: true
+    title: SDSC HPC Students
+    permalink: /:collection/:name.html
+  portfolio:
+    output: true
+    title: HPC Students Projects
+    permalink: /:collection/:name.html
+
+defaults:
+# Turn the profile sidebar on for all pages by default, except for the
+# collections, where it is off and replaced by useful things on the sidebar.
+# To override this one a page, use
+#    show_profile: false
+# to hide the profile.
+  -
+    scope:
+      path: ""
+    values:
+      show_profile: true
+  -
+    scope:
+      path: "_posts"
+    values:
+      show_profile: false
+      layout: defaults/post
+  -
+    scope:
+      path: "_portfolio"
+    values:
+      show_profile: false
+      layout: defaults/portfolio
+  -
+    scope:
+      path: "_projects"
+    values:
+      show_profile: false
+      layout: defaults/project
+  -
+    scope:
+      path: "list"
+    values:
+      show_profile: false
+      layout: defaults/list
+
+

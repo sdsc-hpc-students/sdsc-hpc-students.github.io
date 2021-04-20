@@ -1,33 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.svg' | relative_url }}">
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
-  <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
-  {% if page.description %}
-  <meta name="description" content="{{ page.description }}" />
-  {% endif %}
-  <meta property="og:title" content="{{ site.seo.meta_og_title }}" />
-  <meta property="og:type" content="{{ site.seo.meta_og_type }}" />
-  <meta property="og:url" content="{{ site.seo.meta_og_url }}" />
-  <meta property="og:image" content="{{ site.seo.meta_og_image }}" />
-  <meta property="og:description" content="{{ site.seo.meta_og_description }}" />
-  <meta name="twitter:card" content="{{ site.seo.meta_twitter_card }}" />
-  <meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}" />
-  <meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}" />
-</head>
-<body class='page {{page.bodyClass}}'>
-  {% include main-menu-mobile.html %}
-  <div id="wrapper" class="wrapper">
-    {% include header.html headerClass='header-extra' %}
-    {{content}}
-  </div>
-  {% include footer.html %}
-  {% include sub-footer.html %}
-  <script type="text/javascript" src="{{ "/assets/js/scripts.js" | relative_url }}""></script>
-  {% include google-analytics.html %}
+
+{% include structure/head.html %}
+
+<body>
+
+{% include bars/nav.html %}
+
+{% capture col1 %}{% if page.narrow %}3{% else %}4{% endif %}{% endcapture %}
+
+{% capture col2 %}{% if page.narrow %}9{% else %}8{% endif %}{% endcapture %}
+
+<div class="container site-container" id="top">
+    <div class="row">
+        <div class="d-none d-lg-block col-lg-4 col-xl-{{ col1 }} side">
+            {% include bars/side.html %}
+        </div>
+        <div class="col-md-12 col-lg-8 col-xl-{{ col2 }} pb-4 content">
+            {{ content }}
+        </div>
+        <div class="col-md-12 d-lg-none bottom">
+            {% include bars/bottom.html %}
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+/*!
+ * IE10 viewport hack for Surface/desktop Windows 8 bug
+ * Copyright 2014-2017 The Bootstrap Authors
+ * Copyright 2014-2017 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+// See the Getting Started docs for more information:
+// https://getbootstrap.com/getting-started/#support-ie10-width
+
+(function () {
+    'use strict'
+
+    if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+        var msViewportStyle = document.createElement('style')
+        msViewportStyle.appendChild(
+            document.createTextNode(
+                '@-ms-viewport{width:auto!important}'
+            )
+        )
+        document.head.appendChild(msViewportStyle)
+    }
+}())
+</script>
+
 </body>
+
 </html>

@@ -1,0 +1,13 @@
+---
+title:  SDSC HPC User Training to begin on January 22 2021
+tags:
+  - HPC User Training
+---
+
+<p>
+    The 2021 course is scheduled to be held in two sessions: Session #1: January 22, 2021 - March 12, 2021; Session #2: April 2, 2021 - May 7, 2021. Training sessions will be held on Fridays from 1:00pm to 3:00pm in the SDSC SynCenter (or the Auditorium, if needed). Registration and course details can be found <a href="https://na.eventscloud.com/website/21055/home/">here.</a>
+</p>
+<p>
+This High-Performance Computing (HPC) User Training series is open to all who are interested in advancing their knowledge and experience on HPC systems and concepts.  The program was originally developed in 2019 to support UCSD undergraduates interested in furthering their knowledge of HPC concepts and hands-on training, as well as, building a team interested in competing in the annual Student Cluster Competition held at the annual International Conference for High Performance Computing, Networking, Storage, and Analysis (SC). This program continues to focus efforts on building a team to compete in the annual SC Student Cluster Competition but also extends to any who are interested in attending.     
+
+</p>
