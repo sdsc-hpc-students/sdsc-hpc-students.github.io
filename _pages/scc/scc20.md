@@ -5,7 +5,7 @@ narrow: true
 title: 2020 Student Cluster Competition  
 ---
 
-<img class="card-img-top" src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/master/images/vscc-dashboard_scc20.jpg"/>
+<img class="card-img-top" src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/master/images/vscc-dashboard_scc20.jpg?raw=true"/>
 
 <h3>SCC20 Competition Details</h3>
 <p>
