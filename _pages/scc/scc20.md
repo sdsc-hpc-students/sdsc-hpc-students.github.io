@@ -4,8 +4,6 @@ permalink: scc/scc20.html
 narrow: true
 title: 2020 Student Cluster Competition  
 ---
-<img src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/master/images/vscc-dashboard_scc20.jpg">
-![connection over HTTP](https://raw.githubusercontent.com/sdsc-hpc-students/sdsc-hpc-students.github.io/master/images/vscc-dashboard_scc20.jpg)
 
 <!----
 ![connection over HTTP](https://raw.githubusercontent.com/sdsc-hpc-training-org/notebooks-101/master/Docs/images/jupyter-notebook-launch-methods.png)
@@ -68,6 +66,7 @@ Note that acceptance to participate in the VSCC will not require on-site partici
     </p>
 
 ---->
+![connection over HTTP](https://raw.githubusercontent.com/sdsc-hpc-students/sdsc-hpc-students.github.io/master/images/vscc-dashboard_scc20.jpg)
 
 
 
