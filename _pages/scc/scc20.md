@@ -5,8 +5,8 @@ narrow: true
 title: 2020 Student Cluster Competition  
 ---
 <img src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/images/vscc-dashboard_scc20.jpg">
-[[https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/images/vscc-dashboard_scc20.jpg|alt=octocat]]
 <!----
+[[https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/images/vscc-dashboard_scc20.jpg|alt=octocat]]
 [[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
 <img class="card-img-top" src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/master/images/vscc-dashboard_scc20.jpg?raw=true"/>
 ---->
