@@ -5,14 +5,7 @@ narrow: true
 title: 2020 Student Cluster Competition  
 ---
 
-<!----
-![connection over HTTP](https://raw.githubusercontent.com/sdsc-hpc-training-org/notebooks-101/master/Docs/images/jupyter-notebook-launch-methods.png)
 
-<img src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/images/vscc-dashboard_scc20.jpg">
-[[https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/images/vscc-dashboard_scc20.jpg|alt=octocat]]
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
-<img class="card-img-top" src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/master/images/vscc-dashboard_scc20.jpg?raw=true"/>
----->
 
 <h3>SCC20 Competition Details</h3>
 <p>
@@ -66,7 +59,16 @@ Note that acceptance to participate in the VSCC will not require on-site partici
     </p>
 
 ---->
+<img src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/images/vscc-dashboard_scc20.jpg">
+
+
+<!----
 ![connection over HTTP](https://raw.githubusercontent.com/sdsc-hpc-students/sdsc-hpc-students.github.io/master/images/vscc-dashboard_scc20.jpg)
 
+![connection over HTTP](https://raw.githubusercontent.com/sdsc-hpc-training-org/notebooks-101/master/Docs/images/jupyter-notebook-launch-methods.png)
 
+[[https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/images/vscc-dashboard_scc20.jpg|alt=octocat]]
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+<img class="card-img-top" src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/master/images/vscc-dashboard_scc20.jpg?raw=true"/>
+---->
 
