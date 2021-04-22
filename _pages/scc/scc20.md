@@ -5,7 +5,7 @@ narrow: true
 title: 2020 Student Cluster Competition  
 ---
 
-<img class="card-img-top" src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/97dbbda1c637213c87ca61bdf25a4abc41e12fd4/images/ucsd-logo.png"/>
+<img class="card-img-top" src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/master/images/vscc-dashboard_scc20.jpg"/>
 
 <h3>SCC20 Competition Details</h3>
 <p>
