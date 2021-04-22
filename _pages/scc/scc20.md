@@ -5,6 +5,8 @@ narrow: true
 title: 2020 Student Cluster Competition  
 ---
 
+<img class="card-img-top" src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/97dbbda1c637213c87ca61bdf25a4abc41e12fd4/images/ucsd-logo.png"/>
+
 <h3>SCC20 Competition Details</h3>
 <p>
 Due to the impact of Covid-19, the SC Conference is modifying the Student Cluster Competition
@@ -51,10 +53,12 @@ Note that acceptance to participate in the VSCC will not require on-site partici
 <p><em>Women, underrepresented minorities, and other groups who are not fully represented in STEM fields are strongly encouraged to apply.
     </em><p>
 
+<!----
 <p><h3>check out our poster here!</h3>
     <embed src="../images/poster.pdf" width="1100px" height="1100px" />
     </p>
 
+---->
 
 
 
