@@ -4,7 +4,7 @@ permalink: scc/scc20.html
 narrow: true
 title: 2020 Student Cluster Competition  
 ---
-<img src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/master/images/vscc-dashboard_scc20.jpg>
+<img src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/master/images/vscc-dashboard_scc20.jpg">
 
 <!----
 <img src="https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/images/vscc-dashboard_scc20.jpg">
