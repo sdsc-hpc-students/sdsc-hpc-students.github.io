@@ -5,7 +5,9 @@ narrow: true
 title: 2021 Student Cluster Competition 
 ---
 
-YOU ARE INVITED: APPLY TODAY TO COMPETE AT THE STUDENT CLUSTER COMPETITION AT SC21!
+(YOU ARE INVITED: APPLY TODAY TO COMPETE AT THE STUDENT CLUSTER COMPETITION AT SC21!}[https://na.eventscloud.com/ereg/record.php?id=4644b1930e2ff1f408d10eb8f20c97c7-MjAyMC0wNiM1ZWVhOTM1ZTRiODMz]
+
+Apply [Here:](https://na.eventscloud.com/ereg/record.php?id=4644b1930e2ff1f408d10eb8f20c97c7-MjAyMC0wNiM1ZWVhOTM1ZTRiODMz)
 
 <h4>Deadlines</h4>
 <ul>
@@ -25,8 +27,8 @@ The SCC competition is competitive and requires intense preparation and skill de
 
 Reference Links
 <a href="https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/">SC21 Student Cluster Competition</a><br>`
-<a href="https://www.studentclustercompetition.us/2020/Teams/Team06/index.html">SC20 Student Cluster Competition Team site</a><br>`
-<a href="https://hpc-students.sdsc.edu/scc">SC20 Student Cluster Competition – Superscalers Blog Page</a><br>`
+<a href="https://www.studentclustercompetition.us/2020/Teams/Team06/index.html">SC20 Student Cluster Competition Team site</a><br>
+<a href="https://hpc-students.sdsc.edu/scc">SC20 Student Cluster Competition – Superscalers Blog Page</a><br>
 
 If you have any questions regarding this program feel free to contact Mary Thomas at mpthomas@ucsd.edu.
 
