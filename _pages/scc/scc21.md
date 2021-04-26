@@ -5,7 +5,7 @@ narrow: true
 title: 2021 Student Cluster Competition 
 ---
 
-(YOU ARE INVITED: APPLY TODAY TO COMPETE AT THE STUDENT CLUSTER COMPETITION AT SC21!}[https://na.eventscloud.com/ereg/record.php?id=4644b1930e2ff1f408d10eb8f20c97c7-MjAyMC0wNiM1ZWVhOTM1ZTRiODMz]
+(YOU ARE INVITED: APPLY TODAY TO COMPETE AT THE STUDENT CLUSTER COMPETITION AT SC21!][https://na.eventscloud.com/ereg/record.php?id=4644b1930e2ff1f408d10eb8f20c97c7-MjAyMC0wNiM1ZWVhOTM1ZTRiODMz]
 
 Apply [Here:](https://na.eventscloud.com/ereg/record.php?id=4644b1930e2ff1f408d10eb8f20c97c7-MjAyMC0wNiM1ZWVhOTM1ZTRiODMz)
 
