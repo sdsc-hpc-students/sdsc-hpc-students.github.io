@@ -6,7 +6,7 @@ tags:
   - HPC
 ---
 
-<h3>STUDENT CLUSTER COMPETITION @ SCC21 -- APPLY TODAY TO BE ON THE TEAM:</h3>
+<h3>STUDENT CLUSTER COMPETITION @ SCC21 -- Apply Today to be on the Team!</h3>
 Deadlines:<br>
 <ul>
 <li>Application Deadline: Thursday, April 29, 2021</li>
