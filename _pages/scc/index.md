@@ -5,20 +5,8 @@ narrow: true
 title: Student Cluster Competition 
 ---
 
-<h3>Apply to join the SCC21 team <b><a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">here.</a></b>
+<h3>Apply to join the SCC21 team <a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">here.</a></h3>
 <hr>
-### from other page
-   <b> SC Student Cluster Competition Team</b><a name="scc"></a>
-    SDSC supports many student activities, including the
-    (<a href="http://www.studentclustercompetition.us/">http://www.studentclustercompetition.us/</a>).
-    SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing.
-    Student teams must learn to design and build small cluster with support from mentors, hardware and
-    software vendor partners, learn designated scientific applications, apply optimization techniques
-    for their chosen architectures. At the SC conference, teams of 6 students compete against teams
-    from all over the world, in a non-stop, 48-hour challenge to complete a real-world scientific workload,
-    keep the cluster up and running, attend conference events, and demonstrate to the judges their HPC knowledge
-    and skills. Acceptance to the SC competition is competitive and requires intense preparation and skill development.
-    More information can be found here: <a href="https://hpc-students.sdsc.edu/scc">https://hpc-students.sdsc.edu/scc</a>.
   
 <hr>
 <h3>Overview</h3>
@@ -38,6 +26,18 @@ preparation and skill development.</p>
 <li> Checkout our SCC21 plans <a href="scc21.html">here</a>. </li>
 <li> Checkout our SCC20 activities <a href="scc20.html">here</a>. </li>
 </ul>
+### from other page
+   <b> SC Student Cluster Competition Team</b>
+    SDSC supports many student activities, including the
+    (<a href="http://www.studentclustercompetition.us/">http://www.studentclustercompetition.us/</a>).
+    SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing.
+    Student teams must learn to design and build small cluster with support from mentors, hardware and
+    software vendor partners, learn designated scientific applications, apply optimization techniques
+    for their chosen architectures. At the SC conference, teams of 6 students compete against teams
+    from all over the world, in a non-stop, 48-hour challenge to complete a real-world scientific workload,
+    keep the cluster up and running, attend conference events, and demonstrate to the judges their HPC knowledge
+    and skills. Acceptance to the SC competition is competitive and requires intense preparation and skill development.
+    More information can be found here: <a href="https://hpc-students.sdsc.edu/scc">https://hpc-students.sdsc.edu/scc</a>.
 
 
 
