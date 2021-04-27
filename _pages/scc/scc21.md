@@ -5,9 +5,7 @@ narrow: true
 title: 2021 Student Cluster Competition 
 ---
 
-## Apply by Thursday, April 29, 2021, to Join  the SDSC/UCSD Student Cluster Competition Team at SC21:
-
-Apply [here:](https://na.eventscloud.com/ereg/newreg.php?eventid=613507&)
+<h3>Apply by Thursday, April 29, 2021, to join the SCC21 team <b><a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">here.</a></b>
 
 <h4>Deadlines</h4>
 <ul>
