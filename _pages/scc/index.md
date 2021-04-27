@@ -7,7 +7,8 @@ title: Student Cluster Competition
 
 ## About the Student Cluster Competition 
 
-<h3>Apply to join the SCC21 team <b><a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">HERE</a></b>.
+<h3>Apply to join the SCC21 team <b><a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">Here.</a></b>
+
 <hr>
 <h3>Overview</h3>
 <p>SDSC supports many student activities, including the
