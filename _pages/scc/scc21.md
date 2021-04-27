@@ -11,9 +11,9 @@ Apply [Here:](https://na.eventscloud.com/ereg/record.php?id=4644b1930e2ff1f408d1
 
 <h4>Deadlines</h4>
 <ul>
-<li>Application Deadline: Friday, April 23, 2021</li>
-<li>Application Notification: Tuesday, April 27, 2021</li>
-<li>Acceptance Deadline: Friday, April 30, 2021</li>
+<li>Application Deadline: Thursday, April 29, 2021</li>
+<li>Application Notification: Friday, April 30, 2021</li>
+<li>Acceptance Deadline: Saturday, May 1, 2021</li>
 <li>Proposal Due: Monday, May 3, 2021</li>
 </ul>
 
