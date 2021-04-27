@@ -9,18 +9,26 @@ title: SDSC HPC Students  Projects
 
 HPC Students is a program for educating and training the next generation of the High-Performance Computing workforce that focuses on educating and training students. It is designed to educate students from high school to grad school about HPC, to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. Current projects include:
 
-* [Student Cluster Competition](#scc)
+* <a href="https://hpc-students.sdsc.edu/scc/index.html">Student Cluster Competition</a><br>
+SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing.
+    Student teams must learn to design and build small cluster with support from mentors, hardware and
+    software vendor partners, learn designated scientific applications, apply optimization techniques
+    for their chosen architectures... <a href="https://hpc-students.sdsc.edu/scc/index.html">More...</a>
+
 * [Cluster build-out team (Raspberry Pi and other architectures)](#pi-proj)
-* <a href="https://hpc-students.sdsc.edu/hpc-training/index.html">HPC User Training</a>
+
+* <a href="https://hpc-students.sdsc.edu/hpc-training/index.html">HPC User Training</a><br>
 This is an annual course, consisting of multiple sessions spread out over several weeks. Participants will learn common HPC concepts including optimization, distributed computing, cloud computing,
+
 * [UCSD Co-Curricular Records](#sdsc-ccr)
+
 * [SDSC Students@Supercomputing:](#students-at-sc)
-* Quick-start tutorials (Club activity)
+
+* Quick-start tutorials: <a href="">UCSD Supercomputing Club activity</a>
+ <hr>
  
-<hr>
 <ul>
-  <li>
-    <b> SC Student Cluster Competition Team</b><a name="scc"></a>
+  <li><b> SC Student Cluster Competition Team</b><a name="scc"></a>
     SDSC supports many student activities, including the
     (<a href="http://www.studentclustercompetition.us/">http://www.studentclustercompetition.us/</a>).
     SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing.
