@@ -5,7 +5,7 @@ narrow: true
 title: Student Cluster Competition 
 ---
 
-<h3>Apply to join the SCC21 team <b><a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">Here.</a></b>
+<h3>Apply to join the SCC21 team <b><a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">here.</a></b>
 
 <hr>
 <h3>Overview</h3>
