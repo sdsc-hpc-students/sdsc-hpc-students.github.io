@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: SDSC HPC Students Programs
+title: SDSC HPC Students  Projects
 ---
 
 ## Current Projects & Activities:
@@ -11,7 +11,8 @@ HPC Students is a program for educating and training the next generation of the 
 
 * [Student Cluster Competition](#scc)
 * [Cluster build-out team (Raspberry Pi and other architectures)](#pi-proj)
-* [HPC User Training](#hpc-training)
+* <a href="<a href="https://hpc-students.sdsc.edu/hpc-training/index.html">HPC User Training</a>
+This is an annual course, consisting of multiple sessions spread out over several weeks. Participants will learn common HPC concepts including optimization, distributed computing, cloud computing,
 * [UCSD Co-Curricular Records](#sdsc-ccr)
 * [SDSC Students@Supercomputing:](#students-at-sc)
 * Quick-start tutorials (Club activity)
@@ -31,7 +32,6 @@ HPC Students is a program for educating and training the next generation of the 
     and skills. Acceptance to the SC competition is competitive and requires intense preparation and skill development.
     More information can be found here: <a href="https://hpc-students.sdsc.edu/scc">https://hpc-students.sdsc.edu/scc</a>.
   </li>
-  <li>
     <b>SDSC HPC User Training: </b><a name="hpc-training"></a> This is an annual course, consisting of multiple sessions spread out over several weeks. Participants will learn common HPC concepts including
     optimization, distributed computing, cloud computing, GPU acceleration, and parallel computing.
     Training is presented by SDSC staff and collaborators Those students who complete the HPC training will
