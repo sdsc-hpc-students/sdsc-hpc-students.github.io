@@ -5,8 +5,6 @@ narrow: true
 title: Student Cluster Competition 
 ---
 
-## About SDSC and the SC Student Cluster Competition 
-
 <h3>Apply to join the SCC21 team <b><a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">Here.</a></b>
 
 <hr>
