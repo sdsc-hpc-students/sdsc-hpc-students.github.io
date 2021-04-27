@@ -25,10 +25,10 @@ A team of 6 UC San Diego students will be selected to form the core team, as wel
 
 The SCC competition is competitive and requires intense preparation and skill development.  We expect each member of the team to commit 10-20 hours a week through summer and fall.  The competition will run November 16 – 18, for a continual 48 hours.  All team members are required to fully participate during the competition.  If you are selected we will assist you to work with professors to help arrange any missed classes.  The conference is to be held in St. Louis, Missouri, however, it is still to be determined if this event will be held in-person, remote or hybrid.  The application will ask your preference.    As part of the application we will ask you for a brief 2-4 sentence bio.  If selected this will be used on the competition website.  See the SC20 SCC Team site for an example.
 
-Reference Links
-<a href="https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/">SC21 Student Cluster Competition</a><br>`
+Reference Links:<br>
+<a href="https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/">SC21 Student Cluster Competition</a><br>
 <a href="https://www.studentclustercompetition.us/2020/Teams/Team06/index.html">SC20 Student Cluster Competition Team site</a><br>
-<a href="https://hpc-students.sdsc.edu/scc">SC20 Student Cluster Competition – Superscalers Blog Page</a><br>
+<a href="https://hpc-students.sdsc.edu/scc"> SC20 Student Cluster Competition – Superscalers Blog Page </a><br>
 
 If you have any questions regarding this program feel free to contact Mary Thomas at mpthomas@ucsd.edu.
 
