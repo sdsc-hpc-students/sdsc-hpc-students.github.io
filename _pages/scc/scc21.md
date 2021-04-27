@@ -5,7 +5,8 @@ narrow: true
 title: 2021 Student Cluster Competition 
 ---
 
-<h3>Apply to join the SCC21 team <b><a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">here</a> (applications close by midnight on Thursday, April 29, 2021).</b>
+<h3>Apply to join the SCC21 team <b><a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">here</a> </h3> <br>
+  Note: applications close by midnight on Thursday, April 29, 2021.
 
 <h4>Deadlines</h4>
 <ul>
