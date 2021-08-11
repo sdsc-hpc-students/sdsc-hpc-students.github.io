@@ -10,7 +10,7 @@ title: 2021 Student Cluster Competition
 <a href="#training">SCC21 Team training plans</a><br>
 <a href="#selected">SCC21 Team Selected</a><br>
 <a href="#application">Apply for the SCC21 Team</a><br>
-<a href="#links">SCC Links & Info</a><br>
+<a href="#refs">SCC References, Links & Info</a><br>
 
 <hr>
 <h3 id="training">SCC21 Team Training</h3>
@@ -49,7 +49,7 @@ The SCC competition is competitive and requires intense preparation and skill de
 [Back to Top]
 
 <hr>
-<h3 id="links">SCC21 Links and Information</h3>
+<h3 id="refs">SCC21 References, Links, and Information</h3>
 <a href="https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/">SC21 Student Cluster Competition</a><br>
 <a href="https://www.studentclustercompetition.us/2020/Teams/Team06/index.html">SC20 Student Cluster Competition Team site</a><br>
 <a href="https://hpc-students.sdsc.edu/scc"> SC20 Student Cluster Competition – Superscalers Blog Page </a><br>
