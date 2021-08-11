@@ -6,7 +6,7 @@ tags:
   - HPC
 ---
 
-<h3>SDSC/UCSD Team Selected to Compete at SCC21:<br>
+<h3>SDSC/UCSD Team Selected to Compete at SCC21:<h3>
 The San Diego Supercomputer Center (SDSC) and UC San Diego are pleased to announce that the SDSC/UCSD SCC21 Team has been selected to participate for the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates: Grant	Castaneda, John (Qingsheng)	Ge, John	Li, Matthew	Mikhailov, and SCC20 memebers Arunav	Gupta and Zihao	Kong. Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu). Congratulations to the team for submitting a successful application.
 
 For details about this years competition, see the US Student Cluster Competition home page <a href="https://www.studentclustercompetition.us/">here</a>.
