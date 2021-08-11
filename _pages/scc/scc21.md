@@ -4,11 +4,10 @@ permalink: scc/scc21.html
 narrow: true
 title: 2021 Student Cluster Competition
 ---
-<a href="top"></a>
-<h3>The SDSC/UCSD 2021 Student Cluster Competition Program:</h3>
+<h3 id="top" >The SDSC/UCSD 2021 Student Cluster Competition Program:</h3>
 <p>Watch this page for news and updates about the SCC21 team.</p>
-<a href="#team">About the Team</a><br>
 <a href="#training">SCC21 Team training plans</a><br>
+<a href="#team">About the Team</a><br>
 <a href="#selected">SCC21 Team Selected</a><br>
 <a href="#application">Apply for the SCC21 Team</a><br>
 <a href="#refs">SCC References, Links & Info</a><br>
@@ -23,14 +22,15 @@ For more information on the competition see: </p>
 <li><a href="https://www.studentclustercompetition.us/">SC21 Student Cluster Competition Team site</a></li>
 </ul>
 
-<a href="top">[Back to Top]</a>
+<a href="#top">Back to Top</a>
 
 <hr>
 <h3 id="selected">SCC21 Team Selected</h3>
 put link to news post here.
 <a href="https://hpc-students.sdsc.edu/2021/06/01/SDSC-UCSD-Team-Selected-for-SCC21.html">SDSC Team selection news.</a>. The 2021 SDSC/UCSD team has been selected to participate in the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates: Grant Castaneda, John (Qingsheng) Ge, John Li, Matthew Mikhailov, and SCC20 memebers Arunav Gupta and Zihao Kong.
 
-<a href="top">[Back to Top]</a>
+<a href="#top">[Back to Top1]</a>
+
 <hr>
 <h3 id="application">Apply to join the SCC21 team <a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">here.</a> </h3>
 Note: applications close by midnight on Thursday, April 29, 2021.
@@ -51,7 +51,7 @@ A team of 6 UC San Diego students will be selected to form the core team, as wel
 
 The SCC competition is competitive and requires intense preparation and skill development.  We expect each member of the team to commit 10-20 hours a week through summer and fall.  The competition will run November 16 – 18, for a continual 48 hours.  All team members are required to fully participate during the competition.  If you are selected we will assist you to work with professors to help arrange any missed classes.  The conference is to be held in St. Louis, Missouri, however, it is still to be determined if this event will be held in-person, remote or hybrid.  The application will ask your preference.    As part of the application we will ask you for a brief 2-4 sentence bio.  If selected this will be used on the competition website.  See the SC20 SCC Team site for an example.
 
-<a href="top">[Back to Top]</a>
+<a href="#top">[Back to Top1]</a>
 
 <hr>
 <h3 id="refs">SCC21 References, Links, and Information</h3>
