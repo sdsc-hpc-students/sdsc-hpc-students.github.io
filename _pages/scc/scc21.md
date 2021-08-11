@@ -4,6 +4,7 @@ permalink: scc/scc21.html
 narrow: true
 title: 2021 Student Cluster Competition
 ---
+<a href="top"></a>
 <h3>The SDSC/UCSD 2021 Student Cluster Competition Program:</h3>
 <p>Watch this page for news and updates about the SCC21 team.</p>
 <a href="#team">About the Team</a><br>
@@ -22,11 +23,14 @@ For more information on the competition see: </p>
 <li><a href="https://www.studentclustercompetition.us/">SC21 Student Cluster Competition Team site</a></li>
 </ul>
 
+<a href="top">[Back to Top]</a>
+
 <hr>
 <h3 id="selected">SCC21 Team Selected</h3>
 put link to news post here.
 <a href="https://hpc-students.sdsc.edu/2021/06/01/SDSC-UCSD-Team-Selected-for-SCC21.html">SDSC Team selection news.</a>. The 2021 SDSC/UCSD team has been selected to participate in the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates: Grant Castaneda, John (Qingsheng) Ge, John Li, Matthew Mikhailov, and SCC20 memebers Arunav Gupta and Zihao Kong.
 
+<a href="top">[Back to Top]</a>
 <hr>
 <h3 id="application">Apply to join the SCC21 team <a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">here.</a> </h3>
 Note: applications close by midnight on Thursday, April 29, 2021.
