@@ -51,7 +51,7 @@ A team of 6 UC San Diego students will be selected to form the core team, as wel
 
 The SCC competition is competitive and requires intense preparation and skill development.  We expect each member of the team to commit 10-20 hours a week through summer and fall.  The competition will run November 16 – 18, for a continual 48 hours.  All team members are required to fully participate during the competition.  If you are selected we will assist you to work with professors to help arrange any missed classes.  The conference is to be held in St. Louis, Missouri, however, it is still to be determined if this event will be held in-person, remote or hybrid.  The application will ask your preference.    As part of the application we will ask you for a brief 2-4 sentence bio.  If selected this will be used on the competition website.  See the SC20 SCC Team site for an example.
 
-<a href="#top">[Back to Top1]</a>
+<a href="#top">[Back to Top]</a>
 
 <hr>
 <h3 id="refs">SCC21 References, Links, and Information</h3>
