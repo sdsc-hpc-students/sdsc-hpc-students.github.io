@@ -1,0 +1,5 @@
+https://sfreytag.github.io/friday-theme/
+https://github.com/sfreytag/friday-theme
+
+A Bootstrap 4 portfolio and blog theme for Jekyll
+
