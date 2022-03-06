@@ -5,8 +5,8 @@ narrow: true
 title: Student Cluster Competition
 ---
 <center>
-The SCC21 team selection process occurred during the Spring 2021 Quarter. Check this site for more information about preparing and planning to join the team in 2022!<br>
-<s>Apply to join the SCC21 team <a href="https://na.eventscloud.com/ereg/newreg.php?eventid=613507&">here.</a></s>
+The SCC22 team selection applications are now open!<br>
+<s>Apply to join the SCC22 team <a href="https://www.sdsc.edu/event_items/202211_scc22.html">here.</a></s>
 </center>
 <hr>
 
