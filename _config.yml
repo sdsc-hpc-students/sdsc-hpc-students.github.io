@@ -15,7 +15,7 @@ timezone: ""
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://sdsc-hpc-training-dev.github.io/hpc-students-dev
 root: /hpc-students-dev/
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
     trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -106,3 +106,13 @@ deploy:
     type: "git"
     repo: "https://github.com/sdsc-hpc-training-dev/hpc-students-dev"
     branch: "gh-pages"
+
+toc:
+  maxdepth: 3
+  class: toc
+  slugify: transliteration
+  decodeEntities: false
+  anchor:
+    position: after
+    symbol: '#'
+    style: header-anchor

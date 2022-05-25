@@ -147,9 +147,9 @@
 <% if (theme.comment === 'disqus') { %>
   <script>
     var disqus_shortname = '<%= theme.disqus_shortname %>';
-    <% if (page.permalink){ %>
+    if (page.permalink) {
     var disqus_url = '<%= page.permalink %>';
-    <% } %>
+    }
     (function(){
       var dsq = document.createElement('script');
       dsq.type = 'text/javascript';

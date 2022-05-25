@@ -1,5 +1,5 @@
 ---
-title: SCC20 is Going Virtual.md
+title: SCC20 is Going Virtual
 tags:
     - SCC
     - SCC20

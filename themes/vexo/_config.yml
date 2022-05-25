@@ -6,7 +6,8 @@ excerpt_link: Read more
 
 menu:
     Home: /
-    Series: /series/
+    News: /news/
+    # Series: /series/
     Tags: /tags/
     Archives: /archives/
     About: /about/
