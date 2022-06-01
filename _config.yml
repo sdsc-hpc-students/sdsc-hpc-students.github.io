@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: HPC Students Test
+title: HPC Students
 subtitle: ""
 description: ""
 keywords:
@@ -13,8 +13,8 @@ timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://sdsc-hpc-training-dev.github.io/hpc-students-dev
-root: /hpc-students-dev/
+url: https://sdsc-hpc-training-dev.github.io/
+root: /
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -104,7 +104,7 @@ theme: vexo
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
     type: "git"
-    repo: "https://github.com/sdsc-hpc-training-dev/hpc-students-dev"
+    repo: "https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io"
     branch: "gh-pages"
 
 toc:
