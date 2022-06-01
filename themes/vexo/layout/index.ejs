@@ -1,67 +1,63 @@
-<% site.posts.each(function(page) { %>
-    <% if (page.title === "Index") { %>
-      <div id="article-banner">
-        <h2><%- page.title %></h2>
-        <div class="arrow-down">
-          <a href="javascript:;"></a>
-        </div>
-      </div>
-      <main class="app-body flex-box">
-        <!-- Article START -->
-        <article class="post-article">
-          <section class="markdown-content"><%- page.content %></section>
-        </article>
-        <!-- Article END -->
-      </main>
-      
-      <script>
-        (function () {
-          var url = '<%= config.url %>/<%= page.path %>';
-          var banner = '<%= page.banner %>'
-          if (banner !== '' && banner !== 'undefined' && banner !== 'null') {
-            $('#article-banner').css({
-              'background-image': 'url(' + banner + ')'
-            })
-          } else {
-            $('#article-banner').geopattern(url)
-          }
-          $('.header').removeClass('fixed-header')
-      
-          // error image
-          $(".markdown-content img").on('error', function() {
-            $(this).attr('src', '/css/images/error_icon.png')
+<% site.posts.each(page => { if (page.title === "Index") { %>
+<main class="app-body flex-box">
+    <!-- Article START -->
+    <article class="post-article">
+        <section class="markdown-content"><%- page.content %></section>
+    </article>
+    <!-- Article END -->
+</main>
+
+<script>
+    (() => {
+        var url = "<%= config.url %>/<%= page.path %>";
+        var banner = "<%= page.banner %>";
+        // if (banner !== "" && banner !== "undefined" && banner !== "null") {
+        //     $("#article-banner").css({
+        //         "background-image": "url(" + banner + ")",
+        //     });
+        // } else {
+        //     $("#article-banner").geopattern(url);
+        // }
+        $(".header").removeClass("fixed-header");
+
+        // error image
+        $(".markdown-content img").on("error", function () {
+            $(this).attr("src", "/css/images/error_icon.png");
             $(this).css({
-              'cursor': 'default'
-            })
-          })
-      
-          // zoom image
-          $(".markdown-content img").on('click', function() {
-            var src = $(this).attr('src')
-            if (src !== '/css/images/error_icon.png') {
-              var imageW = $(this).width()
-              var imageH = $(this).height()
-      
-              var zoom = ($(window).width() * 0.95 / imageW).toFixed(2)
-              zoom = zoom < 1 ? 1 : zoom
-              zoom = zoom > 2 ? 2 : zoom
-              var transY = (($(window).height() - imageH) / 2).toFixed(2)
-      
-              $('body').append('<div class="image-view-wrap"><div class="image-view-inner"><img src="'+ src +'" /></div></div>')
-              $('.image-view-wrap').addClass('wrap-active')
-              $('.image-view-wrap img').css({
-                'width': `${imageW}`,
-                'transform': `translate3d(0, ${transY}px, 0) scale3d(${zoom}, ${zoom}, 1)`
-              })
-              $('html').css('overflow', 'hidden')
-      
-              $('.image-view-wrap').on('click', function() {
-                $(this).remove()
-                $('html').attr('style', '')
-              })
+                cursor: "default",
+            });
+        });
+
+        // zoom image
+        $(".markdown-content img").on("click", function () {
+            var src = $(this).attr("src");
+            if (src !== "/css/images/error_icon.png") {
+                var imageW = $(this).width();
+                var imageH = $(this).height();
+
+                var zoom = (($(window).width() * 0.95) / imageW).toFixed(2);
+                zoom = zoom < 1 ? 1 : zoom;
+                zoom = zoom > 2 ? 2 : zoom;
+                var transY = (($(window).height() - imageH) / 2).toFixed(2);
+
+                $("body").append(
+                    '<div class="image-view-wrap"><div class="image-view-inner"><img src="' +
+                        src +
+                        '" /></div></div>'
+                );
+                $(".image-view-wrap").addClass("wrap-active");
+                $(".image-view-wrap img").css({
+                    width: `${imageW}`,
+                    transform: `translate3d(0, ${transY}px, 0) scale3d(${zoom}, ${zoom}, 1)`,
+                });
+                $("html").css("overflow", "hidden");
+
+                $(".image-view-wrap").on("click", function () {
+                    $(this).remove();
+                    $("html").attr("style", "");
+                });
             }
-          })
-        })();
-      </script>
-    <% } %>
-<% }) %>
+        });
+    })();
+</script>
+<% } %> <% }) %>

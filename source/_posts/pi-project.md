@@ -2,24 +2,9 @@
 title: HPC Students Raspberry PI Cluster Project
 ---
 
-<center>
-    <h2><font color="0A188B">Raspberry PI Cluster Project</font></h2>
-    <small
-        >[Back to
-        <a href="https://hpc-students.sdsc.edu">https://hpc-students.sdsc.edu</a
-        >]</small
-    >
-</center>
-
-<hr />
-
 ![](images/rasp-pi-meteor-system.png)
 
-<p></p>
-<p>
-    On this project, students will work together to build a 16 or 32 node PI
-    cluster based on the SDSC Meteor Cluster Project. (Spring Quarter)
-</p>
+On this project, students will work together to build a 16 or 32 node PI cluster based on the SDSC Meteor Cluster Project. (Spring Quarter)
 
 <ul>
     <li>
@@ -52,7 +37,7 @@ title: HPC Students Raspberry PI Cluster Project
             <li>
                 <a
                     href="https://www.researchgate.net/publication/334670422_Performance_analysis_of_single_board_computer_clusters/figures?lo=1"
-                ></a>
+                >Performance analysis of single board computer clusters</a>
             </li>
         </ul>
     </li>

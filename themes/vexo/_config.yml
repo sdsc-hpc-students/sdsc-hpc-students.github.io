@@ -6,17 +6,17 @@ excerpt_link: Read more
 
 menu:
     Home: /
+    SCC: /scc/
+    HPC User Training: /hpc-utr/
     News: /news/
-    # Series: /series/
     Tags: /tags/
     Archives: /archives/
-    About: /about/
 
 # highlight
 highlight: tomorrow
 
 # catalog
-catalog: true
+catalog: false
 
 # donate
 donate: false

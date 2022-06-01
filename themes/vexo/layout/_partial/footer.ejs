@@ -1,45 +1,62 @@
 <footer class="app-footer">
-  <p class="copyright">
-    &copy; <%= new Date().getFullYear() %> | Powered by <a href="https://hexo.io" target="_blank">Hexo</a>
-    <br>
-    Theme by <a href="https://github.com/yanm1ng">yanm1ng</a>
-  </p>
+    <p class="copyright">
+        &copy; <%= new Date().getFullYear() %> | Powered by
+        <a href="https://hexo.io" target="_blank">Hexo</a>
+        <br />
+        Theme by <a href="https://github.com/yanm1ng">yanm1ng</a> and
+        <a href="https://github.com/Yuu6883">Yuu6883</a>
+    </p>
 </footer>
 
 <script>
-  function async(u, c) {
-    var d = document, t = 'script',
-      o = d.createElement(t),
-      s = d.getElementsByTagName(t)[0];
-    o.src = u;
-    if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
-    s.parentNode.insertBefore(o, s);
-  }
+    function async(u, c) {
+        var d = document,
+            t = "script",
+            o = d.createElement(t),
+            s = d.getElementsByTagName(t)[0];
+        o.src = u;
+        if (c) {
+            o.addEventListener(
+                "load",
+                function (e) {
+                    c(null, e);
+                },
+                false
+            );
+        }
+        s.parentNode.insertBefore(o, s);
+    }
 </script>
 <script>
-  async("//cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js", function(){
-    FastClick.attach(document.body);
-  })
+    async(
+        "//cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js",
+        function () {
+            FastClick.attach(document.body);
+        }
+    );
 </script>
 
 <script>
-  var hasLine = '<%- config.highlight["line_number"] %>';
-  async("//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js", function(){
-    $('figure pre').each(function(i, block) {
-      var figure = $(this).parents('figure');
-      if (hasLine === 'false') {
-        figure.find('.gutter').hide();
-      }
-      hljs.configure({useBR: true});
-      var lang = figure.attr('class').split(' ')[1] || 'code';
-      var codeHtml = $(this).html();
-      var codeTag = document.createElement('code');
-      codeTag.className = lang;
-      codeTag.innerHTML = codeHtml;
-      $(this).attr('class', '').empty().html(codeTag);
-      figure.attr('data-lang', lang.toUpperCase());
-      hljs.highlightBlock(block);
-    });
-  })
+    var hasLine = '<%- config.highlight["line_number"] %>';
+    async(
+        "//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js",
+        function () {
+            $("figure pre").each(function (i, block) {
+                var figure = $(this).parents("figure");
+                if (hasLine === "false") {
+                    figure.find(".gutter").hide();
+                }
+                hljs.configure({ useBR: true });
+                var lang = figure.attr("class").split(" ")[1] || "code";
+                var codeHtml = $(this).html();
+                var codeTag = document.createElement("code");
+                codeTag.className = lang;
+                codeTag.innerHTML = codeHtml;
+                $(this).attr("class", "").empty().html(codeTag);
+                figure.attr("data-lang", lang.toUpperCase());
+                hljs.highlightBlock(block);
+            });
+        }
+    );
 </script>
 <%- js('js/script') %>
