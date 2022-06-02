@@ -13,7 +13,7 @@ The [SDSC HPC Students Program](https://www.sdsc.edu/education_and_training/hpc_
     Student teams must learn to design and build small cluster with support from mentors, hardware and
     software vendor partners, learn designated scientific applications, apply optimization techniques
     for their chosen architectures.
--   [Raspberry PI Cluster build-out Project:](pi-project)
+-   [Raspberry PI Cluster build-out Project:](projects/pi-cluster)
     Students will work together to build a 16 or 32 node PI cluster, starting in Spring Quarter, 2021.
 -   [HPC User Training:](hpc-utr)
     This is an annual course, consisting of multiple sessions spread out over several weeks. Participants will learn common HPC concepts including optimization, distributed computing, cloud computing.
