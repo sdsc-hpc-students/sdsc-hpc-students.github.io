@@ -1,6 +1,6 @@
 <main class="app-body">
-    <% site.posts.reverse().each(function(post) { if (post.title !== "Index") {
-    %>
+    <% site.posts.sort('date').reverse().each(function(post) { if (post.title
+    !== "Index") { %>
     <article class="article-card">
         <h2 class="article-head">
             <a href="<%- url_for(post.path) %>"><%- post.title %></a>
