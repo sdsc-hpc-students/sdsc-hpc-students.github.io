@@ -2,6 +2,8 @@
 title: SDSC Co-Curricular Record Program
 ---
 
+#SDSC Co-Curricular Record Program
+
 The [San Diego Supercomputer Center](https://www.sdsc.edu) and HPC Students are pleased to announce the SDSC Co-Curricular Record (SDSC-CCR) Program. The program will facilitate awarding CCR credits to SDSC students and interns for activities that they are working on with SDSC and its collaborators.
 
 The UCSD Co-Curricular Record [CCR](https://elt.ucsd.edu/ccr) highlights student achievements in opportunities beyond the classroom including a brief description and the skills developed on an official record. The purpose of the CCR is to demonstrate the value of engaging in opportunities beyond the classroom, and to help students reflect on and articulate the competencies and skills they developed.
