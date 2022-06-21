@@ -10,5 +10,6 @@ At the SC conference, teams of 6 students compete against teams from all over th
 SCC students must learn to design and build small cluster with support from mentors, hardware and software vendor partners, learn designated scientific applications, apply optimization techniques for their chosen architectures.
 Acceptance to the SC competition is competitive and requires intense preparation and skill development.
 
+-   Checkout our SCC22 activities [here](scc22).
 -   Checkout our SCC21 activities [here](scc21).
 -   Checkout our SCC20 activities [here](scc20).
