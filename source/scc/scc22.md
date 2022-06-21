@@ -11,8 +11,6 @@ Watch this page for news and updates about the SCC22 team.
 * [SCC22 Team Application Deadlines](#apply)
 * [SCC22 References, Links, and Information](#refs)
 
-#
-* [SCC22 Team Training]<a name="training"></a>
 
 # SCC22 SDSC/UCD Team Selected to Compete at SCC22!! (June 25, 2022)<a name="news-selected"></a>
 
