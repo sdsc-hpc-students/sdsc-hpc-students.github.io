@@ -13,16 +13,17 @@ The SCC22 team applications and selection process occurred during the Spring 202
 -   [SC21 Student Cluster Competition](https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/)
 -   [Student Cluster Competition Team site](https://www.studentclustercompetition.us/)
 
-# SCC22 Team Selected (June 18, 2022)
+# SCC22 Team Selected (June 25, 2022)
 
-[SDSC Team selection news](2021-06-01-SDSC-UCSD-Team-Selected-for-SCC22). The 2021 SDSC/UCSD team has been selected to participate in the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates: Grant Castaneda, John Ge, John Li, Matthew Mikhailov, and SCC20 memebers Arunav Gupta and Zihao Kong.
+[SDSC/UCSD Team selection news](https://hpc-students.sdsc.edu/2022-06-18-SDSC-UCSD-Team-Selected-for-SCC22/). The 2022 SDSC/UCSD team has been selected to participate in the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates:  Edward Burns, Stefanie Dao, Longtian Bao, Yuchen Jing, Davit Margarian, and Matthew Mikhailov. Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff Andreas Goetz, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application!
 
-## Deadlines
+# SCC22 Team Application Deadlines
 
--   Application Deadline: Thursday, April 29, 2021
--   Application Notification: Friday, April 30, 2021
--   Acceptance Deadline: Saturday, May 1, 2021
--   Proposal Due: Monday, May 3, 2021
+Deadlines
+* Student Application Deadline: Wednesday, March 23, 2022
+* Student Application Notification: Wednesday, April 6, 2022
+* Student Applicant Invite Confirmation: Wednesday, April 13, 2022
+* SCC22 Team Applications Close: April 30, 2022
 
 The San Diego Supercomputer Center (SDSC) and UC San Diego is putting together a team to compete in the Student Cluster Competition (SCC), held at the annual Supercomputing conference SC21 in St. Louis, Missouri. SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing. The SCC teams consist of 6 students who will design and build a small cluster with support from mentors and hardware and software vendor partners. They will learn designated scientific applications and apply optimization techniques for their chosen architectures. SCC teams compete against teams from around the world, in a non-stop 48-hour challenge to complete a real-world scientific workload, while keeping the cluster up and running, and demonstrating to the judges their HPC skills and knowledge. All team members are invited to attend the conference.
 
