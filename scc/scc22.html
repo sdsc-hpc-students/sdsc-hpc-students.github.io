@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+  <meta name="description" content="San Diego Supercomputer Center Students Page">
+  <meta name="keyword" content="SDSC, HPC, SCC">
+  
+    <!-- <link rel="shortcut icon" href="/css/images/logo.png"> -->
+  
+  <title>
+    
+      2022 Student Cluster Competition | CIML Dev
+    
+  </title>
+  <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="//cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css" rel="stylesheet">
+  <link href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/tomorrow.min.css" rel="stylesheet">
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/geopattern/1.2.3/js/geopattern.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js"></script>
+  
+  
+  
+  
+    <!-- MathJax support START -->
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
+          processEscapes: true,
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+        }
+      });
+    </script>
+
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for (i=0; i < all.length; i += 1) {
+          all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+      });
+    </script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <!-- MathJax support END -->
+  
+
+
+  
+  
+    
+<script src="/js/local-search.js"></script>
+
+
+<meta name="generator" content="Hexo 6.2.0"></head>
+<!-- <div class="logo"></div> -->
+  <body>
+    <header class="header fixed-header">
+  <div class="header-container">
+    <a class="home-link" href="/">
+      <div class="logo"></div>
+      <span>CIML Dev</span>
+    </a>
+    <ul class="right-list">
+      
+        <li class="list-item">
+          
+            <a href="/" class="item-link">Home</a>
+          
+        </li>
+      
+        <li class="list-item">
+          
+            <a target="_blank" rel="noopener" href="http://supercomputing-club.sdsc.edu/" class="item-link">SC-Club</a>
+          
+        </li>
+      
+        <li class="list-item">
+          
+            <a href="/scc/" class="item-link">SCC</a>
+          
+        </li>
+      
+        <li class="list-item">
+          
+            <a href="/hpc-utr/" class="item-link">HPC/CI-UTr</a>
+          
+        </li>
+      
+        <li class="list-item">
+          
+            <a href="/ccr-program/" class="item-link">CCRs</a>
+          
+        </li>
+      
+        <li class="list-item">
+          
+            <a href="/news/" class="item-link">News</a>
+          
+        </li>
+      
+        <li class="list-item">
+          
+            <a href="/tags/" class="item-link">Tags</a>
+          
+        </li>
+      
+        <li class="list-item">
+          
+            <a href="/archives/" class="item-link">Archives</a>
+          
+        </li>
+      
+      
+        <li class="menu-item menu-item-search right-list">
+    <a role="button" class="popup-trigger">
+        <i class="fa fa-search fa-fw"></i>
+    </a>
+</li>
+      
+    </ul>
+    <div class="menu">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </div>
+    <div class="menu-mask">
+      <ul class="menu-list">
+        
+          <li class="menu-item">
+            
+              <a href="/" class="menu-link">Home</a>
+            
+          </li>
+        
+          <li class="menu-item">
+            
+              <a target="_blank" rel="noopener" href="http://supercomputing-club.sdsc.edu/" class="menu-link">SC-Club</a>
+            
+          </li>
+        
+          <li class="menu-item">
+            
+              <a href="/scc/" class="menu-link">SCC</a>
+            
+          </li>
+        
+          <li class="menu-item">
+            
+              <a href="/hpc-utr/" class="menu-link">HPC/CI-UTr</a>
+            
+          </li>
+        
+          <li class="menu-item">
+            
+              <a href="/ccr-program/" class="menu-link">CCRs</a>
+            
+          </li>
+        
+          <li class="menu-item">
+            
+              <a href="/news/" class="menu-link">News</a>
+            
+          </li>
+        
+          <li class="menu-item">
+            
+              <a href="/tags/" class="menu-link">Tags</a>
+            
+          </li>
+        
+          <li class="menu-item">
+            
+              <a href="/archives/" class="menu-link">Archives</a>
+            
+          </li>
+        
+      </ul>
+    </div>
+    
+      <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+            <span class="search-icon">
+                <i class="fa fa-search"></i>
+            </span>
+            <div class="search-input-container">
+                <input autocomplete="off" autocapitalize="off"
+                    placeholder="Please enter your keyword(s) to search." spellcheck="false"
+                    type="search" class="search-input">
+            </div>
+            <span class="popup-btn-close">
+                <i class="fa fa-times-circle"></i>
+            </span>
+        </div>
+        <div id="search-result">
+            <div id="no-result">
+                <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+            </div>
+        </div>
+    </div>
+</div>
+    
+  </div>
+</header>
+
+    <!-- <div id="article-banner">
+  <h2>2022 Student Cluster Competition</h2>
+  <p class="post-date">2022-08-18</p>
+  <div class="arrow-down">
+    <a href="javascript:;"></a>
+  </div>
+</div> -->
+<main class="app-body flex-box">
+    <!-- Article START -->
+    <article class="post-article">
+        <section class="markdown-content"><h1 id="The-SDSC-x2F-UCSD-2022-Student-Cluster-Competition-Program"><a href="#The-SDSC-x2F-UCSD-2022-Student-Cluster-Competition-Program" class="headerlink" title="The SDSC&#x2F;UCSD 2022 Student Cluster Competition Program"></a>The SDSC&#x2F;UCSD 2022 Student Cluster Competition Program</h1><p>Watch this page for news and updates about the SCC22 team.<br><a name="top">Contents:</p>
+<ul>
+<li><a href="#training">SCC22 Team Training</a></li>
+<li><a href="#news-selected">SCC22 Team Selected (June 25, 2022)</a></li>
+<li><a href="#apply">SCC22 Team Application Deadlines</a></li>
+<li><a href="#refs">SCC22 References, Links, and Information</a></li>
+</ul>
+<h1 id="SCC22-SDSC-x2F-UCD-Team-Selected-to-Compete-at-SCC22-June-25-2022"><a href="#SCC22-SDSC-x2F-UCD-Team-Selected-to-Compete-at-SCC22-June-25-2022" class="headerlink" title="SCC22 SDSC&#x2F;UCD Team Selected to Compete at SCC22!! (June 25, 2022)"></a>SCC22 SDSC&#x2F;UCD Team Selected to Compete at SCC22!! (June 25, 2022)<a name="news-selected"></a></h1><p><a target="_blank" rel="noopener" href="https://hpc-students.sdsc.edu/2022-06-18-SDSC-UCSD-Team-Selected-for-SCC22/">SDSC&#x2F;UCSD Team selection news</a>. The 2022 SDSC&#x2F;UCSD team has been selected to participate in the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates:  Edward Burns, Stefanie Dao, Longtian Bao, Yuchen Jing, Davit Margarian, and Matthew Mikhailov. Team mentors include Mary Thomas (SDSC, <a href="mailto:&#x6d;&#112;&#116;&#x68;&#111;&#109;&#97;&#115;&#x40;&#x75;&#x63;&#x73;&#x64;&#46;&#x65;&#x64;&#x75;">&#x6d;&#112;&#116;&#x68;&#111;&#109;&#97;&#115;&#x40;&#x75;&#x63;&#x73;&#x64;&#46;&#x65;&#x64;&#x75;</a>) and Bryan Chin (UCSD CSE, <a href="mailto:&#x62;&#53;&#99;&#x68;&#x69;&#x6e;&#64;&#x65;&#x6e;&#x67;&#46;&#x75;&#99;&#115;&#x64;&#46;&#101;&#x64;&#x75;">&#x62;&#53;&#99;&#x68;&#x69;&#x6e;&#64;&#x65;&#x6e;&#x67;&#46;&#x75;&#99;&#115;&#x64;&#46;&#101;&#x64;&#x75;</a>) and SDSC Staff Andreas Goetz, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application!</p>
+<p><a href="#top">Back to Top</a></p>
+<hr>
+# SCC22 Team Training<a name="training"></a>
+
+<p>The SCC22 team applications and selection process occurred during the Spring 2021 Quarter. The SDSC&#x2F;UCSD team was selected to participate in the SCC22 Virtual competition. For more information on the competition see: </p></p>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/">SC22 Student Cluster Competition</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.studentclustercompetition.us/">Student Cluster Competition Team site</a></li>
+</ul>
+<p><a href="#top">Back to Top</a></p>
+<hr>
+# Apply to Join the SDSC/UCSD SCC Team<a name="apply"></a>
+
+<p>Deadlines</p>
+<ul>
+<li>Student Application Deadline: Wednesday, March 23, 2022</li>
+<li>Student Application Notification: Wednesday, April 6, 2022</li>
+<li>Student Applicant Invite Confirmation: Wednesday, April 13, 2022</li>
+<li>SCC22 Team Applications Close: April 30, 2022</li>
+</ul>
+<p>The San Diego Supercomputer Center (SDSC) and UC San Diego are putting together a team to compete in the Student Cluster Competition (SCC), held at the annual Supercomputing conference SC21 in St. Louis, Missouri. SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing. The SCC teams consist of 6 students who will design and build a small cluster with support from mentors and hardware and software vendor partners. They will learn designated scientific applications and apply optimization techniques for their chosen architectures. SCC teams compete against teams from around the world, in a non-stop 48-hour challenge to complete a real-world scientific workload, while keeping the cluster up and running, and demonstrating to the judges their HPC skills and knowledge. All team members are invited to attend the conference.</p>
+<p>Last year, SDSC and UC San Diego sent their first team who finished 4th overall. This team had a great experience! See below links for team bio’s and event details.</p>
+<p>A team of 6 UC San Diego students will be selected to form the core team, as well as a group of alternates. This team will work together through the summer and fall to build out an HPC cluster at SDSC on the campus of UC San Diego. They will learn to run the SCC22 challenge applications, some of which are listed on the SCC page. This year both the team members and alternates will be enrolled in a 199 course for credit, and will be eligible for CCR credits for associated activities. Team members must be undergraduates in December 2021.</p>
+<p>The SCC competition is competitive and requires intense preparation and skill development. We expect each member of the team to commit 10-20 hours a week through summer and fall. The competition will run November 16 – 18, for a continual 48 hours. All team members are required to fully participate during the competition. If you are selected we will assist you to work with professors to help arrange any missed classes. The conference is to be held in St. Louis, Missouri, however, it is still to be determined if this event will be held in-person, remote or hybrid. The application will ask your preference. As part of the application we will ask you for a brief 2-4 sentence bio. If selected this will be used on the competition website. See the SC20 SCC Team site for an example.</p>
+<p><a href="#top">Back to Top</a></p>
+<hr>
+## SCC22 References, Links, and Information<a name="refs"></a>
+
+<ul>
+<li><a target="_blank" rel="noopener" href="https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/">SC22 Student Cluster Competition</a><br>If you have any questions regarding this program feel free to contact Mary Thomas at mpthomas at ucsd.edu.</li>
+</ul>
+<p><a href="#top">Back to Top</a></p>
+<hr>
+</section>
+        <!-- Tags START -->
+        
+        <!-- Tags END -->
+        <!-- NAV START -->
+        
+
+        <!-- NAV END -->
+        
+        <!-- No Comment -->
+        
+    </article>
+    <!-- Article END -->
+    <!-- Catalog START -->
+    
+    <!-- Catalog END -->
+</main>
+
+<script>
+    (function () {
+        var url = "https://jonathanlo411.github.io/ciml-dev.github.io/scc/scc22.html";
+        var banner = "";
+        if (banner !== "" && banner !== "undefined" && banner !== "null") {
+            $("#article-banner").css({
+                "background-image": "url(" + banner + ")",
+            });
+        } else {
+            $("#article-banner").geopattern(url);
+        }
+        $(".header").removeClass("fixed-header");
+
+        // error image
+        $(".markdown-content img").on("error", function () {
+            $(this).attr("src", "/css/images/error_icon.png");
+            $(this).css({
+                cursor: "default",
+            });
+        });
+
+        // zoom image
+        $(".markdown-content img").on("click", function () {
+            var src = $(this).attr("src");
+            if (src !== "/css/images/error_icon.png") {
+                var imageW = $(this).width();
+                var imageH = $(this).height();
+
+                var zoom = (($(window).width() * 0.95) / imageW).toFixed(2);
+                zoom = zoom < 1 ? 1 : zoom;
+                zoom = zoom > 2 ? 2 : zoom;
+                var transY = (($(window).height() - imageH) / 2).toFixed(2);
+
+                $("body").append(
+                    '<div class="image-view-wrap"><div class="image-view-inner"><img src="' +
+                        src +
+                        '" /></div></div>'
+                );
+                $(".image-view-wrap").addClass("wrap-active");
+                $(".image-view-wrap img").css({
+                    width: `${imageW}`,
+                    transform: `translate3d(0, ${transY}px, 0) scale3d(${zoom}, ${zoom}, 1)`,
+                });
+                $("html").css("overflow", "hidden");
+
+                $(".image-view-wrap").on("click", function () {
+                    $(this).remove();
+                    $("html").attr("style", "");
+                });
+            }
+        });
+    })();
+</script>
+
+  
+
+    <div class="scroll-top">
+  <span class="arrow-icon"></span>
+</div>
+    <footer class="app-footer">
+    <p class="copyright">
+        &copy; 2022 | Powered by
+        <a href="https://hexo.io" target="_blank">Hexo</a>
+        <br />
+        Theme by <a target="_blank" rel="noopener" href="https://github.com/yanm1ng">yanm1ng</a> and modified
+        by
+        <a target="_blank" rel="noopener" href="https://github.com/Yuu6883">Yuu6883</a>
+    </p>
+</footer>
+
+<script>
+    function async(u, c) {
+        var d = document,
+            t = "script",
+            o = d.createElement(t),
+            s = d.getElementsByTagName(t)[0];
+        o.src = u;
+        if (c) {
+            o.addEventListener(
+                "load",
+                function (e) {
+                    c(null, e);
+                },
+                false
+            );
+        }
+        s.parentNode.insertBefore(o, s);
+    }
+</script>
+<script>
+    async(
+        "//cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js",
+        function () {
+            FastClick.attach(document.body);
+        }
+    );
+</script>
+
+<script>
+    var hasLine = 'true';
+    async(
+        "//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js",
+        function () {
+            $("figure pre").each(function (i, block) {
+                var figure = $(this).parents("figure");
+                if (hasLine === "false") {
+                    figure.find(".gutter").hide();
+                }
+                hljs.configure({ useBR: true });
+                var lang = figure.attr("class").split(" ")[1] || "code";
+                var codeHtml = $(this).html();
+                var codeTag = document.createElement("code");
+                codeTag.className = lang;
+                codeTag.innerHTML = codeHtml;
+                $(this).attr("class", "").empty().html(codeTag);
+                figure.attr("data-lang", lang.toUpperCase());
+                hljs.highlightBlock(block);
+            });
+        }
+    );
+</script>
+
+<script src="/js/script.js"></script>
+
+
+  </body>
+</html>
