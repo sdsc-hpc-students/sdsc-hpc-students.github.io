@@ -6,7 +6,7 @@ title: Student Cluster Competition
 
 The UCSD/SDSC SCC22 team was selected! 
 
-See [here](https://hpc-students.sdsc.edu/2022-06-18-SDSC-UCSD-Team-Selected-for-SCC22/) for more details.
+See [here](https://hpc-students.sdsc.edu/2022-06-18-SDSC-UCSD-Team-Selected-for-SCC22/) for more details.<br>
 
 See <a href="https://hpc-students.sdsc.edu/2022-06-18-SDSC-UCSD-Team-Selected-for-SCC22/">HERE</a> for more details.
 
