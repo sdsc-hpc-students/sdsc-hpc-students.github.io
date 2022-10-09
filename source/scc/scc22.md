@@ -12,9 +12,9 @@ Watch this page for news and updates about the SCC22 team.
 * [SCC22 References, Links, and Information](#refs)
 
 
-# SCC22 SDSC/UCSD Team Selected to Compete at SCC22! (June 25, 2022)<a name="news-selected"></a>
+## SCC22 SDSC/UCSD Team Selected to Compete at SCC22! (June 25, 2022)<a name="news-selected"></a>
 
-[SDSC/UCSD Team selection news](https://hpc-students.sdsc.edu/2022-06-18-SDSC-UCSD-Team-Selected-for-SCC22/). The 2022 SDSC/UCSD team has been selected to participate in the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates:  Edward Burns, Stefanie Dao, Longtian Bao, Yuchen Jing, Davit Margarian, and Matthew Mikhailov. Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff Andreas Goetz, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application!
+[SDSC/UCSD Team selection news](https://hpc-students.sdsc.edu/2022-06-18-SDSC-UCSD-Team-Selected-for-SCC22/). The 2022 SDSC/UCSD team has been selected to participate in the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates:  Stefanie Dao, Longtian Bao, Yuchen Jing, Michael Granado, Davit Margarian, and Matthew Mikhailov. Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff Andreas Goetz, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application!
 
 [Back to Top](#top)
 <hr>
