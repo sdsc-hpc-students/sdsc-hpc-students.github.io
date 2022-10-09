@@ -12,13 +12,13 @@ Watch this page for news and updates about the SCC22 team.
 * [SCC22 References, Links, and Information](#refs)
 
 
-# SCC22 SDSC/UCSD Team Selected to Compete at SCC22! (June 25, 2022)<a name="news-selected"></a>
+## SCC22 SDSC/UCSD Team Selected to Compete at SCC22! (June 25, 2022)<a name="news-selected"></a>
 
-[SDSC/UCSD Team selection news](https://hpc-students.sdsc.edu/2022-06-18-SDSC-UCSD-Team-Selected-for-SCC22/). The 2022 SDSC/UCSD team has been selected to participate in the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates:  Edward Burns, Stefanie Dao, Longtian Bao, Yuchen Jing, Davit Margarian, and Matthew Mikhailov. Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff Andreas Goetz, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application!
+[SDSC/UCSD Team selection news](https://hpc-students.sdsc.edu/2022-06-18-SDSC-UCSD-Team-Selected-for-SCC22/). The 2022 SDSC/UCSD team has been selected to participate in the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates:  Michael Granado, Stefanie Dao, Longtian Bao, Yuchen Jing, Davit Margarian, and Matthew Mikhailov. Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff Andreas Goetz, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application!
 
 [Back to Top](#top)
 <hr>
-# SCC22 Team Training<a name="training"></a>
+## SCC22 Team Training<a name="training"></a>
 
 The SCC22 team applications and selection process occurred during the Spring 2021 Quarter. The SDSC/UCSD team was selected to participate in the SCC22 Virtual competition. For more information on the competition see: </p>
 
@@ -27,7 +27,8 @@ The SCC22 team applications and selection process occurred during the Spring 202
 
 [Back to Top](#top)
 <hr>
-# Apply to Join the SDSC/UCSD SCC Team<a name="apply"></a>
+
+## Apply to Join the SDSC/UCSD SCC Team<a name="apply"></a>
 
 Deadlines
 * Student Application Deadline: Wednesday, March 23, 2022
@@ -45,6 +46,7 @@ The SCC competition is competitive and requires intense preparation and skill de
 
 [Back to Top](#top)
 <hr>
+
 ## SCC22 References, Links, and Information<a name="refs"></a>
 
 -   [SC22 Student Cluster Competition](https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/)
