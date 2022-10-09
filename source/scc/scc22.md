@@ -18,6 +18,7 @@ Watch this page for news and updates about the SCC22 team.
 
 [Back to Top](#top)
 <hr>
+    
 ## SCC22 Team Training<a name="training"></a>
 
 The SCC22 team applications and selection process occurred during the Spring 2021 Quarter. The SDSC/UCSD team was selected to participate in the SCC22 Virtual competition. For more information on the competition see: </p>
