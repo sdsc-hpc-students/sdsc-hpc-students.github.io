@@ -23,6 +23,6 @@ Since 2019, the San Diego Supercomputer Center (SDSC) and UC San Diego (UCSD) ha
 This year our team was selected! See [here](https://hpc-students.sdsc.edu/2022-06-18-SDSC-UCSD-Team-Selected-for-SCC22/) for more details.
 
 
--   Checkout our SCC22 activities [here](scc22/index).
+-   Checkout our SCC22 activities [here](scc22_tmp).
 -   Checkout our SCC21 activities [here](scc21).
 -   Checkout our SCC20 activities [here](scc20).
