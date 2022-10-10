@@ -2,7 +2,7 @@
 title:  2022 Student Cluster Competition
 ---
 
-# - The SDSC/UCSD 2022 Student Cluster Competition Program 
+# The SDSC/UCSD 2022 Student Cluster Competition Program 
 
 Watch this page for news and updates about the SCC22 team.
 <a name="top">Contents:
@@ -10,7 +10,7 @@ Watch this page for news and updates about the SCC22 team.
 * [SCC22 Team Training](#training)
 * [SCC22 Team Application Deadlines](#apply)
 * [SCC22 References, Links, and Information](#refs)
-* [SCC22 About the Team](scc22TeamInfo.md)
+* [SCC22 About the Team](scc22TeamInfo)
 
 
 ## SCC22 SDSC/UCSD Team Selected to Compete at SCC22! (June 25, 2022)<a name="news-selected"></a>
