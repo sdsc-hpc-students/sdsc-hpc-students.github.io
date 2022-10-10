@@ -5,7 +5,7 @@ title: Student Cluster Competition
 <p style="color:red">IN THE NEWS!!!!</p>  
 This year our team was selected! For more information, see: https://hpc-students.sdsc.edu/2022-06-18-SDSC-UCSD-Team-Selected-for-SCC22/
 
-| ----- | ---- |
+
 | DATE | NEWS ITEM |
 |-----|----|
 | 9/27/2022 | Cluster Arrives [news](news) |
