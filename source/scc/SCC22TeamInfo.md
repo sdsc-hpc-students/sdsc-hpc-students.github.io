@@ -1,1 +1,0 @@
-# SCC22TeamInfo.md
