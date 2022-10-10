@@ -6,8 +6,8 @@ title: 2022 Student Cluster Competition
 
 Watch this page for news and updates about the SCC22 team.
 <a name="top">Contents:
-* [SCC22 Team Training](#training)
 * [SCC22 Team Selected (June 25, 2022)](#news-selected)
+* [SCC22 Team Training](#training)
 * [SCC22 Team Application Deadlines](#apply)
 * [SCC22 References, Links, and Information](#refs)
 
