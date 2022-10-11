@@ -1,7 +1,7 @@
 ---
 title: Student Cluster Competition
 ---
-<b>Checkout our SCC22 activities [here](scc22).</b>
+### Checkout our SCC22 activities [here](scc22) 
 
 <br/>
 
