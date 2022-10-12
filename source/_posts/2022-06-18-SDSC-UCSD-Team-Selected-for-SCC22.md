@@ -8,7 +8,7 @@ date: 2022-06-18
 ---
 
 <h3>SDSC/UCSD Team Selected to Compete at SCC22:</h3>
-<p>The San Diego Supercomputer Center (SDSC) and UC San Diego are pleased to announce that the SDSC/UCSD SCC22 Team has been selected to participate for the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates: Michael Granado, Stefanie Dao, Longtian Bao, Yuchen Jing, Davit Margarian, and Matthew Mikhailov. Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff Andreas Goetz, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application.
+<p>The San Diego Supercomputer Center (SDSC) and UC San Diego are pleased to announce that the SDSC/UCSD SCC22 Team has been selected to participate for the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates: Michael Granado, Stefanie Dao, Longtian Bao, Yuchen Jing, Davit Margarian, and Matthew Mikhailov. Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff Andreas Goetz, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application. For more info on the team, see  https://hpc-students.sdsc.edu/scc/scc22/
 </p>
 <p>
 For details about this years competition, see the US Student Cluster Competition home page <a href="https://www.studentclustercompetition.us/">here</a> and the <a href="https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/">SC22 SCC page</a>.
