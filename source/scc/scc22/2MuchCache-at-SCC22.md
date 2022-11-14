@@ -13,6 +13,6 @@ https://hpc-students.sdsc.edu/scc/scc22/scc22TeamInfo
 
 
 <hr>
-[Back to SCC22 Team Pages](https://hpc-students.sdsc.edu/scc/scc22/)
+## [Back to SCC22 Team Pages](https://hpc-students.sdsc.edu/scc/scc22/)
 For questions and comments, please contact Mary Thomas:  mpthomas at ucsd.edu
 <hr>
