@@ -23,7 +23,7 @@ Watch this page for news and updates about the SCC22 team.
     
 ## SCC22 Team Training<a name="training"></a>
 
-The SCC22 team applications and selection process occurred during the Spring 2021 Quarter. The SDSC/UCSD team was selected to participate in the SCC22 Virtual competition. For more information on the competition see: </p>
+The SCC22 team applications and selection process occurred during the Spring 2022 Quarter. The SDSC/UCSD team was selected to participate in the SCC22 Virtual competition. For more information on the competition see: </p>
 
 -   [SC22 Student Cluster Competition](https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/)
 -   [Student Cluster Competition Team site](https://www.studentclustercompetition.us/)
@@ -39,9 +39,7 @@ Deadlines
 * Student Applicant Invite Confirmation: Wednesday, April 13, 2022
 * SCC22 Team Applications Close: April 30, 2022
 
-The San Diego Supercomputer Center (SDSC) and UC San Diego are putting together a team to compete in the Student Cluster Competition (SCC), held at the annual Supercomputing conference SC21 in St. Louis, Missouri. SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing. The SCC teams consist of 6 students who will design and build a small cluster with support from mentors and hardware and software vendor partners. They will learn designated scientific applications and apply optimization techniques for their chosen architectures. SCC teams compete against teams from around the world, in a non-stop 48-hour challenge to complete a real-world scientific workload, while keeping the cluster up and running, and demonstrating to the judges their HPC skills and knowledge. All team members are invited to attend the conference.
-
-Last year, SDSC and UC San Diego sent their first team who finished 4th overall. This team had a great experience! See below links for team bio’s and event details.
+The San Diego Supercomputer Center (SDSC) and UC San Diego are putting together a team to compete in the Student Cluster Competition (SCC), held at the annual Supercomputing conference SC21 in St. Louis, Missouri. SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing. The SCC teams consist of 6 students who will design and build a small cluster with support from mentors and hardware and software vendor partners. They will learn designated scientific applications and apply optimization techniques for their chosen architectures. SCC teams compete against teams from around the world, in a non-stop 48-hour challenge to complete a real-world scientific workload, while keeping the cluster up and running, and demonstrating to the judges their HPC skills and knowledge. All team members are invited to attend the conference. In 2020 and 2021, SDSC and UC San Diego hosted competition teams who finished 4th overall. This team had a great experience! See below links for team bio’s and event details.
 
 A team of 6 UC San Diego students will be selected to form the core team, as well as a group of alternates. This team will work together through the summer and fall to build out an HPC cluster at SDSC on the campus of UC San Diego. They will learn to run the SCC22 challenge applications, some of which are listed on the SCC page. This year both the team members and alternates will be enrolled in a 199 course for credit, and will be eligible for CCR credits for associated activities. Team members must be undergraduates in December 2021.
 
