@@ -37,3 +37,9 @@
 # SCC22 Competition Poster
 
 See our competition poster [here](https://drive.google.com/file/d/1BlJZ-kYYWZMzM_Qm-e9_crYuekmrhlUm/preview)
+
+<hr>
+## [Back to SCC22 Team Pages](https://hpc-students.sdsc.edu/scc/scc22/)
+For questions and comments, please contact Mary Thomas:  mpthomas at ucsd.edu
+<hr>
+
