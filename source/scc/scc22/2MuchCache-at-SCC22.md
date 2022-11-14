@@ -12,5 +12,7 @@ https://hpc-students.sdsc.edu/scc/scc22/scc22TeamInfo
 [https://www.figma.com/file/ejU1HJpAGJ4tqoqQacGZKI/SCC22_Team_Bio_Page](https://www.figma.com/file/ejU1HJpAGJ4tqoqQacGZKI/SCC22_Team_Bio_Page)
 
 
-[Back to Top](#top)
+<hr>
+[Back to SCC22 Team Pages](https://hpc-students.sdsc.edu/scc/scc22/)
+For questions and comments, please contact Mary Thomas:  mpthomas at ucsd.edu
 <hr>
