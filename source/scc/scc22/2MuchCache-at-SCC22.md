@@ -2,10 +2,13 @@
 title:  SDSC/UCSD Team 2MuchCache @ SCC22
 ---
 
-#  SDSC/UCSD Team 2MuchCache @ SCC22
+# SCC22 Competition Grafana Display:
+* Check back here for then the Grafana dashboard is live (7pm CST)
 
 
-    If you have any questions regarding this program feel free to contact Mary Thomas at mpthomas at ucsd.edu.
+# Travel Team Bio Page:
+[https://www.figma.com/file/ejU1HJpAGJ4tqoqQacGZKI/SCC22_Team_Bio_Page](https://www.figma.com/file/ejU1HJpAGJ4tqoqQacGZKI/SCC22_Team_Bio_Page)
+
 
 [Back to Top](#top)
 <hr>
