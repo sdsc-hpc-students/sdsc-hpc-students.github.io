@@ -1,5 +1,5 @@
 ---
-title: SDSC/UCSD Team Selected to Compete at SCC22
+title: SDSC/UCSD Team 2MuchCache Wins HPL Benchmark at SCC22!
 tags:
     - SCC
     - SCC22

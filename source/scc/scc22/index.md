@@ -15,7 +15,8 @@ Watch this page for news and updates about the SCC22 team.
 * [SCC22 About the Team](scc22TeamInfo)
 * [SCC22 Team Poster](https://drive.google.com/file/d/1BlJZ-kYYWZMzM_Qm-e9_crYuekmrhlUm/preview)
 
-## 2011-11-17-SDSC-UCSD-Team-Wins-HPL-Benchmark! (November 15, 2022)<a name="hpl-win"></a>
+## 2022-11-17-SDSC-UCSD-Team-Wins-HPL-Benchmark! (November 15, 2022)<a name="hpl-win"></a>
+[Team 2MuchCache won the HPL Benchmark competition](https://hpc-students.sdsc.edu/2011-11-17-SDSC-UCSD-Team-Wins-HPL-Benchmark/) by reaching 114.26 Teraflops under a 3000 Watt power limit, running on a SuperMicro system consisting of  4 AMD Insticnt GPUs and 128 cores of AMD EPYC 7773X CPUs.
 
 ## SCC22 SDSC/UCSD Team Selected to Compete at SCC22! (June 25, 2022)<a name="news-selected"></a>
 
