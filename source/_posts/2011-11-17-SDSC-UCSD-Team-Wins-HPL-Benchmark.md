@@ -4,11 +4,15 @@ tags:
     - SCC
     - SCC22
     - HPC
-date: 2022-06-18
+date: 2022-11-15
 ---
 
-<h3>SDSC/UCSD Team Selected to Compete at SCC22:</h3>
-<p>The San Diego Supercomputer Center (SDSC) and UC San Diego are pleased to announce that the SDSC/UCSD SCC22 Team has been selected to participate for the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates: Stefanie Dao, Michael Grandado, Anish Govinda, Yuchen Jing, Davit Margarian, and Team Lead, Matthew Mikhailov Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff Andreas Goetz, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application. For more info on the team, see the [SCC22](https://hpc-students.sdsc.edu/scc/scc22/) website.
+<h3>SDSC/UCSD Team Wins HPL Benchmark at SCC22!</h3>
+<p>
+Team 2MuchCache won the HPL Benchmark competition by reaching 114.26 Teraflops under a 3000 Watt power limit and running on a SuperMicro system consisting of  4 AMD Insticnt GPUs and 128 cores of AMD EPYC 7773X CPUs.
+The competition consists of the team running 4 HPC benchmarks and 4 science applications. The High-Performance Linpack benchmark implementation requires that each competitor run a well-known code to solve a uniformly random system of linear equations on their customized cluster and to then report time and floating-point execution rate using a standard formula for operation count.  The team won the HPL Benchmark competition by reaching 114.26 Teraflops under a 3000 Watt power limit, running on a SuperMicro system consisting of  4 AMD Insticnt GPUs and 128 cores of AMD EPYC 7773X CPUs.
+
+Congratulations to the team for winning our first category ever. For more info on the team, see the [SCC22](https://hpc-students.sdsc.edu/scc/scc22/) website.
 </p>
 <p>
 For details about this years competition, see the US Student Cluster Competition home page <a href="https://www.studentclustercompetition.us/">here</a> and the <a href="https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/">SC22 SCC page</a>.
