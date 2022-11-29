@@ -6,6 +6,7 @@ title:  2022 Student Cluster Competition
 
 Watch this page for news and updates about the SCC22 team.
 <a name="top">Contents:
+* [SCC22 SDSC/UCSD Team Wins HPL Benchmark (November 15, 20220](hpl-win)
 * [SCC22 Team @ SCC! (November 12-18, 2022)](2MuchCache-at-SCC22)
 * [SCC22 Team Selected (June 25, 2022)](#news-selected)
 * [SCC22 Team Training](#training)
@@ -13,6 +14,8 @@ Watch this page for news and updates about the SCC22 team.
 * [SCC22 References, Links, and Information](#refs)
 * [SCC22 About the Team](scc22TeamInfo)
 * [SCC22 Team Poster](https://drive.google.com/file/d/1BlJZ-kYYWZMzM_Qm-e9_crYuekmrhlUm/preview)
+
+## 2011-11-17-SDSC-UCSD-Team-Wins-HPL-Benchmark! (November 15, 2022)<a name="hpl-win"></a>
 
 ## SCC22 SDSC/UCSD Team Selected to Compete at SCC22! (June 25, 2022)<a name="news-selected"></a>
 
