@@ -6,43 +6,23 @@ title:  2023 Student Cluster Competition
 
 Watch this page for news and updates about the SCC23 team.
 <a name="top">Contents:
-* [SCC23 SDSC/UCSD Team Wins HPL Benchmark (November 15, 20230](hpl-win)
-* [SCC23 Team @ SCC! (November 12-18, 2023)](2MuchCache-at-SCC23)
-* [SCC23 Team Selected (June 25, 2023)](#news-selected)
-* [SCC23 Team Training](#training)
 * [SCC23 Team Application Deadlines](#apply)
 * [SCC23 References, Links, and Information](#refs)
-* [SCC23 About the Team](scc22TeamInfo)
-* [SCC23 Team Poster](https://drive.google.com/file/d/1BlJZ-kYYWZMzM_Qm-e9_crYuekmrhlUm/preview)
-
-## 2023-11-17-SDSC-UCSD-Team-Wins-HPL-Benchmark! (November 15, 2023)<a name="hpl-win"></a>
-[Team 2MuchCache won the HPL Benchmark competition](https://hpc-students.sdsc.edu/2011-11-17-SDSC-UCSD-Team-Wins-HPL-Benchmark/) by reaching 114.26 Teraflops under a 3000 Watt power limit, running on a SuperMicro system consisting of  4 AMD Insticnt GPUs and 128 cores of AMD EPYC 7773X CPUs.
-
-## SCC23 SDSC/UCSD Team Selected to Compete at SCC23! (June 25, 2023)<a name="news-selected"></a>
-
-[SDSC/UCSD Team selection news](https://hpc-students.sdsc.edu/2023-06-18-SDSC-UCSD-Team-Selected-for-SCC23/). The 2023 SDSC/UCSD team has been selected to participate in the Virtual Student Cluster Competition (VSCC)! This years team includes 6 UCSD undergraduates:  Michael Granado, Stefanie Dao, Anish Govinda, Yuchen Jing, Davit Margarian, and Matthew Mikhailov. Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff including: Andreas Goetz, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application!
-
-[Back to Top](#top)
-<hr>
     
-## SCC23 Team Training<a name="training"></a>
 
-The SCC23 team applications and selection process occurred during the Spring 2023 Quarter. The SDSC/UCSD team was selected to participate in the SCC23 Virtual competition. For more information on the competition see: </p>
-
--   [SC23 Student Cluster Competition](https://sc23.supercomputing.org/program/studentssc/student-cluster-competition/)
--   [Student Cluster Competition Team site](https://www.studentclustercompetition.us/)
-
-[Back to Top](#top)
 <hr>
 
 ## Apply to Join the SDSC/UCSD SCC Team<a name="apply"></a>
 
 Deadlines
-* Student Application Deadline: Wednesday, March 23, 2023
-* Student Application Notification: Wednesday, April 6, 2023
-* Student Applicant Invite Confirmation: Wednesday, April 13, 2023
-* SCC23 Team Applications Close: April 30, 2023
+* SCC23 Team Selection Notifications: June 15, 2023
+* SCC23 Team Applications Close: May 15, 2023
+* Student Team Member Applicant Invite Confirmation: Wednesday, May 5, 2023
+* Student Team Member Application Notification: Wednesday, May 1, 2023    
+* Student Team Member Application Deadline/Close:  April 21, 2023
+* [Student Team Member Application Opens: April 1, 2023](https://na.eventscloud.com/ereg/inactive.php?eventid=746928)
 
+    
 The San Diego Supercomputer Center (SDSC) and UC San Diego are putting together a team to compete in the Student Cluster Competition (SCC), held at the annual Supercomputing conference SC21 in St. Louis, Missouri. SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing. The SCC teams consist of 6 students who will design and build a small cluster with support from mentors and hardware and software vendor partners. They will learn designated scientific applications and apply optimization techniques for their chosen architectures. SCC teams compete against teams from around the world, in a non-stop 48-hour challenge to complete a real-world scientific workload, while keeping the cluster up and running, and demonstrating to the judges their HPC skills and knowledge. All team members are invited to attend the conference. In 2020 and 2021, SDSC and UC San Diego hosted competition teams who finished 4th overall. This team had a great experience! See below links for team bio’s and event details.
 
 A team of 6 UC San Diego students will be selected to form the core team, as well as a group of alternates. This team will work together through the summer and fall to build out an HPC cluster at SDSC on the campus of UC San Diego. They will learn to run the SCC23 challenge applications, some of which are listed on the SCC page. This year both the team members and alternates will be enrolled in a 199 course for credit, and will be eligible for CCR credits for associated activities. Team members must be undergraduates in December 2021.
