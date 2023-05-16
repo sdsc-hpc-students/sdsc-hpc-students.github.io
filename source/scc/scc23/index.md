@@ -14,13 +14,13 @@ Watch this page for news and updates about the SCC23 team.
 
 ## Apply to Join the SDSC/UCSD SCC Team<a name="apply"></a>
 
-Deadlines
+## Timeline:
 * SCC23 Team Selection Notifications: June 15, 2023
 * SCC23 Team Applications Close: May 15, 2023
 * Student Team Member Applicant Invite Confirmation: Wednesday, May 5, 2023
 * Student Team Member Application Notification: Wednesday, May 1, 2023    
 * Student Team Member Application Deadline/Close:  April 21, 2023
-* [Student Team Member Application Opens: April 1, 2023](https://na.eventscloud.com/ereg/inactive.php?eventid=746928)
+* Student Team Member Application Opens: April 1, 2023. [Apply Here]](https://na.eventscloud.com/ereg/inactive.php?eventid=746928)
 
     
 The San Diego Supercomputer Center (SDSC) and UC San Diego are putting together a team to compete in the Student Cluster Competition (SCC), held at the annual Supercomputing conference SC21 in St. Louis, Missouri. SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing. The SCC teams consist of 6 students who will design and build a small cluster with support from mentors and hardware and software vendor partners. They will learn designated scientific applications and apply optimization techniques for their chosen architectures. SCC teams compete against teams from around the world, in a non-stop 48-hour challenge to complete a real-world scientific workload, while keeping the cluster up and running, and demonstrating to the judges their HPC skills and knowledge. All team members are invited to attend the conference. In 2020 and 2021, SDSC and UC San Diego hosted competition teams who finished 4th overall. This team had a great experience! See below links for team bio’s and event details.
