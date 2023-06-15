@@ -4,6 +4,7 @@ tags:
     - SCC
     - SCC22
     - HPC
+    - IEEE Supercomputing Club
 date: 2022-11-15
 ---
 

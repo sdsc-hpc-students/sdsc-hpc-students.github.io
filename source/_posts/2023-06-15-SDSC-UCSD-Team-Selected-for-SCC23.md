@@ -4,6 +4,7 @@ tags:
     - SCC
     - SCC23
     - HPC
+    - IEEE Supercomputing Club
 date: 2023-06-18
 ---
 
