@@ -10,9 +10,6 @@ Watch this page for news and updates about the SCC23 team.
 | 06/15/2023 | [UCSD/SDSC 2023 team  selected to particpate in the annual Student Cluster Competition! ](https://hpc-students.sdsc.edu/2023-06-15-SDSC-UCSD-Team-Selected-for-SCC23/) |
 <br/>
 
-
-
-
 <a name="top">Contents:
 * [About the Team](#about-team)
 * [SCC23 Team Sponsors](#sponsors)
@@ -20,7 +17,7 @@ Watch this page for news and updates about the SCC23 team.
 * [SCC23 References, Links, and Information](#refs)
     
 
-## Apply to Join the SDSC/UCSD SCC Team<a name="about-team"></a>
+## About the SCC23 Competition Team<a name="about-team"></a>
 
 * use team content from proposal to describe team, and link to the team info page 
 
