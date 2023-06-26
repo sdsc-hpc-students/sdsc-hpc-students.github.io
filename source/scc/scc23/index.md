@@ -14,15 +14,26 @@ Watch this page for news and updates about the SCC23 team.
 
 
 <a name="top">Contents:
+* [About the Team](#about-team)
+* [SCC23 Team Sponsors](#sponsors)
 * [SCC23 Team Application Deadlines](#apply)
 * [SCC23 References, Links, and Information](#refs)
     
 
+## Apply to Join the SDSC/UCSD SCC Team<a name="about-team"></a>
+
+* use team content from proposal to describe team, and link to the team info page 
+
+  
+## SCC23 Team Sponsors<a name="sponsors"></a>
+* describe sponsors and link to sponsor page.
+  
+[Back to Top](#top)
 <hr>
 
 ## Apply to Join the SDSC/UCSD SCC Team<a name="apply"></a>
 
-## Timeline:
+### Timeline:
 * SCC23 Team Selection Notifications: June 15, 2023
 * SCC23 Team Applications Close: May 15, 2023
 * Student Team Member Applicant Invite Confirmation: Wednesday, May 5, 2023
