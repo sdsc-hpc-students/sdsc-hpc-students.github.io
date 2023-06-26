@@ -19,7 +19,7 @@ Watch this page for news and updates about the SCC23 team.
   <hr>
 
 ## About the SCC23 Competition Team<a name="about-team"></a>
-* use team content from proposal to describe team, and link to the team info page 
+The SDSC/UCSD SCC23 team is a vibrant mix of expertise and enthusiasm, and is comprised of individuals possessing an extensive range of experience across computer systems. Each member, with their distinct qualifications, is dedicated to harnessing the power of HPC to propel advancements in their respective fields. The team brings together two experienced members from last year's home team, three SCC22 veterans serving in mentorship roles, and four fresh contributors. They stand ready and eager to navigate any challenges that arise in the competition. For more information about the team, see our [team page](here).
 
 [Back to Top](#top)
 <hr>
