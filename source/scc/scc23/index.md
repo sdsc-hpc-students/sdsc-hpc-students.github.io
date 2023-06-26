@@ -15,13 +15,13 @@ Watch this page for news and updates about the SCC23 team.
 * [SCC23 Team Sponsors](#sponsors)
 * [SCC23 Team Application Deadlines](#apply)
 * [SCC23 References, Links, and Information](#refs)
-    
-<hr>
-## About the SCC23 Competition Team<a name="about-team"></a>
 
+  <hr>
+
+## About the SCC23 Competition Team<a name="about-team"></a>
 * use team content from proposal to describe team, and link to the team info page 
 
- [Back to Top](#top)
+[Back to Top](#top)
 <hr>
 
 ## SCC23 Team Sponsors<a name="sponsors"></a>
