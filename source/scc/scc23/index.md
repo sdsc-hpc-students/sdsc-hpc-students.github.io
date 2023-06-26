@@ -7,7 +7,6 @@ title:  2023 Student Cluster Competition
 Watch this page for news and updates about the SCC23 team.
 | DATE | NEWS ITEM |
 | ----- | ---- |
-| 06/15/2023 | [aaaaaUCSD/SDSC 2023 team  selected to particpate in the annual Student Cluster Competition!](https://hpc-students.sdsc.edu/2023-06-18-SDSC-UCSD-Team-Selected-for-SCC23/) |
 | 06/15/2023 | [UCSD/SDSC 2023 team  selected to particpate in the annual Student Cluster Competition! ](https://hpc-students.sdsc.edu/2023-06-15-SDSC-UCSD-Team-Selected-for-SCC23/) |
 <br/>
 
