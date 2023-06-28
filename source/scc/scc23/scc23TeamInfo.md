@@ -23,7 +23,7 @@
 
 
 ## Mentors
-| Name                   | Photo | About       |
+| **Name**  | **Photo** | **About**  |
 | ---- | ----- | ---- |
 
 # SCC23 Competition Poster
