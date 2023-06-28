@@ -19,20 +19,19 @@
 ## Home Team
 | Name       | Photo | About                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+ | <img src="https://lh6.googleusercontent.com/KxxL5UOlLxZyMy7avN0OJp7IYEE4VqYswoBUrOAvjrXlqMZ6mq7x9sW1Y0ewLZQFjnHTTK3WT5tdyl4hcRMQpUZ_xQry1JJHILuTnrR7nnIQLLTeg_BQFtXAaS9QcujHCN5xWUejW1A9b2fPLBSUSay1X3uvaqQPcGQe2FqqSevPdBXWZD6RsePz4A" width="200" /> | Danny Vo          | Danny  is a first-year masters student in Computer Engineering at UC San Diego. He is interested in FPGA and VLSI design as well as GPU programming, though he is also versed in various other topics such as servers, networking and electronics prototyping. Danny mentors and leads in the measurement of power usage and Grafana visualization to monitor the cluster’s performance.                                                                               |
 
 
 ## Mentors
 | Name                   | Photo | About       |
-| ---------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
- | <img src="https://lh6.googleusercontent.com/KxxL5UOlLxZyMy7avN0OJp7IYEE4VqYswoBUrOAvjrXlqMZ6mq7x9sW1Y0ewLZQFjnHTTK3WT5tdyl4hcRMQpUZ_xQry1JJHILuTnrR7nnIQLLTeg_BQFtXAaS9QcujHCN5xWUejW1A9b2fPLBSUSay1X3uvaqQPcGQe2FqqSevPdBXWZD6RsePz4A" width="200" /> | Danny Vo          | Danny  is a first-year masters student in Computer Engineering at UC San Diego. He is interested in FPGA and VLSI design as well as GPU programming, though he is also versed in various other topics such as servers, networking and electronics prototyping. Danny mentors and leads in the measurement of power usage and Grafana visualization to monitor the cluster’s performance.                                                                               |
+| ---- | ----- | ---- |
 
-
-# SCC22 Competition Poster
+# SCC23 Competition Poster
 
 See our competition poster [here](https://drive.google.com/file/d/1BlJZ-kYYWZMzM_Qm-e9_crYuekmrhlUm/preview)
 
 <hr>
-## [Back to SCC22 Team Pages](https://hpc-students.sdsc.edu/scc/scc22/)
+## [Back to SCC23 Team Pages](https://hpc-students.sdsc.edu/scc/scc22/)
 For questions and comments, please contact Mary Thomas:  mpthomas at ucsd.edu
 <hr>
 
