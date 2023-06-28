@@ -8,10 +8,10 @@ tags:
 date: 2023-06-18
 ---
 
-<h3>SDSC/UCSD Team Selected to Compete at SCC23:</h3>
+<h3>SDSC/UCSD Team Selected to Compete at SCC23!</h3>
 <p>The San Diego Supercomputer Center (SDSC) and UC San Diego are pleased to announce that the SDSC/UCSD SCC23 Team has been selected to participate in the annual Student Cluster Competition at SC23 in Denver, CO. ! This years team includes 6 UCSD undergraduates: 
 Stefanie Dao, Michael Grandado, Anish Govinda, Yuchen Jing, Davit Margarian, and Team Lead, Matthew Mikhailov.
- Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff Andreas Goetz, Martin Kandes, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application. For more info on the team, see the [SCC23](https://hpc-students.sdsc.edu/scc/scc23/) website.
+ Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff Andreas Goetz, Martin Kandes, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application. For more info on the team, see the <a href="https://hpc-students.sdsc.edu/scc/scc23/">SCC23 Team </a> website.
 </p>
 <p>
 For details about this years competition, see the US Student Cluster Competition home page <a href="https://www.studentclustercompetition.us/">here</a> and the <a href="https://sc23.supercomputing.org/program/studentssc/student-cluster-competition/">SC23 SCC page</a>.
