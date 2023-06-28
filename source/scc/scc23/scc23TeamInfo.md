@@ -10,7 +10,7 @@
 
 
 <hr>
-<em> Alternate Teama </em>
+<h3> Alternate Team </h3>
 
 | **Photo** | **Name**  | **About**  |
 | ---- | :----- | :---- |
@@ -18,7 +18,7 @@
 
 
 <hr>
-## Home Team
+<h3> Home Team1 </h3>
 
 | **Photo** | **Name**  | **About**  |
 | ---- | :----- | :---- |
