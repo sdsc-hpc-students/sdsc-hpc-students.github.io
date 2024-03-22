@@ -5,6 +5,14 @@ title: SDSC HPC/CI Student Internships
     
 <h3>HPC/CI Interships: </h3>
 HPC Training interns will work closely with the SDSC Staff and the HPC Training Working Group to help develop training materials. The intern will work on the development of HPC training materials, which may include: test and maintain Jupyter notebooks that run on Expanse and other HPC systems; maintain and develop GitHub repositories to manage training material; integrate training events into training repo/archives; develop scripts to automate creation of training and interactive video pages; create interactive training pages for all events; develop scripts to gather training metrics data; and develop and test other related applications, technologies or web pages.
+<p> Note: SDSC offers both paid and unpaid student internship positions. Some are listed on Handshake. More info on Handshake can be found on TritonLlink.  In addition, more information can be found on the pages:
+<ul>
+<li>HPC/CI Students: see https://hpc-students.sdsc.edu/internships/</li>
+<li>SDSC Research Data Services Summer Internship Program:  https://sdsc-ucsd.atlassian.net/wiki/spaces</li>
+<li>CAIDA Research Students: https://www.caida.org/research/student-projects/</li>
+<li>UC San Diego’s Mentor Assistance Program (MAP): https://education.sdsc.edu/studenttech/ucsd-mentor-assistance-program-2021-2022</li>
+<\ul>
+</p>
 
 <h3>Internship Opening (2/1/2024):</h3>  
 <ul>
