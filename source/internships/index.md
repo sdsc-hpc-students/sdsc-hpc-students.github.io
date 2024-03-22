@@ -22,7 +22,6 @@ HPC Training interns will work closely with the SDSC Staff and the HPC Training 
    <li> Internship start/end dates: 2/1/23 - 5/31/2024, potential for Summer and Fall position
    <li>Skills needed include working with Apache, Python, YouTube videos, databaseis, metadata searching, JSON, other web techs</li>
    <li>Helpful to have experience with Neo4J and knowledge graphs, and basics of AI/LM, LLMs
-   </ul>
 </ul>
 
 
