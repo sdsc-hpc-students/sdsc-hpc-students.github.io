@@ -8,7 +8,7 @@ The [SDSC HPC Students Program](https://www.sdsc.edu/education_and_training/hpc_
 
 ## Current Projects & Activities:
 
-### SDSC Students@Supercomputing_
+### SDSC Students@Supercomputing
     One of the largest technical meetings in HPC in the world is the annual Supercomputing Conference ([https://supercomputing.org](https://supercomputing.org)). SC is where experts in High-Performance Computing (HPC) meet. HPC spans many scientific computing domains including Math, Physics, Biology, and Data and Environmental Sciences. SDSC sponsors qualified student applications for all student programs, including: Student Volunteers; the Student Cluster Competition team; and the #HPCImmersion Program.
 #### [Student Cluster Competition:](scc)
     SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing.
