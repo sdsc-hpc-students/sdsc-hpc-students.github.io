@@ -18,7 +18,7 @@ Since 2019, the San Diego Supercomputer Center (SDSC) and UC San Diego (UCSD) ha
 
 ###  [IEEE Supercomputing Club Projects](https://supercomputing-club.sdsc.edu)
 - [Single Board Cluster Competition]([projects/sbcc](https://supercomputing-club.sdsc.edu/projects/)): Students build small clusters using single board computers.
-- [Raspberry PI Cluster build-out Project:](projects/pi-cluster)
+- [Raspberry PI Cluster build-out Project:](https://supercomputing-club.sdsc.edu/projects)
 - [FPGA Network Interface Card](https://supercomputing-club.sdsc.edu/projects/)
 - [SCC24 preparation and planning](https://supercomputing-club.sdsc.edu): contact the club at ucsdsupercomputing @ gmail.com
 
