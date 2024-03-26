@@ -11,7 +11,7 @@ tags:
 date: 2024-03-26
 ---
 
-<h3>SDSC, UCSD, and TACC Host Second Annual Single Board Cluster Competition<\h3>
+<h3>SDSC, UCSD, and TACC Host Second Annual Single Board Cluster Competition</h3>h3>
 The second annual Single Board Cluster Competition will be held April 18th - 20th 2024.  In this competition, we challenge you to create the most efficient single board computer cluster that can perform complex tasks while using the least amount of power and resources.
 
 <p>
