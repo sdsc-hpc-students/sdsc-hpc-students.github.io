@@ -14,7 +14,7 @@ One of the largest technical meetings in HPC in the world is the annual Supercom
 ### [Student Cluster Competition:](scc)
 
 The SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing. The SCC teams consist of a mentor plus 6 students who will design and build a small cluster, and learn to run scientific applications on thier systems. At SCC, teams compete against teams from around the world, in a non-stop 48-hour challenge to complete a real-world scientific workload, while keeping the cluster up and running, and demonstrating to the judges their HPC skills and knowledge. Acceptance to the SC competition is competitive and requires intense preparation and skill development.
-Since 2019, the San Diego Supercomputer Center (SDSC) and UC San Diego (UCSD) have sent teams to SCC, and we hope to continue the tradition. See our SCC pages for more information.
+Since 2019, the San Diego Supercomputer Center (SDSC) and UC San Diego (UCSD) have sent teams to SCC, and we hope to continue the tradition. See our SCC pages for more information. For more information, see our SCC pages here: [https://hpc-students.sdsc.edu/scc/](https://hpc-students.sdsc.edu/scc/).
 
 ###  [IEEE Supercomputing Club Projects](https://supercomputing-club.sdsc.edu)
 - [Single Board Cluster Competition]([projects/sbcc](https://supercomputing-club.sdsc.edu/projects/)): Students build small clusters using single board computers.
