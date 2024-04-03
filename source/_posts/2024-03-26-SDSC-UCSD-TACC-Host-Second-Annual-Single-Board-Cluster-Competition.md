@@ -1,5 +1,5 @@
 ---
-title: SDSC UCSD TACC Host Second Annual Single Board Cluster Competition 
+title: SDSC UCSD TACC to Host Second Annual Single Board Cluster Competition 
 tags:
     - SBCC
     - SBCC24
