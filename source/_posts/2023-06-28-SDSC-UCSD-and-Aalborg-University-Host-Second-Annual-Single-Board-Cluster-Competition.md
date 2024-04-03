@@ -12,7 +12,7 @@ tags:
 date: 2023-06-28
 ---
 
-<h3>SDSC, UCSD, and Aalborg University (AAU) Hosted the First Annual Single Board Cluster Competition</h3>h3>
+<h3>SDSC, UCSD, and Aalborg University (AAU) Hosted the First Annual Single Board Cluster Competition</h3>
 The first annual Single Board Cluster Competition was held on the 25th of May 2023.  In this competition, we challenge you to create the most efficient single board computer cluster that can perform complex tasks while using the least amount of power and resources.
 
 <p>
