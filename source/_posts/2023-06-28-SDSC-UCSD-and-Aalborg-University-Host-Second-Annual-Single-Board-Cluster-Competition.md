@@ -17,6 +17,8 @@ The first annual Single Board Cluster Competition was held on the 25th of May 20
 
 <p>
 For more information on SBCC'23, see: https://www.sdsc.edu/News%20Items/PR20230628_ClusterCompetition.html
+</p>
+<p>
 For more details about the SBCC  competition, see: https://sbcc.io
 </p>
 
