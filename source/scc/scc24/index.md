@@ -2,12 +2,16 @@
 title:  2024 Student Cluster Competition
 ---
 
-## The SDSC/UCSD 2024 Student Cluster Competition Program  [Triton Cache](https://raw.githubusercontent.com/sdsc-hpc-students/sdsc-hpc-students.github.io/refs/heads/master/source/images/Triton-Cache-v1-logo.png)
+## The SDSC/UCSD 2024 Student Cluster Competition Program  
+![Triton Cache](/source/images/Triton-Cache-v1-logo.png)
+
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
 
 Watch this page for news and updates about the SCC24 team.
 | DATE | NEWS ITEM |
 | ----- | ---- |
-| 06/15/2024 | [UCSD/SDSC 2024 team  selected to particpate in the annual Student Cluster Competition! ](https://hpc-students.sdsc.edu/2023-06-15-SDSC-UCSD-Team-Selected-for-SCC24/) |
+| 06/15/2024 | [UCSD/SDSC 2024 team  selected to particpate in the annual Student Cluster Competition! ](https://hpc-students.sdsc.edu/2024-06-15-SDSC-UCSD-Team-Selected-for-SCC24/) |
 <br/>
 
 <a name="top">Contents:
