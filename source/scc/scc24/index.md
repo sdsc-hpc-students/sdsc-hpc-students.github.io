@@ -2,7 +2,7 @@
 title:  2024 Student Cluster Competition
 ---
 
-# The SDSC/UCSD 2024 Student Cluster Competition Program 
+# The SDSC/UCSD 2024 Student Cluster Competition Program  [alt text]([image_url](https://github.com/sdsc-hpc-students/sdsc-hpc-students.github.io/blob/master/source/images/Triton-Cache-v1-logo.png))
 
 Watch this page for news and updates about the SCC24 team.
 | DATE | NEWS ITEM |
