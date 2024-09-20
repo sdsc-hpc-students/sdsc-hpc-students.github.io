@@ -11,9 +11,7 @@ date: 2024-06-18
 <h3>SDSC/UCSD Team Selected to Compete at SCC24!</h3>
 <p>The San Diego Supercomputer Center (SDSC) and UC San Diego are pleased to announce that the SDSC/UCSD SCC24 Team has been selected to participate in the annual Student Cluster Competition at SC24 in Denver, CO. ! 
 
-This years team includes 6 UCSD undergraduates: 
-Francisco Gutierrez (Team Lead), Aarush Mehrotra, Gauri Renjith, Shijie Wang, Zhiheng Feng, Zixian Wang, Ferrari Guan Flavia	Tedjarutjianta
- Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff Elham Khoda, Andreas Goetz, Martin Kandes, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application. For more info on the team, see the <a href="https://hpc-students.sdsc.edu/scc/scc24/">SCC24 Team </a> website.
+This years team includes 6 UCSD undergraduates: Francisco Gutierrez (Team Lead), Aarush Mehrotra, Gauri Renjith, Shijie Wang, Zhiheng Feng, Zixian Wang, Ferrari Guan Flavia	Tedjarutjianta Team mentors include Mary Thomas (SDSC, mpthomas@ucsd.edu) and Bryan Chin (UCSD CSE, b5chin@eng.ucsd.edu) and SDSC Staff Elham Khoda, Andreas Goetz, Martin Kandes, Mahidhar Tatineni, Bob Sinkovits and others. Congratulations to the team for submitting a successful application. For more info on the team, see the <a href="https://hpc-students.sdsc.edu/scc/scc24/">SCC24 Team </a> website.
 </p>
 <p>
 For details about this years competition, see the US Student Cluster Competition home page <a href="https://www.studentclustercompetition.us/">here</a> and the <a href="https://sc24.supercomputing.org/program/studentssc/student-cluster-competition/">SC24 SCC page</a>.
