@@ -7,8 +7,9 @@ title:  SDSC Student Cluster Competition
 | DATE | Application Step |
 | ----- | ---- |
 | date | SDSC/UCSD Team Selections announced |
-| date | Team Applications Close |
-| date | Team Applications Open|
+| date | SDSC/UCSD Team Applications Close |
+| date | SDSC/UCSD Team Applications Open|
+| date | SCC Organization Applications Open |
 <br/>
 
 <a name="top">Contents:
@@ -16,15 +17,6 @@ title:  SDSC Student Cluster Competition
 
   <hr>
 
-### Timeline:
-* SCC24 Team Selection Notifications: June 15, 2024
-* SCC24 Team Applications Close: May 15, 2024
-* Student Team Member Applicant Invite Confirmation: Wednesday, May 5, 2024
-* Student Team Member Application Notification: Wednesday, May 1, 2024    
-* Student Team Member Application Deadline/Close:  April 21, 2024
-* Student Team Member Application Opens: April 1, 2024. [Apply Here]](https://na.eventscloud.com/ereg/inactive.php?eventid=746928)
-
-    
 The San Diego Supercomputer Center (SDSC) and UC San Diego are putting together a team to compete in the Student Cluster Competition (SCC), held at the annual Supercomputing conference. SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing. The SCC teams consist of 6 students who will design and build a small cluster with support from mentors and hardware and software vendor partners. They will learn designated scientific applications and apply optimization techniques for their chosen architectures. SCC teams compete against teams from around the world, in a non-stop 48-hour challenge to complete a real-world scientific workload, while keeping the cluster up and running, and demonstrating to the judges their HPC skills and knowledge. All team members are invited to attend the conference. 
 
 Since 2020, SDSC and UC San Diego have hosted competition teams who ...
@@ -35,6 +27,18 @@ The SCC competition is competitive and requires intense preparation and skill de
 
 [Back to Top](#top)
 <hr>
+
+### 2023 Timeline:
+* SCC23 Team Selection Notifications: June 15, 2023
+* SCC23 Team Applications Close: May 15, 2023
+* Student Team Member Applicant Invite Confirmation: Wednesday, May 5, 2023
+* Student Team Member Application Notification: Wednesday, May 1, 2023    
+* Student Team Member Application Deadline/Close:  April 21, 2023
+* Student Team Member Application Opens: April 1, 2023. [Apply Here]](https://na.eventscloud.com/ereg/inactive.php?eventid=746928)
+
+[Back to Top](#top)
+<hr>
+    
 
 ## SCC24 References, Links, and Information<a name="refs"></a>
 
