@@ -4,7 +4,7 @@
 
 | **Photo** | **Name**  | **About**  |
 | ---- | :----- | :---- |
-|  <img src="" width="100" /> | Name (Team Lead) | About |
+|  <img src="images/Triton-Cache-v1-logo.png" width="100" /> | Name (Team Lead) | About |
 |  <img src="" width="100" /> | STUDENT_NAME   | About |
 |  <img src="" width="100" /> | STUDENT_NAME   | About |
 |  <img src="" width="100" /> | STUDENT_NAME   | About |
