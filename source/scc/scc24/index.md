@@ -5,7 +5,6 @@ title:  2024 Student Cluster Competition
 ## The SDSC/UCSD 2024 Student Cluster Competition Program  
 ![Triton Cache](/source/images/Triton-Cache-v1-logo.png)
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 
 Watch this page for news and updates about the SCC24 team.
