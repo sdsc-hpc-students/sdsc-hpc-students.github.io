@@ -8,21 +8,10 @@ HPC Training interns will work closely with the SDSC Staff and the HPC Training 
 
 Note: SDSC offers both paid and unpaid student internship positions. Some are listed on Handshake. More info on Handshake can be found on TritonLlink.  In addition, more information can be found on the pages:
 <ul>
-<li>HPC/CI Students: see https://hpc-students.sdsc.edu/internships/</li>
+<li>HPC/CI Students: see [https://hpc-students.sdsc.edu/internships/</li>
 <li>SDSC Research Data Services Summer Internship Program:  https://sdsc-ucsd.atlassian.net/wiki/spaces</li>
 <li>CAIDA Research Students: https://www.caida.org/research/student-projects/</li>
 <li>UC San Diego’s Mentor Assistance Program (MAP): https://education.sdsc.edu/studenttech/ucsd-mentor-assistance-program-2021-2022</li>
-</ul>
-
-
-<h3>Internship Opening (2/1/2024):</h3>  
-<ul>
-<li>Interactive Video Developer Internship:</li>
-   <ul>
-   <li> Support HPC Training activities working on maintaining and developing the Interactive Videos website: https://education.sdsc.edu/training/interactive/  </li>
-   <li> Internship start/end dates: 3/1/23 - 5/31/2024, potential for Summer and Fall position
-   <li>Skills needed include working with Apache, Python, YouTube videos, databaseis, metadata searching, JSON, other web techs</li>
-   <li>Helpful to have experience with Neo4J and knowledge graphs, and basics of AI/LM, LLMs
 </ul>
 
 
