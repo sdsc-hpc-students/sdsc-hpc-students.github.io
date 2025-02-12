@@ -6,7 +6,7 @@ title: SDSC HPC/CI Student Internships
 <h3>HPC/CI Interships: </h3>
 HPC Training interns will work closely with the SDSC Staff and the HPC Training Working Group to help develop training materials. The intern will work on the development of HPC training materials, which may include: test and maintain Jupyter notebooks that run on Expanse and other HPC systems; maintain and develop GitHub repositories to manage training material; integrate training events into training repo/archives; develop scripts to automate creation of training and interactive video pages; create interactive training pages for all events; develop scripts to gather training metrics data; and develop and test other related applications, technologies or web pages.
 
-Note: SDSC offers both paid and unpaid student internship positions. Some are listed on Handshake. More info on Handshake can be found on TritonLlink.  In addition, more information can be found on the pages:   https://hpc-students.sdsc.edu/internships/
+Note: SDSC offers both paid and unpaid student internship positions. Some are listed on Handshake. More info on Handshake can be found on TritonLlink.  In addition, more information can be found on the pages:   https://www.sdsc.edu/education/internships.html
 
 
 <h3>Internship Opportunity Examples:</h3>  
@@ -43,9 +43,6 @@ Will depend on current projects and the skills and interests of the applicant. S
 <li>Must be able to communicate effectively and work on teams both local and remote.</li>
 <li>Have paid UCSD Fall 2023 student services fees or Readmit to work during summer</li>
 </ul>
-
-<h4>For more information please contact:</h4>
-Mary Thomas (mpthomas at ucsd.edu)
 
 </td>
 </tr>
