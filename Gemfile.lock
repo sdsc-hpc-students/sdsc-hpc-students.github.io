@@ -278,6 +278,7 @@ DEPENDENCIES
   observer
   ostruct
   terser
+  webrick
 
 BUNDLED WITH
    2.6.2
