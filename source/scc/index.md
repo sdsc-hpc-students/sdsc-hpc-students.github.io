@@ -23,6 +23,8 @@ The SCC was developed in 2007 to immerse undergraduate and high school students 
 
 Since 2019, the San Diego Supercomputer Center (SDSC) and UC San Diego (UCSD) have sent teams to SCC, and we hope to continue the tradition. The SC Club has many activities that help train and prepare our teams. Our SCC20, SCC21, and SCC22 teams finished 4th overall, in 2022 the team won the HPL Benchmark, and in 2023, the team placed 3rd overall, and co-won the MLPerf benchmark. The team members had a great experience each time, even though the competitions were virtual. See below links for team bio’s and event details. This year, we are planning to submit an application to SCC24.
 
+-   Checkout our SCC25 activities [here](scc25).
+-   Checkout our SCC24 activities [here](scc24).
 -   Checkout our SCC23 activities [here](scc23).
 -   Checkout our SCC22 activities [here](scc22).
 -   Checkout our SCC21 activities [here](scc21).
