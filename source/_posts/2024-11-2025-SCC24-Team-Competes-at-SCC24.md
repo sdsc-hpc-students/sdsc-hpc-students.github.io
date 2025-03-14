@@ -6,7 +6,7 @@ tags:
     - SC24
     - HPC
     - IEEE Supercomputing Club
-date: 2024-06-18
+date: 2024-12-01
 ---
 
 <h3>SDSC/UCSD Team Competes at SCC24 in Atlanta, GA!</h3>
