@@ -18,6 +18,7 @@ title: Student Cluster Competition
 
 # About the Student Cluster Competition
 
+
 SDSC supports many student activities, including the [Student Cluster Competition (SCC)](http://www.studentclustercompetition.us/) held at the annual [Supercomputing](https://supercomputing.org/) meeting.
 The SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing. The SCC teams consist of a mentor plus 6 students who will design and build a small cluster with support from mentors and hardware and software vendor partners. They will learn designated scientific applications and apply optimization techniques for their chosen architectures. SCC teams compete against teams from around the world, in a non-stop 48-hour challenge to complete a real-world scientific workload, while keeping the cluster up and running, and demonstrating to the judges their HPC skills and knowledge.  Acceptance to the SC competition is competitive and requires intense preparation and skill development. This year, SCC will be held at the annual Supercomputing conference [SC23](https://sc23.supercomputing.org/students/student-cluster-competition/) in Denver, CO, November 12 – 17, 2023.
 
