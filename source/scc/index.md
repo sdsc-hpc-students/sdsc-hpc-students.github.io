@@ -1,6 +1,7 @@
 ---
 title: Student Cluster Competition
 ---
+### Checkout our SCC25 activities [here](scc25) 
 ### Checkout our SCC24 activities [here](scc24) 
 
 <br/>
