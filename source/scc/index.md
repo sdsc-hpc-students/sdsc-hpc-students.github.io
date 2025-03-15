@@ -8,7 +8,7 @@ title: Student Cluster Competition
 
 | DATE | NEWS ITEM |
 | ----- | ---- |
-| 12/01/2024 | [2024-11-16-SCC24-Team-Competes-at-SCC24.md](https://hpc-students.sdsc.edu/2024-11-16-SCC24-Team-Competes-at-SCC24/) |
+| 12/01/2024 | [2024-12-01-SCC24-Team-Competes-at-SCC24.md](https://hpc-students.sdsc.edu/2024-12/01-SCC24-Team-Competes-at-SCC24/) |
 | 06/15/2024 | [UCSD/SDSC 2024 team  selected to particpate in the annual Student Cluster Competition! ](https://hpc-students.sdsc.edu/2024-06-15-SDSC-UCSD-Team-Selected-for-SCC24/) |
 | 01/30/2024 | [UC San Diego Students Win MLPerf Contest at 2023 Supercomputing Conference](https://hpc-students.sdsc.edu/2024-01-20-UC-San-Diego-Students-Win-MLPerf-Contest-at-SCC23) |
 | 06/15/2023 | [UCSD/SDSC 2023 team  selected to particpate in the annual Student Cluster Competition! ](https://hpc-students.sdsc.edu/2023-06-15-SDSC-UCSD-Team-Selected-for-SCC23/) |
