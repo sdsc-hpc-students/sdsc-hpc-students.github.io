@@ -2,6 +2,7 @@
 title:  2025 Student Cluster Competition
 ---
 
+## The SDSC/UCSD 2025 Student Cluster Competition Program
 
 
 Watch this page for news and updates about the SCC25 team.
