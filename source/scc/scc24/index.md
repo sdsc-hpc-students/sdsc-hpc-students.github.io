@@ -10,6 +10,7 @@ title:  2024 Student Cluster Competition
 Watch this page for news and updates about the SCC24 team.
 | DATE | NEWS ITEM |
 | ----- | ---- |
+| 11/16/2024  |[SDSC/UCSD Team Competes at SCC24 in Atlanta, GA!](https://hpc-students.sdsc.edu/2024-11-16-SCC24-Team-Competes-at-SCC24.md)
 | 06/15/2024 | [UCSD/SDSC 2024 team  selected to particpate in the annual Student Cluster Competition! ](https://hpc-students.sdsc.edu/2024-06-15-SDSC-UCSD-Team-Selected-for-SCC24/) |
 <br/>
 
