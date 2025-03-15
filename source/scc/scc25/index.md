@@ -9,6 +9,7 @@ Watch this page for news and updates about the SCC25 team.
 | DATE | NEWS ITEM |
 | ----- | ---- |
 |  tbd |  tbd |
+
 <br/>
 
 <!-----
@@ -37,8 +38,7 @@ For more information about the team, see our [team page](scc25TeamInfo).
 ## Apply to Join the SDSC/UCSD SCC Team<a name="apply"></a>
 
 ### Timeline:
-* Student Team Member Application Opens: March 17, 2025. [Apply Here]([https://na.eventscloud.com/ereg/inactive.php?eventid=746928](https://na.eventscloud.com/ereg/newreg.php?eventid=836131)
-  * note: actual link:  https://na.eventscloud.com/ereg/newreg.php?eventid=836131
+* Student Team Member Application Opens: March 17, 2025. [Apply Here](https://na.eventscloud.com/ereg/newreg.php?eventid=836131)
 * Student Team Member Application Deadline: Sunday, April 20, 2025
 * Student Team Member Application Notification:Monday, April 28, 2025    
 * Student Applicant Invite Confirmation: Wednesday, April 30, 2025
