@@ -2,24 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# SDSC HPC Students Projects
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The [SDSC HPC Students Program](https://www.sdsc.edu/education_and_training/hpc_students.html) is designed to foster the next generation of a High-Performance Computing workforce that focuses on educating and training students. It is designed to engage students from high school to grad school about all things HPC (from programming to building clusters), to motivate them to pursue HPC careers, and to serve as bridge between students and HPC-related development, research and researchers. Want to learn more? Join the [IEEE Supercomputing Club](https://supercomputing-club.sdsc.edu). Want to get more experience? Check out our [HPC Students Internship Program](https://hpc-students.sdsc.edu/internships/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Current Projects & Activities:
+---
+### SDSC Students@Supercomputing
+One of the largest technical meetings in HPC in the world is the annual Supercomputing Conference ([https://supercomputing.org](https://supercomputing.org)). SC is where experts in High-Performance Computing (HPC) meet. HPC spans many scientific computing domains including Math, Physics, Biology, and Data and Environmental Sciences. SDSC sponsors qualified student applications for all student programs, including: Student Volunteers; the Student Cluster Competition team; and the #HPCImmersion Program.
+
+### [Student Cluster Competition:](scc)
+
+The SCC was developed in 2007 to immerse undergraduate and high school students in high performance computing. The SCC teams consist of a mentor plus 6 students who will design and build a small cluster, and learn to run scientific applications on their systems. At SCC, teams compete against teams from around the world, in a non-stop 48-hour challenge to complete a real-world scientific workload, while keeping the cluster up and running, and demonstrating to the judges their HPC skills and knowledge. Acceptance to the SC competition is competitive and requires intense preparation and skill development.
+Since 2019, the San Diego Supercomputer Center (SDSC) and UC San Diego (UCSD) have sent teams to SCC, and we hope to continue the tradition. See our SCC pages for more information. For more information, see our SCC pages here: [https://hpc-students.sdsc.edu/scc/](https://hpc-students.sdsc.edu/scc/).
+
+###  [IEEE Supercomputing Club Projects](https://supercomputing-club.sdsc.edu)
+- [Single Board Cluster Competition]([projects/sbcc](https://supercomputing-club.sdsc.edu/projects/)): Students build small clusters using single board computers.
+- [Raspberry PI Cluster build-out Project:](https://supercomputing-club.sdsc.edu/projects)
+- [FPGA Network Interface Card](https://supercomputing-club.sdsc.edu/projects/)
+- [SCC24 preparation and planning](https://supercomputing-club.sdsc.edu): contact the club at ucsdsupercomputing @ gmail.com
+
+
+### [SDSC/UCSD Co-Curricular Records Program:](ccr-program)
+
+The HPC Students Program has been working with the UCSD Co-Curricular Record team to create a system where SDSC staff and researchers can grant Co-Curricular Record credit to their students.

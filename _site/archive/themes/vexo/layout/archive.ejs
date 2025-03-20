@@ -1,0 +1,16 @@
+<main class="app-body" id="archives">
+    <h1 id="archive-title">Archives</h1>
+    <% let years = {}; %> <% site.posts.each(post => { if (post.title ===
+    "Index") return; const y = post.date.year(); if (!years[y]) { years[y] = [];
+    } years[y].push(post); }) %> <% for (let year of
+    Object.keys(years).reverse()) { %> <%- partial('_partial/archive', { year:
+    year, posts: years[year] }) %> <% } %>
+</main>
+
+<script>
+    (function () {
+        var url = "<%= config.url %>/<%= page.path %>";
+        $("#article-banner").geopattern(url);
+        $(".header").removeClass("fixed-header");
+    })();
+</script>
