@@ -8,7 +8,8 @@ title:  2025 Student Cluster Competition
 Watch this page for news and updates about the SCC25 team.
 | DATE | NEWS ITEM |
 | ----- | ---- |
-|  March 17, 2025 |  Student Team Member Application Opens: March 17, 2025. [Apply Here](https://na.eventscloud.com/ereg/newreg.php?eventid=836131) |
+| 06/15/2025 | [2025-06-15-SDSC-UCSD-Team-Selected-for-SCC25.md](https://hpc-students.sdsc.edu/2025-06-15-SDSC-UCSD-Team-Selected-for-SCC25.md) |
+| 03/17/2025 |  Student Team Member Application Opens: March 17, 2025. [Apply Here](https://na.eventscloud.com/ereg/newreg.php?eventid=836131) |
 
 <br/>
 
